@@ -1,0 +1,12886 @@
+[
+  {
+    "name": "Aleutians East Borough",
+    "state": "AK"
+  },
+  {
+    "name": "Aleutians West Census Area",
+    "state": "AK"
+  },
+  {
+    "name": "Panola County",
+    "state": "MS"
+  },
+  {
+    "name": "Newton County",
+    "state": "MS"
+  },
+  {
+    "name": "Coahoma County",
+    "state": "MS"
+  },
+  {
+    "name": "Madison Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Charlottesville city",
+    "state": "VA"
+  },
+  {
+    "name": "Alexandria city",
+    "state": "VA"
+  },
+  {
+    "name": "Buena Vista city",
+    "state": "VA"
+  },
+  {
+    "name": "Fairfax city",
+    "state": "VA"
+  },
+  {
+    "name": "Dallas County",
+    "state": "TX"
+  },
+  {
+    "name": "Howard County",
+    "state": "TX"
+  },
+  {
+    "name": "Foard County",
+    "state": "TX"
+  },
+  {
+    "name": "Floyd County",
+    "state": "TX"
+  },
+  {
+    "name": "Brewster County",
+    "state": "TX"
+  },
+  {
+    "name": "Franklin County",
+    "state": "TX"
+  },
+  {
+    "name": "Hunt County",
+    "state": "TX"
+  },
+  {
+    "name": "Newton County",
+    "state": "TX"
+  },
+  {
+    "name": "Starr County",
+    "state": "TX"
+  },
+  {
+    "name": "Kinney County",
+    "state": "TX"
+  },
+  {
+    "name": "Collingsworth County",
+    "state": "TX"
+  },
+  {
+    "name": "Tom Green County",
+    "state": "TX"
+  },
+  {
+    "name": "Coleman County",
+    "state": "TX"
+  },
+  {
+    "name": "Brazoria County",
+    "state": "TX"
+  },
+  {
+    "name": "Leon County",
+    "state": "TX"
+  },
+  {
+    "name": "Duval County",
+    "state": "TX"
+  },
+  {
+    "name": "Lamb County",
+    "state": "TX"
+  },
+  {
+    "name": "Morris County",
+    "state": "TX"
+  },
+  {
+    "name": "Smith County",
+    "state": "TX"
+  },
+  {
+    "name": "Jackson County",
+    "state": "TX"
+  },
+  {
+    "name": "Medina County",
+    "state": "TX"
+  },
+  {
+    "name": "Wheeler County",
+    "state": "TX"
+  },
+  {
+    "name": "Dallam County",
+    "state": "TX"
+  },
+  {
+    "name": "Callahan County",
+    "state": "TX"
+  },
+  {
+    "name": "Lamar County",
+    "state": "TX"
+  },
+  {
+    "name": "Coryell County",
+    "state": "TX"
+  },
+  {
+    "name": "Gaines County",
+    "state": "TX"
+  },
+  {
+    "name": "Kendall County",
+    "state": "TX"
+  },
+  {
+    "name": "Nacogdoches County",
+    "state": "TX"
+  },
+  {
+    "name": "Milam County",
+    "state": "TX"
+  },
+  {
+    "name": "Hays County",
+    "state": "TX"
+  },
+  {
+    "name": "Willacy County",
+    "state": "TX"
+  },
+  {
+    "name": "Hudson County",
+    "state": "NJ"
+  },
+  {
+    "name": "Cumberland County",
+    "state": "NJ"
+  },
+  {
+    "name": "Penobscot County",
+    "state": "ME"
+  },
+  {
+    "name": "Essex County",
+    "state": "VT"
+  },
+  {
+    "name": "Franklin County",
+    "state": "VT"
+  },
+  {
+    "name": "Albany County",
+    "state": "WY"
+  },
+  {
+    "name": "Goshen County",
+    "state": "WY"
+  },
+  {
+    "name": "Weston County",
+    "state": "WY"
+  },
+  {
+    "name": "Hot Springs County",
+    "state": "WY"
+  },
+  {
+    "name": "Teton County",
+    "state": "WY"
+  },
+  {
+    "name": "Big Horn County",
+    "state": "WY"
+  },
+  {
+    "name": "Niobrara County",
+    "state": "WY"
+  },
+  {
+    "name": "Sheridan County",
+    "state": "WY"
+  },
+  {
+    "name": "Washakie County",
+    "state": "WY"
+  },
+  {
+    "name": "Campbell County",
+    "state": "WY"
+  },
+  {
+    "name": "Natrona County",
+    "state": "WY"
+  },
+  {
+    "name": "Caledonia County",
+    "state": "VT"
+  },
+  {
+    "name": "Platte County",
+    "state": "WY"
+  },
+  {
+    "name": "Converse County",
+    "state": "WY"
+  },
+  {
+    "name": "Crook County",
+    "state": "WY"
+  },
+  {
+    "name": "Addison County",
+    "state": "VT"
+  },
+  {
+    "name": "Johnson County",
+    "state": "WY"
+  },
+  {
+    "name": "Laramie County",
+    "state": "WY"
+  },
+  {
+    "name": "Rutland County",
+    "state": "VT"
+  },
+  {
+    "name": "Windham County",
+    "state": "VT"
+  },
+  {
+    "name": "Park County",
+    "state": "WY"
+  },
+  {
+    "name": "Windsor County",
+    "state": "VT"
+  },
+  {
+    "name": "Washington County",
+    "state": "VT"
+  },
+  {
+    "name": "Grand Isle County",
+    "state": "VT"
+  },
+  {
+    "name": "Lamoille County",
+    "state": "VT"
+  },
+  {
+    "name": "Jefferson County",
+    "state": "MO"
+  },
+  {
+    "name": "Grundy County",
+    "state": "MO"
+  },
+  {
+    "name": "St. Louis city",
+    "state": "MO"
+  },
+  {
+    "name": "Iron County",
+    "state": "MO"
+  },
+  {
+    "name": "St. Clair County",
+    "state": "MO"
+  },
+  {
+    "name": "Cass County",
+    "state": "MO"
+  },
+  {
+    "name": "Wright County",
+    "state": "MO"
+  },
+  {
+    "name": "Ozark County",
+    "state": "MO"
+  },
+  {
+    "name": "Henry County",
+    "state": "MO"
+  },
+  {
+    "name": "Brown County",
+    "state": "IL"
+  },
+  {
+    "name": "Crawford County",
+    "state": "IL"
+  },
+  {
+    "name": "Jo Daviess County",
+    "state": "IL"
+  },
+  {
+    "name": "Hamilton County",
+    "state": "IL"
+  },
+  {
+    "name": "McDonough County",
+    "state": "IL"
+  },
+  {
+    "name": "Montgomery County",
+    "state": "IL"
+  },
+  {
+    "name": "Douglas County",
+    "state": "IL"
+  },
+  {
+    "name": "Union County",
+    "state": "IL"
+  },
+  {
+    "name": "Macon County",
+    "state": "IL"
+  },
+  {
+    "name": "Winnebago County",
+    "state": "IL"
+  },
+  {
+    "name": "Monroe County",
+    "state": "IL"
+  },
+  {
+    "name": "Menard County",
+    "state": "IL"
+  },
+  {
+    "name": "Jersey County",
+    "state": "IL"
+  },
+  {
+    "name": "Scott County",
+    "state": "IL"
+  },
+  {
+    "name": "Mercer County",
+    "state": "IL"
+  },
+  {
+    "name": "Edwards County",
+    "state": "IL"
+  },
+  {
+    "name": "Cumberland County",
+    "state": "IL"
+  },
+  {
+    "name": "Will County",
+    "state": "IL"
+  },
+  {
+    "name": "Orange County",
+    "state": "CA"
+  },
+  {
+    "name": "Tehama County",
+    "state": "CA"
+  },
+  {
+    "name": "Colusa County",
+    "state": "CA"
+  },
+  {
+    "name": "Santa Barbara County",
+    "state": "CA"
+  },
+  {
+    "name": "Mono County",
+    "state": "CA"
+  },
+  {
+    "name": "Monterey County",
+    "state": "CA"
+  },
+  {
+    "name": "Box Elder County",
+    "state": "UT"
+  },
+  {
+    "name": "Placer County",
+    "state": "CA"
+  },
+  {
+    "name": "Amador County",
+    "state": "CA"
+  },
+  {
+    "name": "Calaveras County",
+    "state": "CA"
+  },
+  {
+    "name": "Imperial County",
+    "state": "CA"
+  },
+  {
+    "name": "Franklin County",
+    "state": "NC"
+  },
+  {
+    "name": "Carteret County",
+    "state": "NC"
+  },
+  {
+    "name": "Davidson County",
+    "state": "NC"
+  },
+  {
+    "name": "Cambria County",
+    "state": "PA"
+  },
+  {
+    "name": "Sampson County",
+    "state": "NC"
+  },
+  {
+    "name": "Johnston County",
+    "state": "NC"
+  },
+  {
+    "name": "Caldwell County",
+    "state": "NC"
+  },
+  {
+    "name": "Allegheny County",
+    "state": "PA"
+  },
+  {
+    "name": "Richmond County",
+    "state": "NC"
+  },
+  {
+    "name": "Montgomery County",
+    "state": "NC"
+  },
+  {
+    "name": "Union County",
+    "state": "NC"
+  },
+  {
+    "name": "Cumberland County",
+    "state": "NC"
+  },
+  {
+    "name": "Adams County",
+    "state": "PA"
+  },
+  {
+    "name": "Huntingdon County",
+    "state": "PA"
+  },
+  {
+    "name": "Burke County",
+    "state": "NC"
+  },
+  {
+    "name": "Iredell County",
+    "state": "NC"
+  },
+  {
+    "name": "Durham County",
+    "state": "NC"
+  },
+  {
+    "name": "Crawford County",
+    "state": "PA"
+  },
+  {
+    "name": "Delaware County",
+    "state": "PA"
+  },
+  {
+    "name": "Greene County",
+    "state": "NC"
+  },
+  {
+    "name": "Clinton County",
+    "state": "PA"
+  },
+  {
+    "name": "Perquimans County",
+    "state": "NC"
+  },
+  {
+    "name": "Halifax County",
+    "state": "NC"
+  },
+  {
+    "name": "Chatham County",
+    "state": "NC"
+  },
+  {
+    "name": "Surry County",
+    "state": "NC"
+  },
+  {
+    "name": "Lawrence County",
+    "state": "PA"
+  },
+  {
+    "name": "Montour County",
+    "state": "PA"
+  },
+  {
+    "name": "Robeson County",
+    "state": "NC"
+  },
+  {
+    "name": "Mitchell County",
+    "state": "NC"
+  },
+  {
+    "name": "Tioga County",
+    "state": "PA"
+  },
+  {
+    "name": "Bedford County",
+    "state": "PA"
+  },
+  {
+    "name": "Beaufort County",
+    "state": "NC"
+  },
+  {
+    "name": "Monroe County",
+    "state": "PA"
+  },
+  {
+    "name": "Wyoming County",
+    "state": "PA"
+  },
+  {
+    "name": "Nash County",
+    "state": "NC"
+  },
+  {
+    "name": "McKean County",
+    "state": "PA"
+  },
+  {
+    "name": "York County",
+    "state": "PA"
+  },
+  {
+    "name": "Erie County",
+    "state": "PA"
+  },
+  {
+    "name": "Forsyth County",
+    "state": "NC"
+  },
+  {
+    "name": "Fayette County",
+    "state": "PA"
+  },
+  {
+    "name": "Perry County",
+    "state": "PA"
+  },
+  {
+    "name": "Mercer County",
+    "state": "PA"
+  },
+  {
+    "name": "Clearfield County",
+    "state": "PA"
+  },
+  {
+    "name": "Franklin County",
+    "state": "OH"
+  },
+  {
+    "name": "Lenoir County",
+    "state": "NC"
+  },
+  {
+    "name": "Columbia County",
+    "state": "PA"
+  },
+  {
+    "name": "Greene County",
+    "state": "PA"
+  },
+  {
+    "name": "Forest County",
+    "state": "PA"
+  },
+  {
+    "name": "Mecklenburg County",
+    "state": "NC"
+  },
+  {
+    "name": "Henderson County",
+    "state": "NC"
+  },
+  {
+    "name": "Guilford County",
+    "state": "NC"
+  },
+  {
+    "name": "Bucks County",
+    "state": "PA"
+  },
+  {
+    "name": "Madison County",
+    "state": "NY"
+  },
+  {
+    "name": "Berks County",
+    "state": "PA"
+  },
+  {
+    "name": "Southeast Fairbanks Census Area",
+    "state": "AK"
+  },
+  {
+    "name": "Dillingham Census Area",
+    "state": "AK"
+  },
+  {
+    "name": "Lake and Peninsula Borough",
+    "state": "AK"
+  },
+  {
+    "name": "North Slope Borough",
+    "state": "AK"
+  },
+  {
+    "name": "Hoonah-Angoon Census Area",
+    "state": "AK"
+  },
+  {
+    "name": "Kodiak Island Borough",
+    "state": "AK"
+  },
+  {
+    "name": "Skagway Municipality",
+    "state": "AK"
+  },
+  {
+    "name": "Northwest Arctic Borough",
+    "state": "AK"
+  },
+  {
+    "name": "Ketchikan Gateway Borough",
+    "state": "AK"
+  },
+  {
+    "name": "Wade Hampton Census Area",
+    "state": "AK"
+  },
+  {
+    "name": "Union County",
+    "state": "MS"
+  },
+  {
+    "name": "Humphreys County",
+    "state": "MS"
+  },
+  {
+    "name": "Tishomingo County",
+    "state": "MS"
+  },
+  {
+    "name": "Lowndes County",
+    "state": "MS"
+  },
+  {
+    "name": "St. Charles Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Ouachita Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Assumption Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Claiborne Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Calcasieu Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Acadia Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Rapides Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Winn Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Caldwell Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Concordia Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Falls Church city",
+    "state": "VA"
+  },
+  {
+    "name": "Tazewell County",
+    "state": "VA"
+  },
+  {
+    "name": "Manassas city",
+    "state": "VA"
+  },
+  {
+    "name": "Waynesboro city",
+    "state": "VA"
+  },
+  {
+    "name": "Staunton city",
+    "state": "VA"
+  },
+  {
+    "name": "Sussex County",
+    "state": "VA"
+  },
+  {
+    "name": "Shenandoah County",
+    "state": "VA"
+  },
+  {
+    "name": "Radford city",
+    "state": "VA"
+  },
+  {
+    "name": "Johnson County",
+    "state": "TX"
+  },
+  {
+    "name": "Reagan County",
+    "state": "TX"
+  },
+  {
+    "name": "Webb County",
+    "state": "TX"
+  },
+  {
+    "name": "Shackelford County",
+    "state": "TX"
+  },
+  {
+    "name": "Bowie County",
+    "state": "TX"
+  },
+  {
+    "name": "Scurry County",
+    "state": "TX"
+  },
+  {
+    "name": "Kenedy County",
+    "state": "TX"
+  },
+  {
+    "name": "Somervell County",
+    "state": "TX"
+  },
+  {
+    "name": "Oldham County",
+    "state": "TX"
+  },
+  {
+    "name": "Taylor County",
+    "state": "TX"
+  },
+  {
+    "name": "King County",
+    "state": "TX"
+  },
+  {
+    "name": "Borden County",
+    "state": "TX"
+  },
+  {
+    "name": "Walker County",
+    "state": "TX"
+  },
+  {
+    "name": "Stephens County",
+    "state": "TX"
+  },
+  {
+    "name": "Deaf Smith County",
+    "state": "TX"
+  },
+  {
+    "name": "Roberts County",
+    "state": "TX"
+  },
+  {
+    "name": "Tyler County",
+    "state": "TX"
+  },
+  {
+    "name": "Val Verde County",
+    "state": "TX"
+  },
+  {
+    "name": "Brown County",
+    "state": "TX"
+  },
+  {
+    "name": "Parker County",
+    "state": "TX"
+  },
+  {
+    "name": "Harris County",
+    "state": "TX"
+  },
+  {
+    "name": "Zapata County",
+    "state": "TX"
+  },
+  {
+    "name": "Red River County",
+    "state": "TX"
+  },
+  {
+    "name": "Karnes County",
+    "state": "TX"
+  },
+  {
+    "name": "Palo Pinto County",
+    "state": "TX"
+  },
+  {
+    "name": "Glasscock County",
+    "state": "TX"
+  },
+  {
+    "name": "Shelby County",
+    "state": "TX"
+  },
+  {
+    "name": "Wood County",
+    "state": "TX"
+  },
+  {
+    "name": "Mercer County",
+    "state": "NJ"
+  },
+  {
+    "name": "Camden County",
+    "state": "NJ"
+  },
+  {
+    "name": "Passaic County",
+    "state": "NJ"
+  },
+  {
+    "name": "Pima County",
+    "state": "AZ"
+  },
+  {
+    "name": "Navajo County",
+    "state": "AZ"
+  },
+  {
+    "name": "La Paz County",
+    "state": "AZ"
+  },
+  {
+    "name": "Washington County",
+    "state": "ME"
+  },
+  {
+    "name": "Harding County",
+    "state": "NM"
+  },
+  {
+    "name": "Sierra County",
+    "state": "NM"
+  },
+  {
+    "name": "Lea County",
+    "state": "NM"
+  },
+  {
+    "name": "Lincoln County",
+    "state": "WY"
+  },
+  {
+    "name": "Guadalupe County",
+    "state": "NM"
+  },
+  {
+    "name": "Sweetwater County",
+    "state": "WY"
+  },
+  {
+    "name": "Torrance County",
+    "state": "NM"
+  },
+  {
+    "name": "Aroostook County",
+    "state": "ME"
+  },
+  {
+    "name": "Uinta County",
+    "state": "WY"
+  },
+  {
+    "name": "Sublette County",
+    "state": "WY"
+  },
+  {
+    "name": "Grant County",
+    "state": "NM"
+  },
+  {
+    "name": "Otero County",
+    "state": "NM"
+  },
+  {
+    "name": "San Juan County",
+    "state": "NM"
+  },
+  {
+    "name": "Carbon County",
+    "state": "WY"
+  },
+  {
+    "name": "Roosevelt County",
+    "state": "NM"
+  },
+  {
+    "name": "Curry County",
+    "state": "NM"
+  },
+  {
+    "name": "Taos County",
+    "state": "NM"
+  },
+  {
+    "name": "Hidalgo County",
+    "state": "NM"
+  },
+  {
+    "name": "Eddy County",
+    "state": "NM"
+  },
+  {
+    "name": "De Baca County",
+    "state": "NM"
+  },
+  {
+    "name": "Cibola County",
+    "state": "NM"
+  },
+  {
+    "name": "Quay County",
+    "state": "NM"
+  },
+  {
+    "name": "Colfax County",
+    "state": "NM"
+  },
+  {
+    "name": "Los Alamos County",
+    "state": "NM"
+  },
+  {
+    "name": "Bernalillo County",
+    "state": "NM"
+  },
+  {
+    "name": "Hancock County",
+    "state": "ME"
+  },
+  {
+    "name": "Fremont County",
+    "state": "WY"
+  },
+  {
+    "name": "Franklin County",
+    "state": "MO"
+  },
+  {
+    "name": "Kent County",
+    "state": "MD"
+  },
+  {
+    "name": "Kent County",
+    "state": "RI"
+  },
+  {
+    "name": "Charles County",
+    "state": "MD"
+  },
+  {
+    "name": "Caroline County",
+    "state": "MD"
+  },
+  {
+    "name": "Morgan County",
+    "state": "MO"
+  },
+  {
+    "name": "Washington County",
+    "state": "RI"
+  },
+  {
+    "name": "Bristol County",
+    "state": "RI"
+  },
+  {
+    "name": "Monroe County",
+    "state": "MO"
+  },
+  {
+    "name": "Texas County",
+    "state": "MO"
+  },
+  {
+    "name": "Jackson County",
+    "state": "MO"
+  },
+  {
+    "name": "Morrow County",
+    "state": "OR"
+  },
+  {
+    "name": "Yakima County",
+    "state": "WA"
+  },
+  {
+    "name": "Clatsop County",
+    "state": "OR"
+  },
+  {
+    "name": "Benton County",
+    "state": "OR"
+  },
+  {
+    "name": "Hood River County",
+    "state": "OR"
+  },
+  {
+    "name": "Chelan County",
+    "state": "WA"
+  },
+  {
+    "name": "Kitsap County",
+    "state": "WA"
+  },
+  {
+    "name": "Lincoln County",
+    "state": "WA"
+  },
+  {
+    "name": "Peoria County",
+    "state": "IL"
+  },
+  {
+    "name": "Whiteside County",
+    "state": "IL"
+  },
+  {
+    "name": "Bond County",
+    "state": "IL"
+  },
+  {
+    "name": "LaSalle County",
+    "state": "IL"
+  },
+  {
+    "name": "DuPage County",
+    "state": "IL"
+  },
+  {
+    "name": "Kankakee County",
+    "state": "IL"
+  },
+  {
+    "name": "Manat� Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Culebra Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Aguadilla Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Coamo Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Las Mar�as Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Arecibo Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Arroyo Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Fajardo Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Cata�o Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Comer�o Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Camuy Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Guayanilla Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Ponce Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Juncos Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Buffalo County",
+    "state": "WI"
+  },
+  {
+    "name": "Iron County",
+    "state": "WI"
+  },
+  {
+    "name": "Elk County",
+    "state": "PA"
+  },
+  {
+    "name": "Clark County",
+    "state": "WI"
+  },
+  {
+    "name": "Schuylkill County",
+    "state": "PA"
+  },
+  {
+    "name": "Fulton County",
+    "state": "PA"
+  },
+  {
+    "name": "Chester County",
+    "state": "PA"
+  },
+  {
+    "name": "Iowa County",
+    "state": "WI"
+  },
+  {
+    "name": "Venango County",
+    "state": "PA"
+  },
+  {
+    "name": "Sullivan County",
+    "state": "PA"
+  },
+  {
+    "name": "Green Lake County",
+    "state": "WI"
+  },
+  {
+    "name": "Jefferson County",
+    "state": "WI"
+  },
+  {
+    "name": "Calumet County",
+    "state": "WI"
+  },
+  {
+    "name": "Douglas County",
+    "state": "WI"
+  },
+  {
+    "name": "Oconto County",
+    "state": "WI"
+  },
+  {
+    "name": "Kewaunee County",
+    "state": "WI"
+  },
+  {
+    "name": "Juneau County",
+    "state": "WI"
+  },
+  {
+    "name": "Potter County",
+    "state": "PA"
+  },
+  {
+    "name": "La Crosse County",
+    "state": "WI"
+  },
+  {
+    "name": "Oneida County",
+    "state": "WI"
+  },
+  {
+    "name": "Polk County",
+    "state": "WI"
+  },
+  {
+    "name": "Kenosha County",
+    "state": "WI"
+  },
+  {
+    "name": "Pierce County",
+    "state": "WI"
+  },
+  {
+    "name": "Florence County",
+    "state": "WI"
+  },
+  {
+    "name": "Crawford County",
+    "state": "WI"
+  },
+  {
+    "name": "Lycoming County",
+    "state": "PA"
+  },
+  {
+    "name": "Bradford County",
+    "state": "PA"
+  },
+  {
+    "name": "Beaver County",
+    "state": "PA"
+  },
+  {
+    "name": "Blair County",
+    "state": "PA"
+  },
+  {
+    "name": "Lehigh County",
+    "state": "PA"
+  },
+  {
+    "name": "Henry County",
+    "state": "OH"
+  },
+  {
+    "name": "Carbon County",
+    "state": "PA"
+  },
+  {
+    "name": "Mifflin County",
+    "state": "PA"
+  },
+  {
+    "name": "Union County",
+    "state": "PA"
+  },
+  {
+    "name": "Warren County",
+    "state": "PA"
+  },
+  {
+    "name": "Lebanon County",
+    "state": "PA"
+  },
+  {
+    "name": "Washington County",
+    "state": "PA"
+  },
+  {
+    "name": "Lackawanna County",
+    "state": "PA"
+  },
+  {
+    "name": "Dauphin County",
+    "state": "PA"
+  },
+  {
+    "name": "Northumberland County",
+    "state": "PA"
+  },
+  {
+    "name": "Luzerne County",
+    "state": "PA"
+  },
+  {
+    "name": "Philadelphia County",
+    "state": "PA"
+  },
+  {
+    "name": "Montgomery County",
+    "state": "PA"
+  },
+  {
+    "name": "Cumberland County",
+    "state": "PA"
+  },
+  {
+    "name": "Somerset County",
+    "state": "PA"
+  },
+  {
+    "name": "Cameron County",
+    "state": "PA"
+  },
+  {
+    "name": "Franklin County",
+    "state": "PA"
+  },
+  {
+    "name": "Juniata County",
+    "state": "PA"
+  },
+  {
+    "name": "Centre County",
+    "state": "PA"
+  },
+  {
+    "name": "Armstrong County",
+    "state": "PA"
+  },
+  {
+    "name": "Scioto County",
+    "state": "OH"
+  },
+  {
+    "name": "Lancaster County",
+    "state": "PA"
+  },
+  {
+    "name": "Wayne County",
+    "state": "PA"
+  },
+  {
+    "name": "Susquehanna County",
+    "state": "PA"
+  },
+  {
+    "name": "Westmoreland County",
+    "state": "PA"
+  },
+  {
+    "name": "Pike County",
+    "state": "PA"
+  },
+  {
+    "name": "Indiana County",
+    "state": "PA"
+  },
+  {
+    "name": "Clarion County",
+    "state": "PA"
+  },
+  {
+    "name": "Medina County",
+    "state": "OH"
+  },
+  {
+    "name": "Northampton County",
+    "state": "PA"
+  },
+  {
+    "name": "Fairbanks North Star Borough",
+    "state": "AK"
+  },
+  {
+    "name": "Juneau City and Borough",
+    "state": "AK"
+  },
+  {
+    "name": "Nome Census Area",
+    "state": "AK"
+  },
+  {
+    "name": "Prince of Wales-Hyder Census Area",
+    "state": "AK"
+  },
+  {
+    "name": "Sitka City and Borough",
+    "state": "AK"
+  },
+  {
+    "name": "Hinds County",
+    "state": "MS"
+  },
+  {
+    "name": "Sabine Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Red River Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Accomack County",
+    "state": "VA"
+  },
+  {
+    "name": "Gloucester County",
+    "state": "VA"
+  },
+  {
+    "name": "Martinsville city",
+    "state": "VA"
+  },
+  {
+    "name": "Westmoreland County",
+    "state": "VA"
+  },
+  {
+    "name": "Harrisonburg city",
+    "state": "VA"
+  },
+  {
+    "name": "Crosby County",
+    "state": "TX"
+  },
+  {
+    "name": "Refugio County",
+    "state": "TX"
+  },
+  {
+    "name": "Burnet County",
+    "state": "TX"
+  },
+  {
+    "name": "Sterling County",
+    "state": "TX"
+  },
+  {
+    "name": "Montgomery County",
+    "state": "TX"
+  },
+  {
+    "name": "San Augustine County",
+    "state": "TX"
+  },
+  {
+    "name": "Rains County",
+    "state": "TX"
+  },
+  {
+    "name": "Nueces County",
+    "state": "TX"
+  },
+  {
+    "name": "Jack County",
+    "state": "TX"
+  },
+  {
+    "name": "Swisher County",
+    "state": "TX"
+  },
+  {
+    "name": "Camp County",
+    "state": "TX"
+  },
+  {
+    "name": "Brazos County",
+    "state": "TX"
+  },
+  {
+    "name": "Orange County",
+    "state": "TX"
+  },
+  {
+    "name": "Colorado County",
+    "state": "TX"
+  },
+  {
+    "name": "Pecos County",
+    "state": "TX"
+  },
+  {
+    "name": "Cochran County",
+    "state": "TX"
+  },
+  {
+    "name": "Parmer County",
+    "state": "TX"
+  },
+  {
+    "name": "Freestone County",
+    "state": "TX"
+  },
+  {
+    "name": "Winkler County",
+    "state": "TX"
+  },
+  {
+    "name": "Wichita County",
+    "state": "TX"
+  },
+  {
+    "name": "Gray County",
+    "state": "TX"
+  },
+  {
+    "name": "Schleicher County",
+    "state": "TX"
+  },
+  {
+    "name": "Hardeman County",
+    "state": "TX"
+  },
+  {
+    "name": "Emmons County",
+    "state": "ND"
+  },
+  {
+    "name": "Griggs County",
+    "state": "ND"
+  },
+  {
+    "name": "Traill County",
+    "state": "ND"
+  },
+  {
+    "name": "Ocean County",
+    "state": "NJ"
+  },
+  {
+    "name": "Dunn County",
+    "state": "ND"
+  },
+  {
+    "name": "Oliver County",
+    "state": "ND"
+  },
+  {
+    "name": "Slope County",
+    "state": "ND"
+  },
+  {
+    "name": "Grand Forks County",
+    "state": "ND"
+  },
+  {
+    "name": "Hettinger County",
+    "state": "ND"
+  },
+  {
+    "name": "Grant County",
+    "state": "ND"
+  },
+  {
+    "name": "Burke County",
+    "state": "ND"
+  },
+  {
+    "name": "Eddy County",
+    "state": "ND"
+  },
+  {
+    "name": "Ransom County",
+    "state": "ND"
+  },
+  {
+    "name": "Wells County",
+    "state": "ND"
+  },
+  {
+    "name": "Pembina County",
+    "state": "ND"
+  },
+  {
+    "name": "Billings County",
+    "state": "ND"
+  },
+  {
+    "name": "Cavalier County",
+    "state": "ND"
+  },
+  {
+    "name": "Rolette County",
+    "state": "ND"
+  },
+  {
+    "name": "Ramsey County",
+    "state": "ND"
+  },
+  {
+    "name": "Bowman County",
+    "state": "ND"
+  },
+  {
+    "name": "Humboldt County",
+    "state": "NV"
+  },
+  {
+    "name": "Gila County",
+    "state": "AZ"
+  },
+  {
+    "name": "Yuma County",
+    "state": "AZ"
+  },
+  {
+    "name": "Esmeralda County",
+    "state": "NV"
+  },
+  {
+    "name": "Lyon County",
+    "state": "NV"
+  },
+  {
+    "name": "Washoe County",
+    "state": "NV"
+  },
+  {
+    "name": "Yavapai County",
+    "state": "AZ"
+  },
+  {
+    "name": "Mineral County",
+    "state": "NV"
+  },
+  {
+    "name": "Douglas County",
+    "state": "NV"
+  },
+  {
+    "name": "Eureka County",
+    "state": "NV"
+  },
+  {
+    "name": "Lander County",
+    "state": "NV"
+  },
+  {
+    "name": "Pinal County",
+    "state": "AZ"
+  },
+  {
+    "name": "Lincoln County",
+    "state": "NV"
+  },
+  {
+    "name": "White Pine County",
+    "state": "NV"
+  },
+  {
+    "name": "Clark County",
+    "state": "NV"
+  },
+  {
+    "name": "Do�a Ana County",
+    "state": "NM"
+  },
+  {
+    "name": "Chaves County",
+    "state": "NM"
+  },
+  {
+    "name": "Valencia County",
+    "state": "NM"
+  },
+  {
+    "name": "Rio Arriba County",
+    "state": "NM"
+  },
+  {
+    "name": "San Miguel County",
+    "state": "NM"
+  },
+  {
+    "name": "Catron County",
+    "state": "NM"
+  },
+  {
+    "name": "Sandoval County",
+    "state": "NM"
+  },
+  {
+    "name": "Santa Fe County",
+    "state": "NM"
+  },
+  {
+    "name": "Socorro County",
+    "state": "NM"
+  },
+  {
+    "name": "Lincoln County",
+    "state": "NM"
+  },
+  {
+    "name": "McKinley County",
+    "state": "NM"
+  },
+  {
+    "name": "Luna County",
+    "state": "NM"
+  },
+  {
+    "name": "Mora County",
+    "state": "NM"
+  },
+  {
+    "name": "Union County",
+    "state": "NM"
+  },
+  {
+    "name": "Allegany County",
+    "state": "MD"
+  },
+  {
+    "name": "Baltimore city",
+    "state": "MD"
+  },
+  {
+    "name": "Frederick County",
+    "state": "MD"
+  },
+  {
+    "name": "Newport County",
+    "state": "RI"
+  },
+  {
+    "name": "Providence County",
+    "state": "RI"
+  },
+  {
+    "name": "Worcester County",
+    "state": "MD"
+  },
+  {
+    "name": "Polk County",
+    "state": "OR"
+  },
+  {
+    "name": "Lane County",
+    "state": "OR"
+  },
+  {
+    "name": "Wallowa County",
+    "state": "OR"
+  },
+  {
+    "name": "Harney County",
+    "state": "OR"
+  },
+  {
+    "name": "Crook County",
+    "state": "OR"
+  },
+  {
+    "name": "Yamhill County",
+    "state": "OR"
+  },
+  {
+    "name": "Lincoln County",
+    "state": "OR"
+  },
+  {
+    "name": "Umatilla County",
+    "state": "OR"
+  },
+  {
+    "name": "Jackson County",
+    "state": "OR"
+  },
+  {
+    "name": "Curry County",
+    "state": "OR"
+  },
+  {
+    "name": "Tillamook County",
+    "state": "OR"
+  },
+  {
+    "name": "Columbia County",
+    "state": "OR"
+  },
+  {
+    "name": "Coos County",
+    "state": "OR"
+  },
+  {
+    "name": "Multnomah County",
+    "state": "OR"
+  },
+  {
+    "name": "Malheur County",
+    "state": "OR"
+  },
+  {
+    "name": "Douglas County",
+    "state": "OR"
+  },
+  {
+    "name": "Wasco County",
+    "state": "OR"
+  },
+  {
+    "name": "Linn County",
+    "state": "OR"
+  },
+  {
+    "name": "Sherman County",
+    "state": "OR"
+  },
+  {
+    "name": "Jefferson County",
+    "state": "OR"
+  },
+  {
+    "name": "Lake County",
+    "state": "OR"
+  },
+  {
+    "name": "Union County",
+    "state": "OR"
+  },
+  {
+    "name": "Gilliam County",
+    "state": "OR"
+  },
+  {
+    "name": "Marion County",
+    "state": "IL"
+  },
+  {
+    "name": "Massac County",
+    "state": "IL"
+  },
+  {
+    "name": "Champaign County",
+    "state": "IL"
+  },
+  {
+    "name": "Hardin County",
+    "state": "IL"
+  },
+  {
+    "name": "McHenry County",
+    "state": "IL"
+  },
+  {
+    "name": "Pike County",
+    "state": "IL"
+  },
+  {
+    "name": "Effingham County",
+    "state": "IL"
+  },
+  {
+    "name": "Naranjito Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Vega Baja Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Rinc�n Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "San Lorenzo Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Mayag�ez Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Vieques Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Ciales Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Pe�uelas Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Aguas Buenas Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "A�asco Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Quebradillas Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Lajas Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Toa Baja Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Barranquitas Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Santa Isabel Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Salinas Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Luquillo Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Ceiba Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Florida Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Cidra Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Carolina Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Humacao Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Aguada Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Naguabo Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "San Germ�n Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Toa Alta Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Trujillo Alto Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Lo�za Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Guaynabo Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Corozal Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Yabucoa Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Guayama Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Barceloneta Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Villalba Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Lares Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Hatillo Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Isabela Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Can�vanas Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Maunabo Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Siskiyou County",
+    "state": "CA"
+  },
+  {
+    "name": "Sonoma County",
+    "state": "CA"
+  },
+  {
+    "name": "Santa Clara County",
+    "state": "CA"
+  },
+  {
+    "name": "Lanier County",
+    "state": "GA"
+  },
+  {
+    "name": "Bryan County",
+    "state": "GA"
+  },
+  {
+    "name": "Appling County",
+    "state": "GA"
+  },
+  {
+    "name": "Rabun County",
+    "state": "GA"
+  },
+  {
+    "name": "Bleckley County",
+    "state": "GA"
+  },
+  {
+    "name": "Fayette County",
+    "state": "GA"
+  },
+  {
+    "name": "Jefferson County",
+    "state": "GA"
+  },
+  {
+    "name": "Seminole County",
+    "state": "GA"
+  },
+  {
+    "name": "Camden County",
+    "state": "GA"
+  },
+  {
+    "name": "Glynn County",
+    "state": "GA"
+  },
+  {
+    "name": "Polk County",
+    "state": "GA"
+  },
+  {
+    "name": "Morgan County",
+    "state": "GA"
+  },
+  {
+    "name": "Talbot County",
+    "state": "GA"
+  },
+  {
+    "name": "Schley County",
+    "state": "GA"
+  },
+  {
+    "name": "Union County",
+    "state": "GA"
+  },
+  {
+    "name": "Wilcox County",
+    "state": "GA"
+  },
+  {
+    "name": "Ware County",
+    "state": "GA"
+  },
+  {
+    "name": "Clarke County",
+    "state": "GA"
+  },
+  {
+    "name": "Jones County",
+    "state": "GA"
+  },
+  {
+    "name": "Carroll County",
+    "state": "GA"
+  },
+  {
+    "name": "Rockdale County",
+    "state": "GA"
+  },
+  {
+    "name": "Dade County",
+    "state": "GA"
+  },
+  {
+    "name": "Murray County",
+    "state": "GA"
+  },
+  {
+    "name": "Kern County",
+    "state": "CA"
+  },
+  {
+    "name": "Adams County",
+    "state": "WI"
+  },
+  {
+    "name": "Trempealeau County",
+    "state": "WI"
+  },
+  {
+    "name": "Vernon County",
+    "state": "WI"
+  },
+  {
+    "name": "Wood County",
+    "state": "WI"
+  },
+  {
+    "name": "Rusk County",
+    "state": "WI"
+  },
+  {
+    "name": "Waukesha County",
+    "state": "WI"
+  },
+  {
+    "name": "Sawyer County",
+    "state": "WI"
+  },
+  {
+    "name": "Washington County",
+    "state": "WI"
+  },
+  {
+    "name": "Dunn County",
+    "state": "WI"
+  },
+  {
+    "name": "Vilas County",
+    "state": "WI"
+  },
+  {
+    "name": "Langlade County",
+    "state": "WI"
+  },
+  {
+    "name": "Broome County",
+    "state": "NY"
+  },
+  {
+    "name": "Seneca County",
+    "state": "NY"
+  },
+  {
+    "name": "Fond du Lac County",
+    "state": "WI"
+  },
+  {
+    "name": "Eau Claire County",
+    "state": "WI"
+  },
+  {
+    "name": "Racine County",
+    "state": "WI"
+  },
+  {
+    "name": "Schenectady County",
+    "state": "NY"
+  },
+  {
+    "name": "Niagara County",
+    "state": "NY"
+  },
+  {
+    "name": "Taylor County",
+    "state": "WI"
+  },
+  {
+    "name": "Rensselaer County",
+    "state": "NY"
+  },
+  {
+    "name": "Ulster County",
+    "state": "NY"
+  },
+  {
+    "name": "Monroe County",
+    "state": "WI"
+  },
+  {
+    "name": "Richmond County",
+    "state": "NY"
+  },
+  {
+    "name": "Bayfield County",
+    "state": "WI"
+  },
+  {
+    "name": "Oswego County",
+    "state": "NY"
+  },
+  {
+    "name": "Marinette County",
+    "state": "WI"
+  },
+  {
+    "name": "Chippewa County",
+    "state": "WI"
+  },
+  {
+    "name": "Warren County",
+    "state": "NY"
+  },
+  {
+    "name": "Menominee County",
+    "state": "WI"
+  },
+  {
+    "name": "Dane County",
+    "state": "WI"
+  },
+  {
+    "name": "Clinton County",
+    "state": "NY"
+  },
+  {
+    "name": "Waushara County",
+    "state": "WI"
+  },
+  {
+    "name": "Winnebago County",
+    "state": "WI"
+  },
+  {
+    "name": "Pepin County",
+    "state": "WI"
+  },
+  {
+    "name": "Washburn County",
+    "state": "WI"
+  },
+  {
+    "name": "Richland County",
+    "state": "WI"
+  },
+  {
+    "name": "Chautauqua County",
+    "state": "NY"
+  },
+  {
+    "name": "Fulton County",
+    "state": "NY"
+  },
+  {
+    "name": "Monroe County",
+    "state": "NY"
+  },
+  {
+    "name": "Franklin County",
+    "state": "NY"
+  },
+  {
+    "name": "Chemung County",
+    "state": "NY"
+  },
+  {
+    "name": "Jackson County",
+    "state": "WI"
+  },
+  {
+    "name": "Waupaca County",
+    "state": "WI"
+  },
+  {
+    "name": "Green County",
+    "state": "WI"
+  },
+  {
+    "name": "Rock County",
+    "state": "WI"
+  },
+  {
+    "name": "Door County",
+    "state": "WI"
+  },
+  {
+    "name": "Price County",
+    "state": "WI"
+  },
+  {
+    "name": "Burnett County",
+    "state": "WI"
+  },
+  {
+    "name": "Milwaukee County",
+    "state": "WI"
+  },
+  {
+    "name": "Ashland County",
+    "state": "WI"
+  },
+  {
+    "name": "Columbia County",
+    "state": "WI"
+  },
+  {
+    "name": "Sauk County",
+    "state": "WI"
+  },
+  {
+    "name": "Barron County",
+    "state": "WI"
+  },
+  {
+    "name": "Marquette County",
+    "state": "WI"
+  },
+  {
+    "name": "Outagamie County",
+    "state": "WI"
+  },
+  {
+    "name": "Cattaraugus County",
+    "state": "NY"
+  },
+  {
+    "name": "St. Croix County",
+    "state": "WI"
+  },
+  {
+    "name": "Grant County",
+    "state": "WI"
+  },
+  {
+    "name": "Shawano County",
+    "state": "WI"
+  },
+  {
+    "name": "New York County",
+    "state": "NY"
+  },
+  {
+    "name": "Lafayette County",
+    "state": "WI"
+  },
+  {
+    "name": "Brown County",
+    "state": "WI"
+  },
+  {
+    "name": "Sheboygan County",
+    "state": "WI"
+  },
+  {
+    "name": "Manitowoc County",
+    "state": "WI"
+  },
+  {
+    "name": "Ozaukee County",
+    "state": "WI"
+  },
+  {
+    "name": "Portage County",
+    "state": "WI"
+  },
+  {
+    "name": "Herkimer County",
+    "state": "NY"
+  },
+  {
+    "name": "Marathon County",
+    "state": "WI"
+  },
+  {
+    "name": "Walworth County",
+    "state": "WI"
+  },
+  {
+    "name": "Forest County",
+    "state": "WI"
+  },
+  {
+    "name": "Dodge County",
+    "state": "WI"
+  },
+  {
+    "name": "Lincoln County",
+    "state": "WI"
+  },
+  {
+    "name": "Claiborne County",
+    "state": "MS"
+  },
+  {
+    "name": "Issaquena County",
+    "state": "MS"
+  },
+  {
+    "name": "Clarke County",
+    "state": "MS"
+  },
+  {
+    "name": "Petersburg Census Area",
+    "state": "AK"
+  },
+  {
+    "name": "Wrangell City and Borough",
+    "state": "AK"
+  },
+  {
+    "name": "Matanuska-Susitna Borough",
+    "state": "AK"
+  },
+  {
+    "name": "Yukon-Koyukuk Census Area",
+    "state": "AK"
+  },
+  {
+    "name": "Yakutat City and Borough",
+    "state": "AK"
+  },
+  {
+    "name": "Kenai Peninsula Borough",
+    "state": "AK"
+  },
+  {
+    "name": "Valdez-Cordova Census Area",
+    "state": "AK"
+  },
+  {
+    "name": "Walthall County",
+    "state": "MS"
+  },
+  {
+    "name": "Benton County",
+    "state": "MS"
+  },
+  {
+    "name": "Lafayette Parish",
+    "state": "LA"
+  },
+  {
+    "name": "St. James Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Terrebonne Parish",
+    "state": "LA"
+  },
+  {
+    "name": "St. Martin Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Salem city",
+    "state": "VA"
+  },
+  {
+    "name": "Virginia Beach city",
+    "state": "VA"
+  },
+  {
+    "name": "Stafford County",
+    "state": "VA"
+  },
+  {
+    "name": "Travis County",
+    "state": "TX"
+  },
+  {
+    "name": "Gillespie County",
+    "state": "TX"
+  },
+  {
+    "name": "Yoakum County",
+    "state": "TX"
+  },
+  {
+    "name": "Fayette County",
+    "state": "TX"
+  },
+  {
+    "name": "Uvalde County",
+    "state": "TX"
+  },
+  {
+    "name": "Grimes County",
+    "state": "TX"
+  },
+  {
+    "name": "Van Zandt County",
+    "state": "TX"
+  },
+  {
+    "name": "Throckmorton County",
+    "state": "TX"
+  },
+  {
+    "name": "Falls County",
+    "state": "TX"
+  },
+  {
+    "name": "Grayson County",
+    "state": "TX"
+  },
+  {
+    "name": "Ellis County",
+    "state": "TX"
+  },
+  {
+    "name": "Hall County",
+    "state": "TX"
+  },
+  {
+    "name": "Dickens County",
+    "state": "TX"
+  },
+  {
+    "name": "Trinity County",
+    "state": "TX"
+  },
+  {
+    "name": "Reeves County",
+    "state": "TX"
+  },
+  {
+    "name": "Marion County",
+    "state": "TX"
+  },
+  {
+    "name": "Terrell County",
+    "state": "TX"
+  },
+  {
+    "name": "Lynn County",
+    "state": "TX"
+  },
+  {
+    "name": "La Salle County",
+    "state": "TX"
+  },
+  {
+    "name": "Jasper County",
+    "state": "TX"
+  },
+  {
+    "name": "Jones County",
+    "state": "TX"
+  },
+  {
+    "name": "Castro County",
+    "state": "TX"
+  },
+  {
+    "name": "Victoria County",
+    "state": "TX"
+  },
+  {
+    "name": "Kleberg County",
+    "state": "TX"
+  },
+  {
+    "name": "Briscoe County",
+    "state": "TX"
+  },
+  {
+    "name": "Clay County",
+    "state": "TX"
+  },
+  {
+    "name": "Matagorda County",
+    "state": "TX"
+  },
+  {
+    "name": "Brooks County",
+    "state": "TX"
+  },
+  {
+    "name": "Runnels County",
+    "state": "TX"
+  },
+  {
+    "name": "Carson County",
+    "state": "TX"
+  },
+  {
+    "name": "Phillips County",
+    "state": "AR"
+  },
+  {
+    "name": "Poinsett County",
+    "state": "AR"
+  },
+  {
+    "name": "Washington County",
+    "state": "AR"
+  },
+  {
+    "name": "Little River County",
+    "state": "AR"
+  },
+  {
+    "name": "Randolph County",
+    "state": "AR"
+  },
+  {
+    "name": "Baxter County",
+    "state": "AR"
+  },
+  {
+    "name": "Calhoun County",
+    "state": "AR"
+  },
+  {
+    "name": "Perry County",
+    "state": "AR"
+  },
+  {
+    "name": "Columbia County",
+    "state": "AR"
+  },
+  {
+    "name": "Grant County",
+    "state": "AR"
+  },
+  {
+    "name": "Sebastian County",
+    "state": "AR"
+  },
+  {
+    "name": "Lonoke County",
+    "state": "AR"
+  },
+  {
+    "name": "Newton County",
+    "state": "AR"
+  },
+  {
+    "name": "Pike County",
+    "state": "AR"
+  },
+  {
+    "name": "Craighead County",
+    "state": "AR"
+  },
+  {
+    "name": "Lincoln County",
+    "state": "AR"
+  },
+  {
+    "name": "St. Francis County",
+    "state": "AR"
+  },
+  {
+    "name": "Cleburne County",
+    "state": "AR"
+  },
+  {
+    "name": "Chicot County",
+    "state": "AR"
+  },
+  {
+    "name": "Cleveland County",
+    "state": "AR"
+  },
+  {
+    "name": "Carroll County",
+    "state": "AR"
+  },
+  {
+    "name": "Clay County",
+    "state": "AR"
+  },
+  {
+    "name": "Barnes County",
+    "state": "ND"
+  },
+  {
+    "name": "Golden Valley County",
+    "state": "ND"
+  },
+  {
+    "name": "Steele County",
+    "state": "ND"
+  },
+  {
+    "name": "Walsh County",
+    "state": "ND"
+  },
+  {
+    "name": "McIntosh County",
+    "state": "ND"
+  },
+  {
+    "name": "Renville County",
+    "state": "ND"
+  },
+  {
+    "name": "Adams County",
+    "state": "ND"
+  },
+  {
+    "name": "Morton County",
+    "state": "ND"
+  },
+  {
+    "name": "Williams County",
+    "state": "ND"
+  },
+  {
+    "name": "Benson County",
+    "state": "ND"
+  },
+  {
+    "name": "Cass County",
+    "state": "ND"
+  },
+  {
+    "name": "Mercer County",
+    "state": "ND"
+  },
+  {
+    "name": "Dickey County",
+    "state": "ND"
+  },
+  {
+    "name": "Divide County",
+    "state": "ND"
+  },
+  {
+    "name": "Nelson County",
+    "state": "ND"
+  },
+  {
+    "name": "Pierce County",
+    "state": "ND"
+  },
+  {
+    "name": "Logan County",
+    "state": "ND"
+  },
+  {
+    "name": "Foster County",
+    "state": "ND"
+  },
+  {
+    "name": "McKenzie County",
+    "state": "ND"
+  },
+  {
+    "name": "Stutsman County",
+    "state": "ND"
+  },
+  {
+    "name": "McLean County",
+    "state": "ND"
+  },
+  {
+    "name": "Sheridan County",
+    "state": "ND"
+  },
+  {
+    "name": "Sioux County",
+    "state": "ND"
+  },
+  {
+    "name": "Richland County",
+    "state": "ND"
+  },
+  {
+    "name": "Stark County",
+    "state": "ND"
+  },
+  {
+    "name": "Burleigh County",
+    "state": "ND"
+  },
+  {
+    "name": "Bottineau County",
+    "state": "ND"
+  },
+  {
+    "name": "Towner County",
+    "state": "ND"
+  },
+  {
+    "name": "Sargent County",
+    "state": "ND"
+  },
+  {
+    "name": "Ward County",
+    "state": "ND"
+  },
+  {
+    "name": "Greeley County",
+    "state": "KS"
+  },
+  {
+    "name": "Franklin County",
+    "state": "KS"
+  },
+  {
+    "name": "Phillips County",
+    "state": "KS"
+  },
+  {
+    "name": "Jackson County",
+    "state": "KS"
+  },
+  {
+    "name": "Pawnee County",
+    "state": "KS"
+  },
+  {
+    "name": "Clay County",
+    "state": "KS"
+  },
+  {
+    "name": "Bourbon County",
+    "state": "KS"
+  },
+  {
+    "name": "Republic County",
+    "state": "KS"
+  },
+  {
+    "name": "Doniphan County",
+    "state": "KS"
+  },
+  {
+    "name": "Seward County",
+    "state": "KS"
+  },
+  {
+    "name": "Ford County",
+    "state": "KS"
+  },
+  {
+    "name": "Montgomery County",
+    "state": "KS"
+  },
+  {
+    "name": "Marshall County",
+    "state": "KS"
+  },
+  {
+    "name": "Woodson County",
+    "state": "KS"
+  },
+  {
+    "name": "Lincoln County",
+    "state": "KS"
+  },
+  {
+    "name": "Finney County",
+    "state": "KS"
+  },
+  {
+    "name": "Stanton County",
+    "state": "KS"
+  },
+  {
+    "name": "Sheridan County",
+    "state": "KS"
+  },
+  {
+    "name": "Chase County",
+    "state": "KS"
+  },
+  {
+    "name": "Ellis County",
+    "state": "KS"
+  },
+  {
+    "name": "Wyandotte County",
+    "state": "KS"
+  },
+  {
+    "name": "Cowley County",
+    "state": "KS"
+  },
+  {
+    "name": "Cherokee County",
+    "state": "KS"
+  },
+  {
+    "name": "Reno County",
+    "state": "KS"
+  },
+  {
+    "name": "Wabaunsee County",
+    "state": "KS"
+  },
+  {
+    "name": "Comanche County",
+    "state": "KS"
+  },
+  {
+    "name": "Logan County",
+    "state": "KS"
+  },
+  {
+    "name": "Talbot County",
+    "state": "MD"
+  },
+  {
+    "name": "Garrett County",
+    "state": "MD"
+  },
+  {
+    "name": "Cecil County",
+    "state": "MD"
+  },
+  {
+    "name": "Somerset County",
+    "state": "MD"
+  },
+  {
+    "name": "Washington County",
+    "state": "MD"
+  },
+  {
+    "name": "Prince George's County",
+    "state": "MD"
+  },
+  {
+    "name": "Baltimore County",
+    "state": "MD"
+  },
+  {
+    "name": "Burt County",
+    "state": "NE"
+  },
+  {
+    "name": "Dawson County",
+    "state": "NE"
+  },
+  {
+    "name": "Saunders County",
+    "state": "NE"
+  },
+  {
+    "name": "Thomas County",
+    "state": "NE"
+  },
+  {
+    "name": "Antelope County",
+    "state": "NE"
+  },
+  {
+    "name": "Garfield County",
+    "state": "NE"
+  },
+  {
+    "name": "Sioux County",
+    "state": "NE"
+  },
+  {
+    "name": "Deuel County",
+    "state": "NE"
+  },
+  {
+    "name": "Clackamas County",
+    "state": "OR"
+  },
+  {
+    "name": "Washington County",
+    "state": "OR"
+  },
+  {
+    "name": "Grant County",
+    "state": "OR"
+  },
+  {
+    "name": "Marion County",
+    "state": "OR"
+  },
+  {
+    "name": "Pawnee County",
+    "state": "NE"
+  },
+  {
+    "name": "Boyd County",
+    "state": "NE"
+  },
+  {
+    "name": "Thayer County",
+    "state": "NE"
+  },
+  {
+    "name": "Hitchcock County",
+    "state": "NE"
+  },
+  {
+    "name": "Klamath County",
+    "state": "OR"
+  },
+  {
+    "name": "Wheeler County",
+    "state": "OR"
+  },
+  {
+    "name": "Banner County",
+    "state": "NE"
+  },
+  {
+    "name": "Furnas County",
+    "state": "NE"
+  },
+  {
+    "name": "Clay County",
+    "state": "NE"
+  },
+  {
+    "name": "Merrick County",
+    "state": "NE"
+  },
+  {
+    "name": "Brown County",
+    "state": "NE"
+  },
+  {
+    "name": "Colfax County",
+    "state": "NE"
+  },
+  {
+    "name": "Dakota County",
+    "state": "NE"
+  },
+  {
+    "name": "Deschutes County",
+    "state": "OR"
+  },
+  {
+    "name": "Baker County",
+    "state": "OR"
+  },
+  {
+    "name": "Arthur County",
+    "state": "NE"
+  },
+  {
+    "name": "Sheridan County",
+    "state": "NE"
+  },
+  {
+    "name": "Seward County",
+    "state": "NE"
+  },
+  {
+    "name": "Josephine County",
+    "state": "OR"
+  },
+  {
+    "name": "Wayne County",
+    "state": "NE"
+  },
+  {
+    "name": "Bureau County",
+    "state": "IL"
+  },
+  {
+    "name": "De Witt County",
+    "state": "IL"
+  },
+  {
+    "name": "Randolph County",
+    "state": "IL"
+  },
+  {
+    "name": "Macoupin County",
+    "state": "IL"
+  },
+  {
+    "name": "Schuyler County",
+    "state": "IL"
+  },
+  {
+    "name": "Pulaski County",
+    "state": "IL"
+  },
+  {
+    "name": "Rock Island County",
+    "state": "IL"
+  },
+  {
+    "name": "Franklin County",
+    "state": "IL"
+  },
+  {
+    "name": "Clark County",
+    "state": "IL"
+  },
+  {
+    "name": "Fayette County",
+    "state": "IL"
+  },
+  {
+    "name": "Christian County",
+    "state": "IL"
+  },
+  {
+    "name": "Warren County",
+    "state": "IL"
+  },
+  {
+    "name": "Moultrie County",
+    "state": "IL"
+  },
+  {
+    "name": "Carroll County",
+    "state": "IL"
+  },
+  {
+    "name": "Wayne County",
+    "state": "IL"
+  },
+  {
+    "name": "Wabash County",
+    "state": "IL"
+  },
+  {
+    "name": "Daggett County",
+    "state": "UT"
+  },
+  {
+    "name": "Las Piedras Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Carbon County",
+    "state": "UT"
+  },
+  {
+    "name": "Adjuntas Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Sabana Grande Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Yauco Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Beaver County",
+    "state": "UT"
+  },
+  {
+    "name": "R�o Grande Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Morovis Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Jayuya Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Hormigueros Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Cabo Rojo Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "San Sebasti�n Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Vega Alta Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Juana D�az Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Dorado Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Cayey Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Moca Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Caguas Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Orocovis Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Gu�nica Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Aibonito Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Utuado Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Gurabo Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Maricao Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "San Juan Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Bayam�n Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Patillas Municipio",
+    "state": "PR"
+  },
+  {
+    "name": "Yolo County",
+    "state": "CA"
+  },
+  {
+    "name": "Cobb County",
+    "state": "GA"
+  },
+  {
+    "name": "Columbia County",
+    "state": "GA"
+  },
+  {
+    "name": "Forsyth County",
+    "state": "GA"
+  },
+  {
+    "name": "Baldwin County",
+    "state": "GA"
+  },
+  {
+    "name": "Walker County",
+    "state": "GA"
+  },
+  {
+    "name": "Emanuel County",
+    "state": "GA"
+  },
+  {
+    "name": "Gilmer County",
+    "state": "GA"
+  },
+  {
+    "name": "Warren County",
+    "state": "GA"
+  },
+  {
+    "name": "Elbert County",
+    "state": "GA"
+  },
+  {
+    "name": "Clayton County",
+    "state": "GA"
+  },
+  {
+    "name": "Brantley County",
+    "state": "GA"
+  },
+  {
+    "name": "Chatham County",
+    "state": "GA"
+  },
+  {
+    "name": "Peach County",
+    "state": "GA"
+  },
+  {
+    "name": "Echols County",
+    "state": "GA"
+  },
+  {
+    "name": "Evans County",
+    "state": "GA"
+  },
+  {
+    "name": "Quitman County",
+    "state": "GA"
+  },
+  {
+    "name": "Irwin County",
+    "state": "GA"
+  },
+  {
+    "name": "Onondaga County",
+    "state": "NY"
+  },
+  {
+    "name": "Albany County",
+    "state": "NY"
+  },
+  {
+    "name": "Tompkins County",
+    "state": "NY"
+  },
+  {
+    "name": "Jefferson County",
+    "state": "NY"
+  },
+  {
+    "name": "Ontario County",
+    "state": "NY"
+  },
+  {
+    "name": "Kings County",
+    "state": "NY"
+  },
+  {
+    "name": "Dutchess County",
+    "state": "NY"
+  },
+  {
+    "name": "Chenango County",
+    "state": "NY"
+  },
+  {
+    "name": "Columbia County",
+    "state": "NY"
+  },
+  {
+    "name": "Nassau County",
+    "state": "NY"
+  },
+  {
+    "name": "Westchester County",
+    "state": "NY"
+  },
+  {
+    "name": "Delaware County",
+    "state": "NY"
+  },
+  {
+    "name": "Queens County",
+    "state": "NY"
+  },
+  {
+    "name": "St. Lawrence County",
+    "state": "NY"
+  },
+  {
+    "name": "Livingston County",
+    "state": "NY"
+  },
+  {
+    "name": "Rockland County",
+    "state": "NY"
+  },
+  {
+    "name": "Erie County",
+    "state": "NY"
+  },
+  {
+    "name": "Wyoming County",
+    "state": "NY"
+  },
+  {
+    "name": "Tioga County",
+    "state": "NY"
+  },
+  {
+    "name": "Greene County",
+    "state": "NY"
+  },
+  {
+    "name": "Suffolk County",
+    "state": "NY"
+  },
+  {
+    "name": "Schuyler County",
+    "state": "NY"
+  },
+  {
+    "name": "Otsego County",
+    "state": "NY"
+  },
+  {
+    "name": "Allegany County",
+    "state": "NY"
+  },
+  {
+    "name": "Essex County",
+    "state": "NY"
+  },
+  {
+    "name": "Sullivan County",
+    "state": "NY"
+  },
+  {
+    "name": "Wayne County",
+    "state": "NY"
+  },
+  {
+    "name": "Orleans County",
+    "state": "NY"
+  },
+  {
+    "name": "Saratoga County",
+    "state": "NY"
+  },
+  {
+    "name": "Bolivar County",
+    "state": "MS"
+  },
+  {
+    "name": "Calhoun County",
+    "state": "MS"
+  },
+  {
+    "name": "Lawrence County",
+    "state": "MS"
+  },
+  {
+    "name": "Warren County",
+    "state": "OH"
+  },
+  {
+    "name": "Hancock County",
+    "state": "MS"
+  },
+  {
+    "name": "Attala County",
+    "state": "MS"
+  },
+  {
+    "name": "Marshall County",
+    "state": "MS"
+  },
+  {
+    "name": "Grenada County",
+    "state": "MS"
+  },
+  {
+    "name": "Alcorn County",
+    "state": "MS"
+  },
+  {
+    "name": "Copiah County",
+    "state": "MS"
+  },
+  {
+    "name": "Clay County",
+    "state": "MS"
+  },
+  {
+    "name": "George County",
+    "state": "MS"
+  },
+  {
+    "name": "Adams County",
+    "state": "MS"
+  },
+  {
+    "name": "Amite County",
+    "state": "MS"
+  },
+  {
+    "name": "St. Bernard Parish",
+    "state": "LA"
+  },
+  {
+    "name": "West Carroll Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Plaquemines Parish",
+    "state": "LA"
+  },
+  {
+    "name": "St. Tammany Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Iberville Parish",
+    "state": "LA"
+  },
+  {
+    "name": "La Salle Parish",
+    "state": "LA"
+  },
+  {
+    "name": "St. John the Baptist Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Livingston Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Liberty County",
+    "state": "TX"
+  },
+  {
+    "name": "Lee County",
+    "state": "TX"
+  },
+  {
+    "name": "Hale County",
+    "state": "TX"
+  },
+  {
+    "name": "Bexar County",
+    "state": "TX"
+  },
+  {
+    "name": "Garza County",
+    "state": "TX"
+  },
+  {
+    "name": "Montague County",
+    "state": "TX"
+  },
+  {
+    "name": "Upton County",
+    "state": "TX"
+  },
+  {
+    "name": "Hamilton County",
+    "state": "TX"
+  },
+  {
+    "name": "Fisher County",
+    "state": "TX"
+  },
+  {
+    "name": "Dawson County",
+    "state": "TX"
+  },
+  {
+    "name": "Dimmit County",
+    "state": "TX"
+  },
+  {
+    "name": "Limestone County",
+    "state": "TX"
+  },
+  {
+    "name": "Hutchinson County",
+    "state": "TX"
+  },
+  {
+    "name": "Arkansas County",
+    "state": "AR"
+  },
+  {
+    "name": "Pulaski County",
+    "state": "AR"
+  },
+  {
+    "name": "Howard County",
+    "state": "AR"
+  },
+  {
+    "name": "Union County",
+    "state": "AR"
+  },
+  {
+    "name": "Nevada County",
+    "state": "AR"
+  },
+  {
+    "name": "Crittenden County",
+    "state": "AR"
+  },
+  {
+    "name": "Fulton County",
+    "state": "AR"
+  },
+  {
+    "name": "Pope County",
+    "state": "AR"
+  },
+  {
+    "name": "Desha County",
+    "state": "AR"
+  },
+  {
+    "name": "Garland County",
+    "state": "AR"
+  },
+  {
+    "name": "McHenry County",
+    "state": "ND"
+  },
+  {
+    "name": "Miller County",
+    "state": "AR"
+  },
+  {
+    "name": "White County",
+    "state": "AR"
+  },
+  {
+    "name": "Dallas County",
+    "state": "AR"
+  },
+  {
+    "name": "Lawrence County",
+    "state": "AR"
+  },
+  {
+    "name": "Stone County",
+    "state": "AR"
+  },
+  {
+    "name": "Monroe County",
+    "state": "AR"
+  },
+  {
+    "name": "Madison County",
+    "state": "AR"
+  },
+  {
+    "name": "Marion County",
+    "state": "AR"
+  },
+  {
+    "name": "Payne County",
+    "state": "OK"
+  },
+  {
+    "name": "Caddo County",
+    "state": "OK"
+  },
+  {
+    "name": "Delaware County",
+    "state": "OK"
+  },
+  {
+    "name": "Marshall County",
+    "state": "OK"
+  },
+  {
+    "name": "Kidder County",
+    "state": "ND"
+  },
+  {
+    "name": "Greer County",
+    "state": "OK"
+  },
+  {
+    "name": "Coal County",
+    "state": "OK"
+  },
+  {
+    "name": "Seminole County",
+    "state": "OK"
+  },
+  {
+    "name": "Murray County",
+    "state": "OK"
+  },
+  {
+    "name": "Jefferson County",
+    "state": "OK"
+  },
+  {
+    "name": "Tillman County",
+    "state": "OK"
+  },
+  {
+    "name": "McIntosh County",
+    "state": "OK"
+  },
+  {
+    "name": "Choctaw County",
+    "state": "OK"
+  },
+  {
+    "name": "Harper County",
+    "state": "OK"
+  },
+  {
+    "name": "Mountrail County",
+    "state": "ND"
+  },
+  {
+    "name": "LaMoure County",
+    "state": "ND"
+  },
+  {
+    "name": "Grant County",
+    "state": "OK"
+  },
+  {
+    "name": "Dewey County",
+    "state": "OK"
+  },
+  {
+    "name": "Oklahoma County",
+    "state": "OK"
+  },
+  {
+    "name": "Le Flore County",
+    "state": "OK"
+  },
+  {
+    "name": "Nowata County",
+    "state": "OK"
+  },
+  {
+    "name": "Texas County",
+    "state": "OK"
+  },
+  {
+    "name": "Monongalia County",
+    "state": "WV"
+  },
+  {
+    "name": "Boone County",
+    "state": "WV"
+  },
+  {
+    "name": "Marshall County",
+    "state": "WV"
+  },
+  {
+    "name": "Barbour County",
+    "state": "WV"
+  },
+  {
+    "name": "Churchill County",
+    "state": "NV"
+  },
+  {
+    "name": "Tyler County",
+    "state": "WV"
+  },
+  {
+    "name": "Marion County",
+    "state": "WV"
+  },
+  {
+    "name": "Carson City",
+    "state": "NV"
+  },
+  {
+    "name": "Wirt County",
+    "state": "WV"
+  },
+  {
+    "name": "Monroe County",
+    "state": "WV"
+  },
+  {
+    "name": "Nye County",
+    "state": "NV"
+  },
+  {
+    "name": "Lincoln County",
+    "state": "WV"
+  },
+  {
+    "name": "Pocahontas County",
+    "state": "WV"
+  },
+  {
+    "name": "Storey County",
+    "state": "NV"
+  },
+  {
+    "name": "Harrison County",
+    "state": "WV"
+  },
+  {
+    "name": "Ohio County",
+    "state": "WV"
+  },
+  {
+    "name": "Nicholas County",
+    "state": "WV"
+  },
+  {
+    "name": "Grant County",
+    "state": "WV"
+  },
+  {
+    "name": "Clay County",
+    "state": "WV"
+  },
+  {
+    "name": "Mingo County",
+    "state": "WV"
+  },
+  {
+    "name": "Brooke County",
+    "state": "WV"
+  },
+  {
+    "name": "Hancock County",
+    "state": "WV"
+  },
+  {
+    "name": "Mason County",
+    "state": "WV"
+  },
+  {
+    "name": "Mercer County",
+    "state": "WV"
+  },
+  {
+    "name": "Pershing County",
+    "state": "NV"
+  },
+  {
+    "name": "Gilmer County",
+    "state": "WV"
+  },
+  {
+    "name": "Hardy County",
+    "state": "WV"
+  },
+  {
+    "name": "Jefferson County",
+    "state": "WV"
+  },
+  {
+    "name": "Morgan County",
+    "state": "WV"
+  },
+  {
+    "name": "Elko County",
+    "state": "NV"
+  },
+  {
+    "name": "Harper County",
+    "state": "KS"
+  },
+  {
+    "name": "Crawford County",
+    "state": "KS"
+  },
+  {
+    "name": "Allen County",
+    "state": "KS"
+  },
+  {
+    "name": "Lyon County",
+    "state": "KS"
+  },
+  {
+    "name": "Pottawatomie County",
+    "state": "KS"
+  },
+  {
+    "name": "Atchison County",
+    "state": "KS"
+  },
+  {
+    "name": "Norton County",
+    "state": "KS"
+  },
+  {
+    "name": "Thomas County",
+    "state": "KS"
+  },
+  {
+    "name": "Johnson County",
+    "state": "KS"
+  },
+  {
+    "name": "Hamilton County",
+    "state": "KS"
+  },
+  {
+    "name": "Osborne County",
+    "state": "KS"
+  },
+  {
+    "name": "Hodgeman County",
+    "state": "KS"
+  },
+  {
+    "name": "Trego County",
+    "state": "KS"
+  },
+  {
+    "name": "Cloud County",
+    "state": "KS"
+  },
+  {
+    "name": "Brown County",
+    "state": "KS"
+  },
+  {
+    "name": "Jefferson County",
+    "state": "KS"
+  },
+  {
+    "name": "Dickinson County",
+    "state": "KS"
+  },
+  {
+    "name": "Lane County",
+    "state": "KS"
+  },
+  {
+    "name": "Butler County",
+    "state": "KS"
+  },
+  {
+    "name": "Cheyenne County",
+    "state": "KS"
+  },
+  {
+    "name": "Wallace County",
+    "state": "KS"
+  },
+  {
+    "name": "Chautauqua County",
+    "state": "KS"
+  },
+  {
+    "name": "Kiowa County",
+    "state": "KS"
+  },
+  {
+    "name": "Haskell County",
+    "state": "KS"
+  },
+  {
+    "name": "Rice County",
+    "state": "KS"
+  },
+  {
+    "name": "Morton County",
+    "state": "KS"
+  },
+  {
+    "name": "Rush County",
+    "state": "KS"
+  },
+  {
+    "name": "Wicomico County",
+    "state": "MD"
+  },
+  {
+    "name": "Carroll County",
+    "state": "MD"
+  },
+  {
+    "name": "Montgomery County",
+    "state": "MD"
+  },
+  {
+    "name": "Queen Anne's County",
+    "state": "MD"
+  },
+  {
+    "name": "Dorchester County",
+    "state": "MD"
+  },
+  {
+    "name": "Harford County",
+    "state": "MD"
+  },
+  {
+    "name": "St. Mary's County",
+    "state": "MD"
+  },
+  {
+    "name": "Cuming County",
+    "state": "NE"
+  },
+  {
+    "name": "Garden County",
+    "state": "NE"
+  },
+  {
+    "name": "Keith County",
+    "state": "NE"
+  },
+  {
+    "name": "Thurston County",
+    "state": "NE"
+  },
+  {
+    "name": "Pierce County",
+    "state": "NE"
+  },
+  {
+    "name": "Richardson County",
+    "state": "NE"
+  },
+  {
+    "name": "Saline County",
+    "state": "NE"
+  },
+  {
+    "name": "Sherman County",
+    "state": "NE"
+  },
+  {
+    "name": "Dundy County",
+    "state": "NE"
+  },
+  {
+    "name": "Stanton County",
+    "state": "NE"
+  },
+  {
+    "name": "Cheyenne County",
+    "state": "NE"
+  },
+  {
+    "name": "Box Butte County",
+    "state": "NE"
+  },
+  {
+    "name": "Wheeler County",
+    "state": "NE"
+  },
+  {
+    "name": "Jefferson County",
+    "state": "NE"
+  },
+  {
+    "name": "Otoe County",
+    "state": "NE"
+  },
+  {
+    "name": "Lincoln County",
+    "state": "NE"
+  },
+  {
+    "name": "Hooker County",
+    "state": "NE"
+  },
+  {
+    "name": "Red Willow County",
+    "state": "NE"
+  },
+  {
+    "name": "Grant County",
+    "state": "NE"
+  },
+  {
+    "name": "Dodge County",
+    "state": "NE"
+  },
+  {
+    "name": "Chase County",
+    "state": "NE"
+  },
+  {
+    "name": "Sarpy County",
+    "state": "NE"
+  },
+  {
+    "name": "Scotts Bluff County",
+    "state": "NE"
+  },
+  {
+    "name": "Washington County",
+    "state": "NE"
+  },
+  {
+    "name": "Greeley County",
+    "state": "NE"
+  },
+  {
+    "name": "Webster County",
+    "state": "NE"
+  },
+  {
+    "name": "Douglas County",
+    "state": "NE"
+  },
+  {
+    "name": "Cass County",
+    "state": "NE"
+  },
+  {
+    "name": "Cherry County",
+    "state": "NE"
+  },
+  {
+    "name": "Boone County",
+    "state": "NE"
+  },
+  {
+    "name": "Johnson County",
+    "state": "NE"
+  },
+  {
+    "name": "Dawes County",
+    "state": "NE"
+  },
+  {
+    "name": "Frontier County",
+    "state": "NE"
+  },
+  {
+    "name": "Nuckolls County",
+    "state": "NE"
+  },
+  {
+    "name": "Kearney County",
+    "state": "NE"
+  },
+  {
+    "name": "Dixon County",
+    "state": "NE"
+  },
+  {
+    "name": "Howard County",
+    "state": "NE"
+  },
+  {
+    "name": "Keya Paha County",
+    "state": "NE"
+  },
+  {
+    "name": "Logan County",
+    "state": "NE"
+  },
+  {
+    "name": "Cedar County",
+    "state": "NE"
+  },
+  {
+    "name": "Loup County",
+    "state": "NE"
+  },
+  {
+    "name": "Polk County",
+    "state": "NE"
+  },
+  {
+    "name": "Blaine County",
+    "state": "NE"
+  },
+  {
+    "name": "Kimball County",
+    "state": "NE"
+  },
+  {
+    "name": "Gosper County",
+    "state": "NE"
+  },
+  {
+    "name": "Harlan County",
+    "state": "NE"
+  },
+  {
+    "name": "Phelps County",
+    "state": "NE"
+  },
+  {
+    "name": "Hamilton County",
+    "state": "NE"
+  },
+  {
+    "name": "Butler County",
+    "state": "NE"
+  },
+  {
+    "name": "Jackson County",
+    "state": "IL"
+  },
+  {
+    "name": "Logan County",
+    "state": "IL"
+  },
+  {
+    "name": "Hancock County",
+    "state": "IL"
+  },
+  {
+    "name": "DeKalb County",
+    "state": "IL"
+  },
+  {
+    "name": "Madison County",
+    "state": "IL"
+  },
+  {
+    "name": "Morgan County",
+    "state": "IL"
+  },
+  {
+    "name": "Putnam County",
+    "state": "IL"
+  },
+  {
+    "name": "Woodford County",
+    "state": "IL"
+  },
+  {
+    "name": "Ford County",
+    "state": "IL"
+  },
+  {
+    "name": "Edgar County",
+    "state": "IL"
+  },
+  {
+    "name": "Saline County",
+    "state": "IL"
+  },
+  {
+    "name": "Piatt County",
+    "state": "IL"
+  },
+  {
+    "name": "Knox County",
+    "state": "IL"
+  },
+  {
+    "name": "Washington County",
+    "state": "IL"
+  },
+  {
+    "name": "Livingston County",
+    "state": "IL"
+  },
+  {
+    "name": "Jasper County",
+    "state": "IL"
+  },
+  {
+    "name": "Salt Lake County",
+    "state": "UT"
+  },
+  {
+    "name": "Washington County",
+    "state": "UT"
+  },
+  {
+    "name": "Cache County",
+    "state": "UT"
+  },
+  {
+    "name": "Juab County",
+    "state": "UT"
+  },
+  {
+    "name": "Mendocino County",
+    "state": "CA"
+  },
+  {
+    "name": "Sacramento County",
+    "state": "CA"
+  },
+  {
+    "name": "Madera County",
+    "state": "CA"
+  },
+  {
+    "name": "Yuba County",
+    "state": "CA"
+  },
+  {
+    "name": "Tulare County",
+    "state": "CA"
+  },
+  {
+    "name": "Burke County",
+    "state": "GA"
+  },
+  {
+    "name": "Henry County",
+    "state": "GA"
+  },
+  {
+    "name": "Liberty County",
+    "state": "GA"
+  },
+  {
+    "name": "Madison County",
+    "state": "GA"
+  },
+  {
+    "name": "Toombs County",
+    "state": "GA"
+  },
+  {
+    "name": "Monroe County",
+    "state": "GA"
+  },
+  {
+    "name": "Clinch County",
+    "state": "GA"
+  },
+  {
+    "name": "Oconee County",
+    "state": "GA"
+  },
+  {
+    "name": "Berrien County",
+    "state": "GA"
+  },
+  {
+    "name": "Charlton County",
+    "state": "GA"
+  },
+  {
+    "name": "Cook County",
+    "state": "GA"
+  },
+  {
+    "name": "Pierce County",
+    "state": "GA"
+  },
+  {
+    "name": "Early County",
+    "state": "GA"
+  },
+  {
+    "name": "Johnson County",
+    "state": "GA"
+  },
+  {
+    "name": "Taylor County",
+    "state": "GA"
+  },
+  {
+    "name": "Dooly County",
+    "state": "GA"
+  },
+  {
+    "name": "Dawson County",
+    "state": "GA"
+  },
+  {
+    "name": "Lee County",
+    "state": "GA"
+  },
+  {
+    "name": "Bartow County",
+    "state": "GA"
+  },
+  {
+    "name": "Wilkes County",
+    "state": "GA"
+  },
+  {
+    "name": "Lamar County",
+    "state": "GA"
+  },
+  {
+    "name": "Haralson County",
+    "state": "GA"
+  },
+  {
+    "name": "Coffee County",
+    "state": "GA"
+  },
+  {
+    "name": "Glascock County",
+    "state": "GA"
+  },
+  {
+    "name": "Richmond County",
+    "state": "GA"
+  },
+  {
+    "name": "Twiggs County",
+    "state": "GA"
+  },
+  {
+    "name": "White County",
+    "state": "GA"
+  },
+  {
+    "name": "Miller County",
+    "state": "GA"
+  },
+  {
+    "name": "Meriwether County",
+    "state": "GA"
+  },
+  {
+    "name": "Newton County",
+    "state": "GA"
+  },
+  {
+    "name": "Mitchell County",
+    "state": "GA"
+  },
+  {
+    "name": "Gwinnett County",
+    "state": "GA"
+  },
+  {
+    "name": "Greene County",
+    "state": "GA"
+  },
+  {
+    "name": "Sumter County",
+    "state": "GA"
+  },
+  {
+    "name": "Randolph County",
+    "state": "GA"
+  },
+  {
+    "name": "Franklin County",
+    "state": "GA"
+  },
+  {
+    "name": "Pulaski County",
+    "state": "GA"
+  },
+  {
+    "name": "Brooks County",
+    "state": "GA"
+  },
+  {
+    "name": "Chattooga County",
+    "state": "GA"
+  },
+  {
+    "name": "Montgomery County",
+    "state": "NY"
+  },
+  {
+    "name": "Newaygo County",
+    "state": "MI"
+  },
+  {
+    "name": "Tuscola County",
+    "state": "MI"
+  },
+  {
+    "name": "Presque Isle County",
+    "state": "MI"
+  },
+  {
+    "name": "Calhoun County",
+    "state": "MI"
+  },
+  {
+    "name": "Midland County",
+    "state": "MI"
+  },
+  {
+    "name": "Benzie County",
+    "state": "MI"
+  },
+  {
+    "name": "Iosco County",
+    "state": "MI"
+  },
+  {
+    "name": "Alcona County",
+    "state": "MI"
+  },
+  {
+    "name": "Eaton County",
+    "state": "MI"
+  },
+  {
+    "name": "Putnam County",
+    "state": "NY"
+  },
+  {
+    "name": "Gogebic County",
+    "state": "MI"
+  },
+  {
+    "name": "Cortland County",
+    "state": "NY"
+  },
+  {
+    "name": "Arenac County",
+    "state": "MI"
+  },
+  {
+    "name": "Huron County",
+    "state": "MI"
+  },
+  {
+    "name": "Otsego County",
+    "state": "MI"
+  },
+  {
+    "name": "Schoolcraft County",
+    "state": "MI"
+  },
+  {
+    "name": "Kent County",
+    "state": "MI"
+  },
+  {
+    "name": "Gladwin County",
+    "state": "MI"
+  },
+  {
+    "name": "Cass County",
+    "state": "MI"
+  },
+  {
+    "name": "Iron County",
+    "state": "MI"
+  },
+  {
+    "name": "Chippewa County",
+    "state": "MI"
+  },
+  {
+    "name": "Hamilton County",
+    "state": "NY"
+  },
+  {
+    "name": "Branch County",
+    "state": "MI"
+  },
+  {
+    "name": "Marquette County",
+    "state": "MI"
+  },
+  {
+    "name": "Shiawassee County",
+    "state": "MI"
+  },
+  {
+    "name": "Allegan County",
+    "state": "MI"
+  },
+  {
+    "name": "Ontonagon County",
+    "state": "MI"
+  },
+  {
+    "name": "Macomb County",
+    "state": "MI"
+  },
+  {
+    "name": "Van Buren County",
+    "state": "MI"
+  },
+  {
+    "name": "St. Clair County",
+    "state": "MI"
+  },
+  {
+    "name": "Lake County",
+    "state": "MI"
+  },
+  {
+    "name": "Missaukee County",
+    "state": "MI"
+  },
+  {
+    "name": "Alger County",
+    "state": "MI"
+  },
+  {
+    "name": "Orange County",
+    "state": "NY"
+  },
+  {
+    "name": "Bronx County",
+    "state": "NY"
+  },
+  {
+    "name": "Isabella County",
+    "state": "MI"
+  },
+  {
+    "name": "Antrim County",
+    "state": "MI"
+  },
+  {
+    "name": "Cayuga County",
+    "state": "NY"
+  },
+  {
+    "name": "Emmet County",
+    "state": "MI"
+  },
+  {
+    "name": "Luce County",
+    "state": "MI"
+  },
+  {
+    "name": "Roscommon County",
+    "state": "MI"
+  },
+  {
+    "name": "Yates County",
+    "state": "NY"
+  },
+  {
+    "name": "Jackson County",
+    "state": "MI"
+  },
+  {
+    "name": "Keweenaw County",
+    "state": "MI"
+  },
+  {
+    "name": "Houghton County",
+    "state": "MI"
+  },
+  {
+    "name": "Menominee County",
+    "state": "MI"
+  },
+  {
+    "name": "Delta County",
+    "state": "MI"
+  },
+  {
+    "name": "St. Joseph County",
+    "state": "MI"
+  },
+  {
+    "name": "Cheboygan County",
+    "state": "MI"
+  },
+  {
+    "name": "Ottawa County",
+    "state": "MI"
+  },
+  {
+    "name": "Lenawee County",
+    "state": "MI"
+  },
+  {
+    "name": "Schoharie County",
+    "state": "NY"
+  },
+  {
+    "name": "Genesee County",
+    "state": "NY"
+  },
+  {
+    "name": "Dickinson County",
+    "state": "MI"
+  },
+  {
+    "name": "Alpena County",
+    "state": "MI"
+  },
+  {
+    "name": "Genesee County",
+    "state": "MI"
+  },
+  {
+    "name": "Ogemaw County",
+    "state": "MI"
+  },
+  {
+    "name": "Steuben County",
+    "state": "NY"
+  },
+  {
+    "name": "Monroe County",
+    "state": "MI"
+  },
+  {
+    "name": "Wexford County",
+    "state": "MI"
+  },
+  {
+    "name": "Clinton County",
+    "state": "MI"
+  },
+  {
+    "name": "Barry County",
+    "state": "MI"
+  },
+  {
+    "name": "Montmorency County",
+    "state": "MI"
+  },
+  {
+    "name": "Mecosta County",
+    "state": "MI"
+  },
+  {
+    "name": "Baraga County",
+    "state": "MI"
+  },
+  {
+    "name": "Grand Traverse County",
+    "state": "MI"
+  },
+  {
+    "name": "Bay County",
+    "state": "MI"
+  },
+  {
+    "name": "Sanilac County",
+    "state": "MI"
+  },
+  {
+    "name": "Oceana County",
+    "state": "MI"
+  },
+  {
+    "name": "Ionia County",
+    "state": "MI"
+  },
+  {
+    "name": "Livingston County",
+    "state": "MI"
+  },
+  {
+    "name": "Wayne County",
+    "state": "MI"
+  },
+  {
+    "name": "Oneida County",
+    "state": "NY"
+  },
+  {
+    "name": "Berrien County",
+    "state": "MI"
+  },
+  {
+    "name": "Washington County",
+    "state": "NY"
+  },
+  {
+    "name": "Leelanau County",
+    "state": "MI"
+  },
+  {
+    "name": "Oktibbeha County",
+    "state": "MS"
+  },
+  {
+    "name": "Jackson County",
+    "state": "MS"
+  },
+  {
+    "name": "Monroe County",
+    "state": "MS"
+  },
+  {
+    "name": "Lafayette County",
+    "state": "MS"
+  },
+  {
+    "name": "Leake County",
+    "state": "MS"
+  },
+  {
+    "name": "Kemper County",
+    "state": "MS"
+  },
+  {
+    "name": "Lee County",
+    "state": "MS"
+  },
+  {
+    "name": "Pearl River County",
+    "state": "MS"
+  },
+  {
+    "name": "Holmes County",
+    "state": "MS"
+  },
+  {
+    "name": "Jefferson Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Vermilion Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Richland Parish",
+    "state": "LA"
+  },
+  {
+    "name": "St. Landry Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Llano County",
+    "state": "TX"
+  },
+  {
+    "name": "Presidio County",
+    "state": "TX"
+  },
+  {
+    "name": "Eastland County",
+    "state": "TX"
+  },
+  {
+    "name": "Sabine County",
+    "state": "TX"
+  },
+  {
+    "name": "Wharton County",
+    "state": "TX"
+  },
+  {
+    "name": "Rusk County",
+    "state": "TX"
+  },
+  {
+    "name": "Tarrant County",
+    "state": "TX"
+  },
+  {
+    "name": "Lavaca County",
+    "state": "TX"
+  },
+  {
+    "name": "Childress County",
+    "state": "TX"
+  },
+  {
+    "name": "Franklin County",
+    "state": "AR"
+  },
+  {
+    "name": "Prairie County",
+    "state": "AR"
+  },
+  {
+    "name": "Hempstead County",
+    "state": "AR"
+  },
+  {
+    "name": "Lee County",
+    "state": "AR"
+  },
+  {
+    "name": "Conway County",
+    "state": "AR"
+  },
+  {
+    "name": "Jackson County",
+    "state": "AR"
+  },
+  {
+    "name": "Drew County",
+    "state": "AR"
+  },
+  {
+    "name": "Cross County",
+    "state": "AR"
+  },
+  {
+    "name": "Clark County",
+    "state": "AR"
+  },
+  {
+    "name": "Crawford County",
+    "state": "AR"
+  },
+  {
+    "name": "Izard County",
+    "state": "AR"
+  },
+  {
+    "name": "Scott County",
+    "state": "AR"
+  },
+  {
+    "name": "Lafayette County",
+    "state": "AR"
+  },
+  {
+    "name": "Mississippi County",
+    "state": "AR"
+  },
+  {
+    "name": "Greene County",
+    "state": "AR"
+  },
+  {
+    "name": "Faulkner County",
+    "state": "AR"
+  },
+  {
+    "name": "Jefferson County",
+    "state": "AR"
+  },
+  {
+    "name": "Polk County",
+    "state": "AR"
+  },
+  {
+    "name": "Boone County",
+    "state": "AR"
+  },
+  {
+    "name": "Johnson County",
+    "state": "AR"
+  },
+  {
+    "name": "Ouachita County",
+    "state": "AR"
+  },
+  {
+    "name": "Benton County",
+    "state": "AR"
+  },
+  {
+    "name": "Saline County",
+    "state": "AR"
+  },
+  {
+    "name": "Searcy County",
+    "state": "AR"
+  },
+  {
+    "name": "Bradley County",
+    "state": "AR"
+  },
+  {
+    "name": "Yell County",
+    "state": "AR"
+  },
+  {
+    "name": "Sharp County",
+    "state": "AR"
+  },
+  {
+    "name": "Okfuskee County",
+    "state": "OK"
+  },
+  {
+    "name": "Pontotoc County",
+    "state": "OK"
+  },
+  {
+    "name": "Roger Mills County",
+    "state": "OK"
+  },
+  {
+    "name": "Kiowa County",
+    "state": "OK"
+  },
+  {
+    "name": "Tulsa County",
+    "state": "OK"
+  },
+  {
+    "name": "Beckham County",
+    "state": "OK"
+  },
+  {
+    "name": "Atoka County",
+    "state": "OK"
+  },
+  {
+    "name": "Adair County",
+    "state": "OK"
+  },
+  {
+    "name": "Noble County",
+    "state": "OK"
+  },
+  {
+    "name": "Harmon County",
+    "state": "OK"
+  },
+  {
+    "name": "Major County",
+    "state": "OK"
+  },
+  {
+    "name": "Alfalfa County",
+    "state": "OK"
+  },
+  {
+    "name": "Craig County",
+    "state": "OK"
+  },
+  {
+    "name": "Love County",
+    "state": "OK"
+  },
+  {
+    "name": "Beaver County",
+    "state": "OK"
+  },
+  {
+    "name": "Pushmataha County",
+    "state": "OK"
+  },
+  {
+    "name": "Stephens County",
+    "state": "OK"
+  },
+  {
+    "name": "Mayes County",
+    "state": "OK"
+  },
+  {
+    "name": "Bryan County",
+    "state": "OK"
+  },
+  {
+    "name": "Kay County",
+    "state": "OK"
+  },
+  {
+    "name": "Muskogee County",
+    "state": "OK"
+  },
+  {
+    "name": "Jackson County",
+    "state": "OK"
+  },
+  {
+    "name": "Cimarron County",
+    "state": "OK"
+  },
+  {
+    "name": "Ellis County",
+    "state": "OK"
+  },
+  {
+    "name": "Ottawa County",
+    "state": "OK"
+  },
+  {
+    "name": "McClain County",
+    "state": "OK"
+  },
+  {
+    "name": "Tucker County",
+    "state": "WV"
+  },
+  {
+    "name": "Cabell County",
+    "state": "WV"
+  },
+  {
+    "name": "Mineral County",
+    "state": "WV"
+  },
+  {
+    "name": "Hampshire County",
+    "state": "WV"
+  },
+  {
+    "name": "Kanawha County",
+    "state": "WV"
+  },
+  {
+    "name": "Lewis County",
+    "state": "WV"
+  },
+  {
+    "name": "Calhoun County",
+    "state": "WV"
+  },
+  {
+    "name": "Wood County",
+    "state": "WV"
+  },
+  {
+    "name": "Pleasants County",
+    "state": "WV"
+  },
+  {
+    "name": "Doddridge County",
+    "state": "WV"
+  },
+  {
+    "name": "Raleigh County",
+    "state": "WV"
+  },
+  {
+    "name": "Taylor County",
+    "state": "WV"
+  },
+  {
+    "name": "Larimer County",
+    "state": "CO"
+  },
+  {
+    "name": "Las Animas County",
+    "state": "CO"
+  },
+  {
+    "name": "Fayette County",
+    "state": "WV"
+  },
+  {
+    "name": "Randolph County",
+    "state": "WV"
+  },
+  {
+    "name": "Fremont County",
+    "state": "CO"
+  },
+  {
+    "name": "Wayne County",
+    "state": "WV"
+  },
+  {
+    "name": "Berkeley County",
+    "state": "WV"
+  },
+  {
+    "name": "Logan County",
+    "state": "WV"
+  },
+  {
+    "name": "Jackson County",
+    "state": "WV"
+  },
+  {
+    "name": "Greenbrier County",
+    "state": "WV"
+  },
+  {
+    "name": "Gunnison County",
+    "state": "CO"
+  },
+  {
+    "name": "Wyoming County",
+    "state": "WV"
+  },
+  {
+    "name": "Putnam County",
+    "state": "WV"
+  },
+  {
+    "name": "Conejos County",
+    "state": "CO"
+  },
+  {
+    "name": "Preston County",
+    "state": "WV"
+  },
+  {
+    "name": "Webster County",
+    "state": "WV"
+  },
+  {
+    "name": "Pendleton County",
+    "state": "WV"
+  },
+  {
+    "name": "Ritchie County",
+    "state": "WV"
+  },
+  {
+    "name": "Wetzel County",
+    "state": "WV"
+  },
+  {
+    "name": "Eagle County",
+    "state": "CO"
+  },
+  {
+    "name": "Roane County",
+    "state": "WV"
+  },
+  {
+    "name": "Braxton County",
+    "state": "WV"
+  },
+  {
+    "name": "Upshur County",
+    "state": "WV"
+  },
+  {
+    "name": "McDowell County",
+    "state": "WV"
+  },
+  {
+    "name": "Summers County",
+    "state": "WV"
+  },
+  {
+    "name": "Washington County",
+    "state": "KS"
+  },
+  {
+    "name": "Nemaha County",
+    "state": "KS"
+  },
+  {
+    "name": "McPherson County",
+    "state": "KS"
+  },
+  {
+    "name": "Ness County",
+    "state": "KS"
+  },
+  {
+    "name": "Grant County",
+    "state": "KS"
+  },
+  {
+    "name": "Osage County",
+    "state": "KS"
+  },
+  {
+    "name": "Labette County",
+    "state": "KS"
+  },
+  {
+    "name": "Edwards County",
+    "state": "KS"
+  },
+  {
+    "name": "Leavenworth County",
+    "state": "KS"
+  },
+  {
+    "name": "Linn County",
+    "state": "KS"
+  },
+  {
+    "name": "Morris County",
+    "state": "KS"
+  },
+  {
+    "name": "Rooks County",
+    "state": "KS"
+  },
+  {
+    "name": "Barber County",
+    "state": "KS"
+  },
+  {
+    "name": "Anderson County",
+    "state": "KS"
+  },
+  {
+    "name": "Decatur County",
+    "state": "KS"
+  },
+  {
+    "name": "Sherman County",
+    "state": "KS"
+  },
+  {
+    "name": "Gray County",
+    "state": "KS"
+  },
+  {
+    "name": "Barton County",
+    "state": "KS"
+  },
+  {
+    "name": "Clark County",
+    "state": "KS"
+  },
+  {
+    "name": "Saline County",
+    "state": "KS"
+  },
+  {
+    "name": "Kingman County",
+    "state": "KS"
+  },
+  {
+    "name": "Harvey County",
+    "state": "KS"
+  },
+  {
+    "name": "Geary County",
+    "state": "KS"
+  },
+  {
+    "name": "Scott County",
+    "state": "KS"
+  },
+  {
+    "name": "Jewell County",
+    "state": "KS"
+  },
+  {
+    "name": "Wilson County",
+    "state": "KS"
+  },
+  {
+    "name": "Anne Arundel County",
+    "state": "MD"
+  },
+  {
+    "name": "Knox County",
+    "state": "NE"
+  },
+  {
+    "name": "Nemaha County",
+    "state": "NE"
+  },
+  {
+    "name": "Morrill County",
+    "state": "NE"
+  },
+  {
+    "name": "Hall County",
+    "state": "NE"
+  },
+  {
+    "name": "Valley County",
+    "state": "NE"
+  },
+  {
+    "name": "Madison County",
+    "state": "NE"
+  },
+  {
+    "name": "Franklin County",
+    "state": "NE"
+  },
+  {
+    "name": "Nance County",
+    "state": "NE"
+  },
+  {
+    "name": "Hayes County",
+    "state": "NE"
+  },
+  {
+    "name": "Gage County",
+    "state": "NE"
+  },
+  {
+    "name": "York County",
+    "state": "NE"
+  },
+  {
+    "name": "McPherson County",
+    "state": "NE"
+  },
+  {
+    "name": "Perkins County",
+    "state": "NE"
+  },
+  {
+    "name": "Rock County",
+    "state": "NE"
+  },
+  {
+    "name": "Lancaster County",
+    "state": "NE"
+  },
+  {
+    "name": "Adams County",
+    "state": "NE"
+  },
+  {
+    "name": "Vermilion County",
+    "state": "IL"
+  },
+  {
+    "name": "Stephenson County",
+    "state": "IL"
+  },
+  {
+    "name": "Richland County",
+    "state": "IL"
+  },
+  {
+    "name": "Jefferson County",
+    "state": "IL"
+  },
+  {
+    "name": "Tazewell County",
+    "state": "IL"
+  },
+  {
+    "name": "Shelby County",
+    "state": "IL"
+  },
+  {
+    "name": "Johnson County",
+    "state": "IL"
+  },
+  {
+    "name": "Stark County",
+    "state": "IL"
+  },
+  {
+    "name": "White County",
+    "state": "IL"
+  },
+  {
+    "name": "Sangamon County",
+    "state": "IL"
+  },
+  {
+    "name": "Greene County",
+    "state": "IL"
+  },
+  {
+    "name": "Ogle County",
+    "state": "IL"
+  },
+  {
+    "name": "Kendall County",
+    "state": "IL"
+  },
+  {
+    "name": "Millard County",
+    "state": "UT"
+  },
+  {
+    "name": "Weber County",
+    "state": "UT"
+  },
+  {
+    "name": "Uintah County",
+    "state": "UT"
+  },
+  {
+    "name": "Sevier County",
+    "state": "UT"
+  },
+  {
+    "name": "Wasatch County",
+    "state": "UT"
+  },
+  {
+    "name": "Grand County",
+    "state": "UT"
+  },
+  {
+    "name": "Kane County",
+    "state": "UT"
+  },
+  {
+    "name": "Iron County",
+    "state": "UT"
+  },
+  {
+    "name": "Summit County",
+    "state": "UT"
+  },
+  {
+    "name": "Duchesne County",
+    "state": "UT"
+  },
+  {
+    "name": "Piute County",
+    "state": "UT"
+  },
+  {
+    "name": "Wayne County",
+    "state": "UT"
+  },
+  {
+    "name": "Davis County",
+    "state": "UT"
+  },
+  {
+    "name": "Sanpete County",
+    "state": "UT"
+  },
+  {
+    "name": "Utah County",
+    "state": "UT"
+  },
+  {
+    "name": "San Diego County",
+    "state": "CA"
+  },
+  {
+    "name": "Plumas County",
+    "state": "CA"
+  },
+  {
+    "name": "San Benito County",
+    "state": "CA"
+  },
+  {
+    "name": "Shasta County",
+    "state": "CA"
+  },
+  {
+    "name": "Stanislaus County",
+    "state": "CA"
+  },
+  {
+    "name": "Bacon County",
+    "state": "GA"
+  },
+  {
+    "name": "Turner County",
+    "state": "GA"
+  },
+  {
+    "name": "Lowndes County",
+    "state": "GA"
+  },
+  {
+    "name": "Atkinson County",
+    "state": "GA"
+  },
+  {
+    "name": "Towns County",
+    "state": "GA"
+  },
+  {
+    "name": "Screven County",
+    "state": "GA"
+  },
+  {
+    "name": "Troup County",
+    "state": "GA"
+  },
+  {
+    "name": "Laurens County",
+    "state": "GA"
+  },
+  {
+    "name": "Fannin County",
+    "state": "GA"
+  },
+  {
+    "name": "Thomas County",
+    "state": "GA"
+  },
+  {
+    "name": "Fulton County",
+    "state": "GA"
+  },
+  {
+    "name": "Candler County",
+    "state": "GA"
+  },
+  {
+    "name": "Calhoun County",
+    "state": "GA"
+  },
+  {
+    "name": "Baker County",
+    "state": "GA"
+  },
+  {
+    "name": "Lincoln County",
+    "state": "GA"
+  },
+  {
+    "name": "Crisp County",
+    "state": "GA"
+  },
+  {
+    "name": "Houston County",
+    "state": "GA"
+  },
+  {
+    "name": "Pickens County",
+    "state": "GA"
+  },
+  {
+    "name": "Webster County",
+    "state": "GA"
+  },
+  {
+    "name": "Wayne County",
+    "state": "GA"
+  },
+  {
+    "name": "Effingham County",
+    "state": "GA"
+  },
+  {
+    "name": "Hall County",
+    "state": "GA"
+  },
+  {
+    "name": "Telfair County",
+    "state": "GA"
+  },
+  {
+    "name": "Union County",
+    "state": "OH"
+  },
+  {
+    "name": "Coshocton County",
+    "state": "OH"
+  },
+  {
+    "name": "Lapeer County",
+    "state": "MI"
+  },
+  {
+    "name": "Mackinac County",
+    "state": "MI"
+  },
+  {
+    "name": "Shelby County",
+    "state": "OH"
+  },
+  {
+    "name": "Clinton County",
+    "state": "OH"
+  },
+  {
+    "name": "Mercer County",
+    "state": "OH"
+  },
+  {
+    "name": "Ingham County",
+    "state": "MI"
+  },
+  {
+    "name": "Holmes County",
+    "state": "OH"
+  },
+  {
+    "name": "Sandusky County",
+    "state": "OH"
+  },
+  {
+    "name": "Meigs County",
+    "state": "OH"
+  },
+  {
+    "name": "Ashtabula County",
+    "state": "OH"
+  },
+  {
+    "name": "Crawford County",
+    "state": "MI"
+  },
+  {
+    "name": "Monroe County",
+    "state": "OH"
+  },
+  {
+    "name": "Brown County",
+    "state": "OH"
+  },
+  {
+    "name": "Montgomery County",
+    "state": "OH"
+  },
+  {
+    "name": "Harrison County",
+    "state": "OH"
+  },
+  {
+    "name": "Kalamazoo County",
+    "state": "MI"
+  },
+  {
+    "name": "Allen County",
+    "state": "OH"
+  },
+  {
+    "name": "Gallia County",
+    "state": "OH"
+  },
+  {
+    "name": "Butler County",
+    "state": "PA"
+  },
+  {
+    "name": "Richland County",
+    "state": "OH"
+  },
+  {
+    "name": "Lorain County",
+    "state": "OH"
+  },
+  {
+    "name": "Clark County",
+    "state": "OH"
+  },
+  {
+    "name": "Hamilton County",
+    "state": "OH"
+  },
+  {
+    "name": "Van Wert County",
+    "state": "OH"
+  },
+  {
+    "name": "Fayette County",
+    "state": "OH"
+  },
+  {
+    "name": "Fulton County",
+    "state": "OH"
+  },
+  {
+    "name": "Wyandot County",
+    "state": "OH"
+  },
+  {
+    "name": "Lawrence County",
+    "state": "OH"
+  },
+  {
+    "name": "Defiance County",
+    "state": "OH"
+  },
+  {
+    "name": "Lake County",
+    "state": "OH"
+  },
+  {
+    "name": "Hillsdale County",
+    "state": "MI"
+  },
+  {
+    "name": "Muskegon County",
+    "state": "MI"
+  },
+  {
+    "name": "Hocking County",
+    "state": "OH"
+  },
+  {
+    "name": "Morgan County",
+    "state": "OH"
+  },
+  {
+    "name": "Oakland County",
+    "state": "MI"
+  },
+  {
+    "name": "Gratiot County",
+    "state": "MI"
+  },
+  {
+    "name": "Trumbull County",
+    "state": "OH"
+  },
+  {
+    "name": "Belmont County",
+    "state": "OH"
+  },
+  {
+    "name": "Osceola County",
+    "state": "MI"
+  },
+  {
+    "name": "Saginaw County",
+    "state": "MI"
+  },
+  {
+    "name": "Paulding County",
+    "state": "OH"
+  },
+  {
+    "name": "Logan County",
+    "state": "OH"
+  },
+  {
+    "name": "Stark County",
+    "state": "OH"
+  },
+  {
+    "name": "Huron County",
+    "state": "OH"
+  },
+  {
+    "name": "Oscoda County",
+    "state": "MI"
+  },
+  {
+    "name": "Charlevoix County",
+    "state": "MI"
+  },
+  {
+    "name": "Montcalm County",
+    "state": "MI"
+  },
+  {
+    "name": "Mason County",
+    "state": "MI"
+  },
+  {
+    "name": "Columbiana County",
+    "state": "OH"
+  },
+  {
+    "name": "Fairfield County",
+    "state": "OH"
+  },
+  {
+    "name": "Morrow County",
+    "state": "OH"
+  },
+  {
+    "name": "Clare County",
+    "state": "MI"
+  },
+  {
+    "name": "Kalkaska County",
+    "state": "MI"
+  },
+  {
+    "name": "Preble County",
+    "state": "OH"
+  },
+  {
+    "name": "Snyder County",
+    "state": "PA"
+  },
+  {
+    "name": "Manistee County",
+    "state": "MI"
+  },
+  {
+    "name": "Washtenaw County",
+    "state": "MI"
+  },
+  {
+    "name": "Ottawa County",
+    "state": "OH"
+  },
+  {
+    "name": "Haines Borough",
+    "state": "AK"
+  },
+  {
+    "name": "Bristol Bay Borough",
+    "state": "AK"
+  },
+  {
+    "name": "Leflore County",
+    "state": "MS"
+  },
+  {
+    "name": "Lamar County",
+    "state": "MS"
+  },
+  {
+    "name": "Wayne County",
+    "state": "MS"
+  },
+  {
+    "name": "Warren County",
+    "state": "MS"
+  },
+  {
+    "name": "Prentiss County",
+    "state": "MS"
+  },
+  {
+    "name": "Marion County",
+    "state": "MS"
+  },
+  {
+    "name": "Tunica County",
+    "state": "MS"
+  },
+  {
+    "name": "Covington County",
+    "state": "MS"
+  },
+  {
+    "name": "Jasper County",
+    "state": "MS"
+  },
+  {
+    "name": "Smith County",
+    "state": "MS"
+  },
+  {
+    "name": "Sunflower County",
+    "state": "MS"
+  },
+  {
+    "name": "Sharkey County",
+    "state": "MS"
+  },
+  {
+    "name": "Avoyelles Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Jefferson Davis Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Lincoln Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Pointe Coupee Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Tangipahoa Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Natchitoches Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Pittsylvania County",
+    "state": "VA"
+  },
+  {
+    "name": "Lynchburg city",
+    "state": "VA"
+  },
+  {
+    "name": "Alleghany County",
+    "state": "VA"
+  },
+  {
+    "name": "Appomattox County",
+    "state": "VA"
+  },
+  {
+    "name": "Scott County",
+    "state": "VA"
+  },
+  {
+    "name": "Emporia city",
+    "state": "VA"
+  },
+  {
+    "name": "Greene County",
+    "state": "VA"
+  },
+  {
+    "name": "King William County",
+    "state": "VA"
+  },
+  {
+    "name": "Hidalgo County",
+    "state": "TX"
+  },
+  {
+    "name": "Kaufman County",
+    "state": "TX"
+  },
+  {
+    "name": "Moore County",
+    "state": "TX"
+  },
+  {
+    "name": "Menard County",
+    "state": "TX"
+  },
+  {
+    "name": "Edwards County",
+    "state": "TX"
+  },
+  {
+    "name": "San Patricio County",
+    "state": "TX"
+  },
+  {
+    "name": "Terry County",
+    "state": "TX"
+  },
+  {
+    "name": "Crockett County",
+    "state": "TX"
+  },
+  {
+    "name": "Houston County",
+    "state": "TX"
+  },
+  {
+    "name": "Waller County",
+    "state": "TX"
+  },
+  {
+    "name": "Coke County",
+    "state": "TX"
+  },
+  {
+    "name": "Ward County",
+    "state": "TX"
+  },
+  {
+    "name": "Titus County",
+    "state": "TX"
+  },
+  {
+    "name": "Lampasas County",
+    "state": "TX"
+  },
+  {
+    "name": "Haskell County",
+    "state": "TX"
+  },
+  {
+    "name": "Martin County",
+    "state": "TX"
+  },
+  {
+    "name": "Logan County",
+    "state": "AR"
+  },
+  {
+    "name": "Atlantic County",
+    "state": "NJ"
+  },
+  {
+    "name": "Kent County",
+    "state": "DE"
+  },
+  {
+    "name": "Warren County",
+    "state": "NJ"
+  },
+  {
+    "name": "Independence County",
+    "state": "AR"
+  },
+  {
+    "name": "Salem County",
+    "state": "NJ"
+  },
+  {
+    "name": "Woodruff County",
+    "state": "AR"
+  },
+  {
+    "name": "Jefferson County",
+    "state": "PA"
+  },
+  {
+    "name": "Ashley County",
+    "state": "AR"
+  },
+  {
+    "name": "Sussex County",
+    "state": "DE"
+  },
+  {
+    "name": "Montgomery County",
+    "state": "AR"
+  },
+  {
+    "name": "New Castle County",
+    "state": "DE"
+  },
+  {
+    "name": "Sevier County",
+    "state": "AR"
+  },
+  {
+    "name": "Van Buren County",
+    "state": "AR"
+  },
+  {
+    "name": "Hot Spring County",
+    "state": "AR"
+  },
+  {
+    "name": "Grady County",
+    "state": "OK"
+  },
+  {
+    "name": "Petroleum County",
+    "state": "MT"
+  },
+  {
+    "name": "Blaine County",
+    "state": "OK"
+  },
+  {
+    "name": "Pondera County",
+    "state": "MT"
+  },
+  {
+    "name": "Pittsburg County",
+    "state": "OK"
+  },
+  {
+    "name": "Woodward County",
+    "state": "OK"
+  },
+  {
+    "name": "Washington County",
+    "state": "OK"
+  },
+  {
+    "name": "Kingfisher County",
+    "state": "OK"
+  },
+  {
+    "name": "Comanche County",
+    "state": "OK"
+  },
+  {
+    "name": "Cotton County",
+    "state": "OK"
+  },
+  {
+    "name": "Custer County",
+    "state": "OK"
+  },
+  {
+    "name": "Garfield County",
+    "state": "OK"
+  },
+  {
+    "name": "Latimer County",
+    "state": "OK"
+  },
+  {
+    "name": "Washita County",
+    "state": "OK"
+  },
+  {
+    "name": "Creek County",
+    "state": "OK"
+  },
+  {
+    "name": "Hughes County",
+    "state": "OK"
+  },
+  {
+    "name": "Sequoyah County",
+    "state": "OK"
+  },
+  {
+    "name": "Haskell County",
+    "state": "OK"
+  },
+  {
+    "name": "Logan County",
+    "state": "OK"
+  },
+  {
+    "name": "Osage County",
+    "state": "OK"
+  },
+  {
+    "name": "Cherokee County",
+    "state": "OK"
+  },
+  {
+    "name": "Wagoner County",
+    "state": "OK"
+  },
+  {
+    "name": "Garvin County",
+    "state": "OK"
+  },
+  {
+    "name": "Lincoln County",
+    "state": "OK"
+  },
+  {
+    "name": "Cleveland County",
+    "state": "OK"
+  },
+  {
+    "name": "Canadian County",
+    "state": "OK"
+  },
+  {
+    "name": "Okmulgee County",
+    "state": "OK"
+  },
+  {
+    "name": "Woods County",
+    "state": "OK"
+  },
+  {
+    "name": "Carter County",
+    "state": "OK"
+  },
+  {
+    "name": "Johnston County",
+    "state": "OK"
+  },
+  {
+    "name": "Pawnee County",
+    "state": "OK"
+  },
+  {
+    "name": "Rogers County",
+    "state": "OK"
+  },
+  {
+    "name": "Pottawatomie County",
+    "state": "OK"
+  },
+  {
+    "name": "McCurtain County",
+    "state": "OK"
+  },
+  {
+    "name": "Otero County",
+    "state": "CO"
+  },
+  {
+    "name": "La Plata County",
+    "state": "CO"
+  },
+  {
+    "name": "Summit County",
+    "state": "CO"
+  },
+  {
+    "name": "Custer County",
+    "state": "CO"
+  },
+  {
+    "name": "Pitkin County",
+    "state": "CO"
+  },
+  {
+    "name": "Crowley County",
+    "state": "CO"
+  },
+  {
+    "name": "Cheyenne County",
+    "state": "CO"
+  },
+  {
+    "name": "Bent County",
+    "state": "CO"
+  },
+  {
+    "name": "Adams County",
+    "state": "CO"
+  },
+  {
+    "name": "Elbert County",
+    "state": "CO"
+  },
+  {
+    "name": "Yuma County",
+    "state": "CO"
+  },
+  {
+    "name": "Lake County",
+    "state": "CO"
+  },
+  {
+    "name": "Delta County",
+    "state": "CO"
+  },
+  {
+    "name": "Costilla County",
+    "state": "CO"
+  },
+  {
+    "name": "Garfield County",
+    "state": "CO"
+  },
+  {
+    "name": "Morgan County",
+    "state": "CO"
+  },
+  {
+    "name": "Prowers County",
+    "state": "CO"
+  },
+  {
+    "name": "Montezuma County",
+    "state": "CO"
+  },
+  {
+    "name": "Mineral County",
+    "state": "CO"
+  },
+  {
+    "name": "Lincoln County",
+    "state": "CO"
+  },
+  {
+    "name": "Jefferson County",
+    "state": "CO"
+  },
+  {
+    "name": "Rio Blanco County",
+    "state": "CO"
+  },
+  {
+    "name": "Sedgwick County",
+    "state": "CO"
+  },
+  {
+    "name": "San Miguel County",
+    "state": "CO"
+  },
+  {
+    "name": "Alamosa County",
+    "state": "CO"
+  },
+  {
+    "name": "Wichita County",
+    "state": "KS"
+  },
+  {
+    "name": "Stevens County",
+    "state": "KS"
+  },
+  {
+    "name": "Graham County",
+    "state": "KS"
+  },
+  {
+    "name": "Kearny County",
+    "state": "KS"
+  },
+  {
+    "name": "Gove County",
+    "state": "KS"
+  },
+  {
+    "name": "Neosho County",
+    "state": "KS"
+  },
+  {
+    "name": "Smith County",
+    "state": "KS"
+  },
+  {
+    "name": "Russell County",
+    "state": "KS"
+  },
+  {
+    "name": "Rawlins County",
+    "state": "KS"
+  },
+  {
+    "name": "Shawnee County",
+    "state": "KS"
+  },
+  {
+    "name": "Riley County",
+    "state": "KS"
+  },
+  {
+    "name": "Coffey County",
+    "state": "KS"
+  },
+  {
+    "name": "Stafford County",
+    "state": "KS"
+  },
+  {
+    "name": "Elk County",
+    "state": "KS"
+  },
+  {
+    "name": "Ottawa County",
+    "state": "KS"
+  },
+  {
+    "name": "Sedgwick County",
+    "state": "KS"
+  },
+  {
+    "name": "Greenwood County",
+    "state": "KS"
+  },
+  {
+    "name": "Meade County",
+    "state": "KS"
+  },
+  {
+    "name": "Mason County",
+    "state": "WA"
+  },
+  {
+    "name": "Pend Oreille County",
+    "state": "WA"
+  },
+  {
+    "name": "Skagit County",
+    "state": "WA"
+  },
+  {
+    "name": "Clallam County",
+    "state": "WA"
+  },
+  {
+    "name": "Ferry County",
+    "state": "WA"
+  },
+  {
+    "name": "Calvert County",
+    "state": "MD"
+  },
+  {
+    "name": "Asotin County",
+    "state": "WA"
+  },
+  {
+    "name": "Franklin County",
+    "state": "WA"
+  },
+  {
+    "name": "Clark County",
+    "state": "WA"
+  },
+  {
+    "name": "Kittitas County",
+    "state": "WA"
+  },
+  {
+    "name": "Howard County",
+    "state": "MD"
+  },
+  {
+    "name": "Klickitat County",
+    "state": "WA"
+  },
+  {
+    "name": "Holt County",
+    "state": "NE"
+  },
+  {
+    "name": "Platte County",
+    "state": "NE"
+  },
+  {
+    "name": "Fairfield County",
+    "state": "CT"
+  },
+  {
+    "name": "Fillmore County",
+    "state": "NE"
+  },
+  {
+    "name": "New London County",
+    "state": "CT"
+  },
+  {
+    "name": "Custer County",
+    "state": "NE"
+  },
+  {
+    "name": "Buffalo County",
+    "state": "NE"
+  },
+  {
+    "name": "Mason County",
+    "state": "IL"
+  },
+  {
+    "name": "Cook County",
+    "state": "IL"
+  },
+  {
+    "name": "St. Clair County",
+    "state": "IL"
+  },
+  {
+    "name": "Williamson County",
+    "state": "IL"
+  },
+  {
+    "name": "Garfield County",
+    "state": "UT"
+  },
+  {
+    "name": "Rich County",
+    "state": "UT"
+  },
+  {
+    "name": "Mariposa County",
+    "state": "CA"
+  },
+  {
+    "name": "Fresno County",
+    "state": "CA"
+  },
+  {
+    "name": "Alpine County",
+    "state": "CA"
+  },
+  {
+    "name": "Marin County",
+    "state": "CA"
+  },
+  {
+    "name": "Glenn County",
+    "state": "CA"
+  },
+  {
+    "name": "Emery County",
+    "state": "UT"
+  },
+  {
+    "name": "Lassen County",
+    "state": "CA"
+  },
+  {
+    "name": "Del Norte County",
+    "state": "CA"
+  },
+  {
+    "name": "Oglethorpe County",
+    "state": "GA"
+  },
+  {
+    "name": "Plymouth County",
+    "state": "MA"
+  },
+  {
+    "name": "Berkshire County",
+    "state": "MA"
+  },
+  {
+    "name": "Washington County",
+    "state": "GA"
+  },
+  {
+    "name": "Bibb County",
+    "state": "GA"
+  },
+  {
+    "name": "Spalding County",
+    "state": "GA"
+  },
+  {
+    "name": "Dodge County",
+    "state": "GA"
+  },
+  {
+    "name": "Barnstable County",
+    "state": "MA"
+  },
+  {
+    "name": "Taliaferro County",
+    "state": "GA"
+  },
+  {
+    "name": "Taylor County",
+    "state": "KY"
+  },
+  {
+    "name": "Knox County",
+    "state": "KY"
+  },
+  {
+    "name": "Decatur County",
+    "state": "GA"
+  },
+  {
+    "name": "Floyd County",
+    "state": "KY"
+  },
+  {
+    "name": "Laurel County",
+    "state": "KY"
+  },
+  {
+    "name": "Calloway County",
+    "state": "KY"
+  },
+  {
+    "name": "Lumpkin County",
+    "state": "GA"
+  },
+  {
+    "name": "Catoosa County",
+    "state": "GA"
+  },
+  {
+    "name": "Norfolk County",
+    "state": "MA"
+  },
+  {
+    "name": "Bulloch County",
+    "state": "GA"
+  },
+  {
+    "name": "Bristol County",
+    "state": "MA"
+  },
+  {
+    "name": "Hopkins County",
+    "state": "KY"
+  },
+  {
+    "name": "Anderson County",
+    "state": "KY"
+  },
+  {
+    "name": "Harrison County",
+    "state": "KY"
+  },
+  {
+    "name": "Henry County",
+    "state": "KY"
+  },
+  {
+    "name": "Jenkins County",
+    "state": "GA"
+  },
+  {
+    "name": "Hancock County",
+    "state": "GA"
+  },
+  {
+    "name": "Suffolk County",
+    "state": "MA"
+  },
+  {
+    "name": "Upson County",
+    "state": "GA"
+  },
+  {
+    "name": "Dougherty County",
+    "state": "GA"
+  },
+  {
+    "name": "Muscogee County",
+    "state": "GA"
+  },
+  {
+    "name": "Bell County",
+    "state": "KY"
+  },
+  {
+    "name": "Lincoln County",
+    "state": "KY"
+  },
+  {
+    "name": "Clay County",
+    "state": "GA"
+  },
+  {
+    "name": "Marion County",
+    "state": "GA"
+  },
+  {
+    "name": "Douglas County",
+    "state": "GA"
+  },
+  {
+    "name": "Coweta County",
+    "state": "GA"
+  },
+  {
+    "name": "Stewart County",
+    "state": "GA"
+  },
+  {
+    "name": "Heard County",
+    "state": "GA"
+  },
+  {
+    "name": "Jefferson County",
+    "state": "KY"
+  },
+  {
+    "name": "Wilkinson County",
+    "state": "GA"
+  },
+  {
+    "name": "Wheeler County",
+    "state": "GA"
+  },
+  {
+    "name": "Franklin County",
+    "state": "MA"
+  },
+  {
+    "name": "Hampshire County",
+    "state": "MA"
+  },
+  {
+    "name": "McIntosh County",
+    "state": "GA"
+  },
+  {
+    "name": "Essex County",
+    "state": "MA"
+  },
+  {
+    "name": "Worth County",
+    "state": "GA"
+  },
+  {
+    "name": "Butts County",
+    "state": "GA"
+  },
+  {
+    "name": "Kenton County",
+    "state": "KY"
+  },
+  {
+    "name": "Jasper County",
+    "state": "GA"
+  },
+  {
+    "name": "Macon County",
+    "state": "GA"
+  },
+  {
+    "name": "Harris County",
+    "state": "GA"
+  },
+  {
+    "name": "Warren County",
+    "state": "KY"
+  },
+  {
+    "name": "Boone County",
+    "state": "KY"
+  },
+  {
+    "name": "Tift County",
+    "state": "GA"
+  },
+  {
+    "name": "Jeff Davis County",
+    "state": "GA"
+  },
+  {
+    "name": "Henderson County",
+    "state": "KY"
+  },
+  {
+    "name": "Elliott County",
+    "state": "KY"
+  },
+  {
+    "name": "Webster County",
+    "state": "KY"
+  },
+  {
+    "name": "Boyd County",
+    "state": "KY"
+  },
+  {
+    "name": "Stephens County",
+    "state": "GA"
+  },
+  {
+    "name": "Franklin County",
+    "state": "KY"
+  },
+  {
+    "name": "Colquitt County",
+    "state": "GA"
+  },
+  {
+    "name": "Clay County",
+    "state": "KY"
+  },
+  {
+    "name": "Lee County",
+    "state": "KY"
+  },
+  {
+    "name": "Marshall County",
+    "state": "KY"
+  },
+  {
+    "name": "Harlan County",
+    "state": "KY"
+  },
+  {
+    "name": "Clinton County",
+    "state": "KY"
+  },
+  {
+    "name": "Green County",
+    "state": "KY"
+  },
+  {
+    "name": "Monroe County",
+    "state": "KY"
+  },
+  {
+    "name": "Pendleton County",
+    "state": "KY"
+  },
+  {
+    "name": "Edmonson County",
+    "state": "KY"
+  },
+  {
+    "name": "Lewis County",
+    "state": "KY"
+  },
+  {
+    "name": "Treutlen County",
+    "state": "GA"
+  },
+  {
+    "name": "McDuffie County",
+    "state": "GA"
+  },
+  {
+    "name": "Livingston County",
+    "state": "KY"
+  },
+  {
+    "name": "Wayne County",
+    "state": "KY"
+  },
+  {
+    "name": "Metcalfe County",
+    "state": "KY"
+  },
+  {
+    "name": "Garrard County",
+    "state": "KY"
+  },
+  {
+    "name": "DeKalb County",
+    "state": "GA"
+  },
+  {
+    "name": "Fulton County",
+    "state": "KY"
+  },
+  {
+    "name": "Wolfe County",
+    "state": "KY"
+  },
+  {
+    "name": "Jackson County",
+    "state": "KY"
+  },
+  {
+    "name": "Rowan County",
+    "state": "KY"
+  },
+  {
+    "name": "Lawrence County",
+    "state": "KY"
+  },
+  {
+    "name": "Nicholas County",
+    "state": "KY"
+  },
+  {
+    "name": "Ohio County",
+    "state": "KY"
+  },
+  {
+    "name": "Owen County",
+    "state": "KY"
+  },
+  {
+    "name": "Oldham County",
+    "state": "KY"
+  },
+  {
+    "name": "Spencer County",
+    "state": "KY"
+  },
+  {
+    "name": "Magoffin County",
+    "state": "KY"
+  },
+  {
+    "name": "Ballard County",
+    "state": "KY"
+  },
+  {
+    "name": "Johnson County",
+    "state": "KY"
+  },
+  {
+    "name": "Greenup County",
+    "state": "KY"
+  },
+  {
+    "name": "Logan County",
+    "state": "KY"
+  },
+  {
+    "name": "Madison County",
+    "state": "KY"
+  },
+  {
+    "name": "Floyd County",
+    "state": "GA"
+  },
+  {
+    "name": "Larue County",
+    "state": "KY"
+  },
+  {
+    "name": "Lyon County",
+    "state": "KY"
+  },
+  {
+    "name": "Putnam County",
+    "state": "GA"
+  },
+  {
+    "name": "Terrell County",
+    "state": "GA"
+  },
+  {
+    "name": "Nelson County",
+    "state": "KY"
+  },
+  {
+    "name": "Grayson County",
+    "state": "KY"
+  },
+  {
+    "name": "Bourbon County",
+    "state": "KY"
+  },
+  {
+    "name": "Hardin County",
+    "state": "KY"
+  },
+  {
+    "name": "Cumberland County",
+    "state": "KY"
+  },
+  {
+    "name": "Montgomery County",
+    "state": "KY"
+  },
+  {
+    "name": "Mason County",
+    "state": "KY"
+  },
+  {
+    "name": "Tattnall County",
+    "state": "GA"
+  },
+  {
+    "name": "McCracken County",
+    "state": "KY"
+  },
+  {
+    "name": "Washington County",
+    "state": "KY"
+  },
+  {
+    "name": "Crawford County",
+    "state": "GA"
+  },
+  {
+    "name": "Long County",
+    "state": "GA"
+  },
+  {
+    "name": "Carter County",
+    "state": "KY"
+  },
+  {
+    "name": "Allen County",
+    "state": "KY"
+  },
+  {
+    "name": "Todd County",
+    "state": "KY"
+  },
+  {
+    "name": "Bath County",
+    "state": "KY"
+  },
+  {
+    "name": "Clark County",
+    "state": "KY"
+  },
+  {
+    "name": "Hampden County",
+    "state": "MA"
+  },
+  {
+    "name": "Dukes County",
+    "state": "MA"
+  },
+  {
+    "name": "Hart County",
+    "state": "GA"
+  },
+  {
+    "name": "Cherokee County",
+    "state": "GA"
+  },
+  {
+    "name": "Chattahoochee County",
+    "state": "GA"
+  },
+  {
+    "name": "Montgomery County",
+    "state": "GA"
+  },
+  {
+    "name": "Nantucket County",
+    "state": "MA"
+  },
+  {
+    "name": "Middlesex County",
+    "state": "MA"
+  },
+  {
+    "name": "Graves County",
+    "state": "KY"
+  },
+  {
+    "name": "Carlisle County",
+    "state": "KY"
+  },
+  {
+    "name": "Hancock County",
+    "state": "KY"
+  },
+  {
+    "name": "Walton County",
+    "state": "GA"
+  },
+  {
+    "name": "Worcester County",
+    "state": "MA"
+  },
+  {
+    "name": "Pike County",
+    "state": "GA"
+  },
+  {
+    "name": "Ben Hill County",
+    "state": "GA"
+  },
+  {
+    "name": "Barrow County",
+    "state": "GA"
+  },
+  {
+    "name": "Banks County",
+    "state": "GA"
+  },
+  {
+    "name": "Paulding County",
+    "state": "GA"
+  },
+  {
+    "name": "Grady County",
+    "state": "GA"
+  },
+  {
+    "name": "Trimble County",
+    "state": "KY"
+  },
+  {
+    "name": "Bullitt County",
+    "state": "KY"
+  },
+  {
+    "name": "Union County",
+    "state": "KY"
+  },
+  {
+    "name": "Estill County",
+    "state": "KY"
+  },
+  {
+    "name": "Gordon County",
+    "state": "GA"
+  },
+  {
+    "name": "Mercer County",
+    "state": "KY"
+  },
+  {
+    "name": "Hickman County",
+    "state": "KY"
+  },
+  {
+    "name": "Letcher County",
+    "state": "KY"
+  },
+  {
+    "name": "Jackson County",
+    "state": "GA"
+  },
+  {
+    "name": "Perry County",
+    "state": "KY"
+  },
+  {
+    "name": "Muhlenberg County",
+    "state": "KY"
+  },
+  {
+    "name": "Fayette County",
+    "state": "KY"
+  },
+  {
+    "name": "Whitfield County",
+    "state": "GA"
+  },
+  {
+    "name": "Habersham County",
+    "state": "GA"
+  },
+  {
+    "name": "Pulaski County",
+    "state": "KY"
+  },
+  {
+    "name": "Fleming County",
+    "state": "KY"
+  },
+  {
+    "name": "Gallatin County",
+    "state": "KY"
+  },
+  {
+    "name": "Champaign County",
+    "state": "OH"
+  },
+  {
+    "name": "Pike County",
+    "state": "OH"
+  },
+  {
+    "name": "Jefferson County",
+    "state": "OH"
+  },
+  {
+    "name": "Citrus County",
+    "state": "FL"
+  },
+  {
+    "name": "Seneca County",
+    "state": "OH"
+  },
+  {
+    "name": "Miami County",
+    "state": "OH"
+  },
+  {
+    "name": "Brevard County",
+    "state": "FL"
+  },
+  {
+    "name": "Franklin County",
+    "state": "FL"
+  },
+  {
+    "name": "Broward County",
+    "state": "FL"
+  },
+  {
+    "name": "Crawford County",
+    "state": "OH"
+  },
+  {
+    "name": "Wayne County",
+    "state": "OH"
+  },
+  {
+    "name": "Ross County",
+    "state": "OH"
+  },
+  {
+    "name": "Erie County",
+    "state": "OH"
+  },
+  {
+    "name": "Tuscarawas County",
+    "state": "OH"
+  },
+  {
+    "name": "Delaware County",
+    "state": "OH"
+  },
+  {
+    "name": "Butler County",
+    "state": "OH"
+  },
+  {
+    "name": "Hamilton County",
+    "state": "FL"
+  },
+  {
+    "name": "Jackson County",
+    "state": "FL"
+  },
+  {
+    "name": "Okeechobee County",
+    "state": "FL"
+  },
+  {
+    "name": "Monroe County",
+    "state": "FL"
+  },
+  {
+    "name": "Duval County",
+    "state": "FL"
+  },
+  {
+    "name": "Athens County",
+    "state": "OH"
+  },
+  {
+    "name": "Madison County",
+    "state": "OH"
+  },
+  {
+    "name": "Licking County",
+    "state": "OH"
+  },
+  {
+    "name": "Manatee County",
+    "state": "FL"
+  },
+  {
+    "name": "Greene County",
+    "state": "OH"
+  },
+  {
+    "name": "Washington County",
+    "state": "OH"
+  },
+  {
+    "name": "Lee County",
+    "state": "FL"
+  },
+  {
+    "name": "Dixie County",
+    "state": "FL"
+  },
+  {
+    "name": "Putnam County",
+    "state": "OH"
+  },
+  {
+    "name": "Lake County",
+    "state": "FL"
+  },
+  {
+    "name": "Jefferson County",
+    "state": "FL"
+  },
+  {
+    "name": "Wood County",
+    "state": "OH"
+  },
+  {
+    "name": "Guernsey County",
+    "state": "OH"
+  },
+  {
+    "name": "Muskingum County",
+    "state": "OH"
+  },
+  {
+    "name": "Lucas County",
+    "state": "OH"
+  },
+  {
+    "name": "Geauga County",
+    "state": "OH"
+  },
+  {
+    "name": "Marion County",
+    "state": "OH"
+  },
+  {
+    "name": "Clermont County",
+    "state": "OH"
+  },
+  {
+    "name": "Highland County",
+    "state": "OH"
+  },
+  {
+    "name": "Mahoning County",
+    "state": "OH"
+  },
+  {
+    "name": "Perry County",
+    "state": "OH"
+  },
+  {
+    "name": "Noble County",
+    "state": "OH"
+  },
+  {
+    "name": "Hardin County",
+    "state": "OH"
+  },
+  {
+    "name": "Summit County",
+    "state": "OH"
+  },
+  {
+    "name": "Auglaize County",
+    "state": "OH"
+  },
+  {
+    "name": "Knox County",
+    "state": "OH"
+  },
+  {
+    "name": "Pickaway County",
+    "state": "OH"
+  },
+  {
+    "name": "Williams County",
+    "state": "OH"
+  },
+  {
+    "name": "Portage County",
+    "state": "OH"
+  },
+  {
+    "name": "Adams County",
+    "state": "OH"
+  },
+  {
+    "name": "Darke County",
+    "state": "OH"
+  },
+  {
+    "name": "Carroll County",
+    "state": "OH"
+  },
+  {
+    "name": "Jackson County",
+    "state": "OH"
+  },
+  {
+    "name": "Ashland County",
+    "state": "OH"
+  },
+  {
+    "name": "Vinton County",
+    "state": "OH"
+  },
+  {
+    "name": "Hancock County",
+    "state": "OH"
+  },
+  {
+    "name": "Cuyahoga County",
+    "state": "OH"
+  },
+  {
+    "name": "Escambia County",
+    "state": "FL"
+  },
+  {
+    "name": "Itawamba County",
+    "state": "MS"
+  },
+  {
+    "name": "Atascosa County",
+    "state": "TX"
+  },
+  {
+    "name": "Tippah County",
+    "state": "MS"
+  },
+  {
+    "name": "Montgomery County",
+    "state": "MS"
+  },
+  {
+    "name": "Jefferson County",
+    "state": "MS"
+  },
+  {
+    "name": "Scott County",
+    "state": "MS"
+  },
+  {
+    "name": "Wilkinson County",
+    "state": "MS"
+  },
+  {
+    "name": "Perry County",
+    "state": "MS"
+  },
+  {
+    "name": "Quitman County",
+    "state": "MS"
+  },
+  {
+    "name": "Pike County",
+    "state": "MS"
+  },
+  {
+    "name": "Fairfax County",
+    "state": "VA"
+  },
+  {
+    "name": "Pontotoc County",
+    "state": "MS"
+  },
+  {
+    "name": "Rankin County",
+    "state": "MS"
+  },
+  {
+    "name": "Lincoln County",
+    "state": "MS"
+  },
+  {
+    "name": "St. Mary Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Washington Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Union Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Lafourche Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Iberia Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Bossier Parish",
+    "state": "LA"
+  },
+  {
+    "name": "De Soto Parish",
+    "state": "LA"
+  },
+  {
+    "name": "District of Columbia",
+    "state": "DC"
+  },
+  {
+    "name": "Franklin city",
+    "state": "VA"
+  },
+  {
+    "name": "Patrick County",
+    "state": "VA"
+  },
+  {
+    "name": "Surry County",
+    "state": "VA"
+  },
+  {
+    "name": "Mecklenburg County",
+    "state": "VA"
+  },
+  {
+    "name": "Dinwiddie County",
+    "state": "VA"
+  },
+  {
+    "name": "Frederick County",
+    "state": "VA"
+  },
+  {
+    "name": "Botetourt County",
+    "state": "VA"
+  },
+  {
+    "name": "Buchanan County",
+    "state": "VA"
+  },
+  {
+    "name": "Giles County",
+    "state": "VA"
+  },
+  {
+    "name": "Colonial Heights city",
+    "state": "VA"
+  },
+  {
+    "name": "Hampton city",
+    "state": "VA"
+  },
+  {
+    "name": "Prince Edward County",
+    "state": "VA"
+  },
+  {
+    "name": "Goochland County",
+    "state": "VA"
+  },
+  {
+    "name": "Northumberland County",
+    "state": "VA"
+  },
+  {
+    "name": "Russell County",
+    "state": "VA"
+  },
+  {
+    "name": "Bristol city",
+    "state": "VA"
+  },
+  {
+    "name": "Prince George County",
+    "state": "VA"
+  },
+  {
+    "name": "Page County",
+    "state": "VA"
+  },
+  {
+    "name": "Halifax County",
+    "state": "VA"
+  },
+  {
+    "name": "Albemarle County",
+    "state": "VA"
+  },
+  {
+    "name": "Campbell County",
+    "state": "VA"
+  },
+  {
+    "name": "Prince William County",
+    "state": "VA"
+  },
+  {
+    "name": "Southampton County",
+    "state": "VA"
+  },
+  {
+    "name": "New Kent County",
+    "state": "VA"
+  },
+  {
+    "name": "Lunenburg County",
+    "state": "VA"
+  },
+  {
+    "name": "Fluvanna County",
+    "state": "VA"
+  },
+  {
+    "name": "Louisa County",
+    "state": "VA"
+  },
+  {
+    "name": "Loudoun County",
+    "state": "VA"
+  },
+  {
+    "name": "Pulaski County",
+    "state": "VA"
+  },
+  {
+    "name": "Chesterfield County",
+    "state": "VA"
+  },
+  {
+    "name": "King George County",
+    "state": "VA"
+  },
+  {
+    "name": "Richmond County",
+    "state": "VA"
+  },
+  {
+    "name": "Essex County",
+    "state": "VA"
+  },
+  {
+    "name": "Carroll County",
+    "state": "VA"
+  },
+  {
+    "name": "Roanoke County",
+    "state": "VA"
+  },
+  {
+    "name": "Norton city",
+    "state": "VA"
+  },
+  {
+    "name": "Clarke County",
+    "state": "VA"
+  },
+  {
+    "name": "Fredericksburg city",
+    "state": "VA"
+  },
+  {
+    "name": "Nelson County",
+    "state": "VA"
+  },
+  {
+    "name": "Franklin County",
+    "state": "VA"
+  },
+  {
+    "name": "Manassas Park city",
+    "state": "VA"
+  },
+  {
+    "name": "Wise County",
+    "state": "VA"
+  },
+  {
+    "name": "Hemphill County",
+    "state": "TX"
+  },
+  {
+    "name": "Hartley County",
+    "state": "TX"
+  },
+  {
+    "name": "Young County",
+    "state": "TX"
+  },
+  {
+    "name": "Burleson County",
+    "state": "TX"
+  },
+  {
+    "name": "Hardin County",
+    "state": "TX"
+  },
+  {
+    "name": "Gonzales County",
+    "state": "TX"
+  },
+  {
+    "name": "McMullen County",
+    "state": "TX"
+  },
+  {
+    "name": "Erath County",
+    "state": "TX"
+  },
+  {
+    "name": "Galveston County",
+    "state": "TX"
+  },
+  {
+    "name": "Hopkins County",
+    "state": "TX"
+  },
+  {
+    "name": "McLennan County",
+    "state": "TX"
+  },
+  {
+    "name": "Madison County",
+    "state": "TX"
+  },
+  {
+    "name": "McCulloch County",
+    "state": "TX"
+  },
+  {
+    "name": "Donley County",
+    "state": "TX"
+  },
+  {
+    "name": "Kent County",
+    "state": "TX"
+  },
+  {
+    "name": "Real County",
+    "state": "TX"
+  },
+  {
+    "name": "Sutton County",
+    "state": "TX"
+  },
+  {
+    "name": "Midland County",
+    "state": "TX"
+  },
+  {
+    "name": "Hudspeth County",
+    "state": "TX"
+  },
+  {
+    "name": "Zavala County",
+    "state": "TX"
+  },
+  {
+    "name": "Harrison County",
+    "state": "TX"
+  },
+  {
+    "name": "Comanche County",
+    "state": "TX"
+  },
+  {
+    "name": "Mitchell County",
+    "state": "TX"
+  },
+  {
+    "name": "Navarro County",
+    "state": "TX"
+  },
+  {
+    "name": "Crane County",
+    "state": "TX"
+  },
+  {
+    "name": "Lubbock County",
+    "state": "TX"
+  },
+  {
+    "name": "Essex County",
+    "state": "NJ"
+  },
+  {
+    "name": "Somerset County",
+    "state": "NJ"
+  },
+  {
+    "name": "Monmouth County",
+    "state": "NJ"
+  },
+  {
+    "name": "Lewis County",
+    "state": "ID"
+  },
+  {
+    "name": "Idaho County",
+    "state": "ID"
+  },
+  {
+    "name": "Granite County",
+    "state": "MT"
+  },
+  {
+    "name": "Camas County",
+    "state": "ID"
+  },
+  {
+    "name": "Park County",
+    "state": "MT"
+  },
+  {
+    "name": "Power County",
+    "state": "ID"
+  },
+  {
+    "name": "Sanders County",
+    "state": "MT"
+  },
+  {
+    "name": "Hill County",
+    "state": "MT"
+  },
+  {
+    "name": "Glacier County",
+    "state": "MT"
+  },
+  {
+    "name": "Bear Lake County",
+    "state": "ID"
+  },
+  {
+    "name": "Chouteau County",
+    "state": "MT"
+  },
+  {
+    "name": "Meagher County",
+    "state": "MT"
+  },
+  {
+    "name": "Latah County",
+    "state": "ID"
+  },
+  {
+    "name": "Washington County",
+    "state": "ID"
+  },
+  {
+    "name": "Canyon County",
+    "state": "ID"
+  },
+  {
+    "name": "McCone County",
+    "state": "MT"
+  },
+  {
+    "name": "Yellowstone County",
+    "state": "MT"
+  },
+  {
+    "name": "Phillips County",
+    "state": "MT"
+  },
+  {
+    "name": "Carter County",
+    "state": "MT"
+  },
+  {
+    "name": "Powell County",
+    "state": "MT"
+  },
+  {
+    "name": "Gem County",
+    "state": "ID"
+  },
+  {
+    "name": "Caribou County",
+    "state": "ID"
+  },
+  {
+    "name": "Silver Bow County",
+    "state": "MT"
+  },
+  {
+    "name": "Missoula County",
+    "state": "MT"
+  },
+  {
+    "name": "Clark County",
+    "state": "ID"
+  },
+  {
+    "name": "Prairie County",
+    "state": "MT"
+  },
+  {
+    "name": "Valley County",
+    "state": "MT"
+  },
+  {
+    "name": "Carbon County",
+    "state": "MT"
+  },
+  {
+    "name": "Cascade County",
+    "state": "MT"
+  },
+  {
+    "name": "Toole County",
+    "state": "MT"
+  },
+  {
+    "name": "Musselshell County",
+    "state": "MT"
+  },
+  {
+    "name": "Lake County",
+    "state": "MT"
+  },
+  {
+    "name": "Lemhi County",
+    "state": "ID"
+  },
+  {
+    "name": "Fremont County",
+    "state": "ID"
+  },
+  {
+    "name": "Powder River County",
+    "state": "MT"
+  },
+  {
+    "name": "Garfield County",
+    "state": "MT"
+  },
+  {
+    "name": "Beaverhead County",
+    "state": "MT"
+  },
+  {
+    "name": "Gallatin County",
+    "state": "MT"
+  },
+  {
+    "name": "Broadwater County",
+    "state": "MT"
+  },
+  {
+    "name": "Roosevelt County",
+    "state": "MT"
+  },
+  {
+    "name": "Richland County",
+    "state": "MT"
+  },
+  {
+    "name": "Stillwater County",
+    "state": "MT"
+  },
+  {
+    "name": "Bonner County",
+    "state": "ID"
+  },
+  {
+    "name": "Liberty County",
+    "state": "MT"
+  },
+  {
+    "name": "Teton County",
+    "state": "MT"
+  },
+  {
+    "name": "Lewis and Clark County",
+    "state": "MT"
+  },
+  {
+    "name": "Twin Falls County",
+    "state": "ID"
+  },
+  {
+    "name": "Treasure County",
+    "state": "MT"
+  },
+  {
+    "name": "Fallon County",
+    "state": "MT"
+  },
+  {
+    "name": "Deer Lodge County",
+    "state": "MT"
+  },
+  {
+    "name": "Bonneville County",
+    "state": "ID"
+  },
+  {
+    "name": "Sheridan County",
+    "state": "MT"
+  },
+  {
+    "name": "Rosebud County",
+    "state": "MT"
+  },
+  {
+    "name": "Big Horn County",
+    "state": "MT"
+  },
+  {
+    "name": "Blaine County",
+    "state": "MT"
+  },
+  {
+    "name": "Lincoln County",
+    "state": "MT"
+  },
+  {
+    "name": "Flathead County",
+    "state": "MT"
+  },
+  {
+    "name": "Madison County",
+    "state": "MT"
+  },
+  {
+    "name": "Judith Basin County",
+    "state": "MT"
+  },
+  {
+    "name": "Wheatland County",
+    "state": "MT"
+  },
+  {
+    "name": "Ravalli County",
+    "state": "MT"
+  },
+  {
+    "name": "Golden Valley County",
+    "state": "MT"
+  },
+  {
+    "name": "Dawson County",
+    "state": "MT"
+  },
+  {
+    "name": "Daniels County",
+    "state": "MT"
+  },
+  {
+    "name": "Minidoka County",
+    "state": "ID"
+  },
+  {
+    "name": "Custer County",
+    "state": "MT"
+  },
+  {
+    "name": "Wibaux County",
+    "state": "MT"
+  },
+  {
+    "name": "Mineral County",
+    "state": "MT"
+  },
+  {
+    "name": "Boundary County",
+    "state": "ID"
+  },
+  {
+    "name": "Jefferson County",
+    "state": "MT"
+  },
+  {
+    "name": "Fergus County",
+    "state": "MT"
+  },
+  {
+    "name": "Sweet Grass County",
+    "state": "MT"
+  },
+  {
+    "name": "Boise County",
+    "state": "ID"
+  },
+  {
+    "name": "Custer County",
+    "state": "ID"
+  },
+  {
+    "name": "Phillips County",
+    "state": "CO"
+  },
+  {
+    "name": "Ouray County",
+    "state": "CO"
+  },
+  {
+    "name": "Mesa County",
+    "state": "CO"
+  },
+  {
+    "name": "Saguache County",
+    "state": "CO"
+  },
+  {
+    "name": "Douglas County",
+    "state": "CO"
+  },
+  {
+    "name": "Dolores County",
+    "state": "CO"
+  },
+  {
+    "name": "Rio Grande County",
+    "state": "CO"
+  },
+  {
+    "name": "Pueblo County",
+    "state": "CO"
+  },
+  {
+    "name": "Kit Carson County",
+    "state": "CO"
+  },
+  {
+    "name": "Baca County",
+    "state": "CO"
+  },
+  {
+    "name": "Grand County",
+    "state": "CO"
+  },
+  {
+    "name": "Logan County",
+    "state": "CO"
+  },
+  {
+    "name": "Clear Creek County",
+    "state": "CO"
+  },
+  {
+    "name": "Moffat County",
+    "state": "CO"
+  },
+  {
+    "name": "Teller County",
+    "state": "CO"
+  },
+  {
+    "name": "Boulder County",
+    "state": "CO"
+  },
+  {
+    "name": "Kiowa County",
+    "state": "CO"
+  },
+  {
+    "name": "Chaffee County",
+    "state": "CO"
+  },
+  {
+    "name": "Hinsdale County",
+    "state": "CO"
+  },
+  {
+    "name": "Jackson County",
+    "state": "CO"
+  },
+  {
+    "name": "Clark County",
+    "state": "MO"
+  },
+  {
+    "name": "Caldwell County",
+    "state": "MO"
+  },
+  {
+    "name": "Oregon County",
+    "state": "MO"
+  },
+  {
+    "name": "Linn County",
+    "state": "MO"
+  },
+  {
+    "name": "Platte County",
+    "state": "MO"
+  },
+  {
+    "name": "Miami County",
+    "state": "KS"
+  },
+  {
+    "name": "Mitchell County",
+    "state": "KS"
+  },
+  {
+    "name": "Audrain County",
+    "state": "MO"
+  },
+  {
+    "name": "Stoddard County",
+    "state": "MO"
+  },
+  {
+    "name": "Holt County",
+    "state": "MO"
+  },
+  {
+    "name": "Hickory County",
+    "state": "MO"
+  },
+  {
+    "name": "Warren County",
+    "state": "MO"
+  },
+  {
+    "name": "Bates County",
+    "state": "MO"
+  },
+  {
+    "name": "Howard County",
+    "state": "MO"
+  },
+  {
+    "name": "Schuyler County",
+    "state": "MO"
+  },
+  {
+    "name": "Mississippi County",
+    "state": "MO"
+  },
+  {
+    "name": "St. Francois County",
+    "state": "MO"
+  },
+  {
+    "name": "Reynolds County",
+    "state": "MO"
+  },
+  {
+    "name": "Douglas County",
+    "state": "MO"
+  },
+  {
+    "name": "McDonald County",
+    "state": "MO"
+  },
+  {
+    "name": "Johnson County",
+    "state": "MO"
+  },
+  {
+    "name": "Maries County",
+    "state": "MO"
+  },
+  {
+    "name": "Gentry County",
+    "state": "MO"
+  },
+  {
+    "name": "Carroll County",
+    "state": "MO"
+  },
+  {
+    "name": "Marion County",
+    "state": "KS"
+  },
+  {
+    "name": "Cedar County",
+    "state": "MO"
+  },
+  {
+    "name": "Pemiscot County",
+    "state": "MO"
+  },
+  {
+    "name": "Ellsworth County",
+    "state": "KS"
+  },
+  {
+    "name": "Sumner County",
+    "state": "KS"
+  },
+  {
+    "name": "Pratt County",
+    "state": "KS"
+  },
+  {
+    "name": "Crawford County",
+    "state": "MO"
+  },
+  {
+    "name": "Benton County",
+    "state": "MO"
+  },
+  {
+    "name": "Lawrence County",
+    "state": "MO"
+  },
+  {
+    "name": "Mercer County",
+    "state": "MO"
+  },
+  {
+    "name": "Lewis County",
+    "state": "MO"
+  },
+  {
+    "name": "Laclede County",
+    "state": "MO"
+  },
+  {
+    "name": "Bollinger County",
+    "state": "MO"
+  },
+  {
+    "name": "Clinton County",
+    "state": "MO"
+  },
+  {
+    "name": "Douglas County",
+    "state": "KS"
+  },
+  {
+    "name": "Moniteau County",
+    "state": "MO"
+  },
+  {
+    "name": "Cowlitz County",
+    "state": "WA"
+  },
+  {
+    "name": "Pacific County",
+    "state": "WA"
+  },
+  {
+    "name": "Thurston County",
+    "state": "WA"
+  },
+  {
+    "name": "Lewis County",
+    "state": "WA"
+  },
+  {
+    "name": "Douglas County",
+    "state": "WA"
+  },
+  {
+    "name": "Whatcom County",
+    "state": "WA"
+  },
+  {
+    "name": "Jefferson County",
+    "state": "WA"
+  },
+  {
+    "name": "Benton County",
+    "state": "WA"
+  },
+  {
+    "name": "Whitman County",
+    "state": "WA"
+  },
+  {
+    "name": "Stevens County",
+    "state": "WA"
+  },
+  {
+    "name": "Litchfield County",
+    "state": "CT"
+  },
+  {
+    "name": "Windham County",
+    "state": "CT"
+  },
+  {
+    "name": "Tolland County",
+    "state": "CT"
+  },
+  {
+    "name": "Hartford County",
+    "state": "CT"
+  },
+  {
+    "name": "Napa County",
+    "state": "CA"
+  },
+  {
+    "name": "San Luis Obispo County",
+    "state": "CA"
+  },
+  {
+    "name": "San Mateo County",
+    "state": "CA"
+  },
+  {
+    "name": "Nevada County",
+    "state": "CA"
+  },
+  {
+    "name": "San Joaquin County",
+    "state": "CA"
+  },
+  {
+    "name": "San Bernardino County",
+    "state": "CA"
+  },
+  {
+    "name": "Berkeley County",
+    "state": "SC"
+  },
+  {
+    "name": "Whitley County",
+    "state": "KY"
+  },
+  {
+    "name": "Anderson County",
+    "state": "SC"
+  },
+  {
+    "name": "Cherokee County",
+    "state": "SC"
+  },
+  {
+    "name": "Richland County",
+    "state": "SC"
+  },
+  {
+    "name": "Dorchester County",
+    "state": "SC"
+  },
+  {
+    "name": "Marion County",
+    "state": "SC"
+  },
+  {
+    "name": "Orangeburg County",
+    "state": "SC"
+  },
+  {
+    "name": "Union County",
+    "state": "SC"
+  },
+  {
+    "name": "Honolulu County",
+    "state": "HI"
+  },
+  {
+    "name": "Barbour County",
+    "state": "AL"
+  },
+  {
+    "name": "Clay County",
+    "state": "AL"
+  },
+  {
+    "name": "Marengo County",
+    "state": "AL"
+  },
+  {
+    "name": "Oconee County",
+    "state": "SC"
+  },
+  {
+    "name": "Kershaw County",
+    "state": "SC"
+  },
+  {
+    "name": "Williamsburg County",
+    "state": "SC"
+  },
+  {
+    "name": "Hawaii County",
+    "state": "HI"
+  },
+  {
+    "name": "Greenwood County",
+    "state": "SC"
+  },
+  {
+    "name": "Spartanburg County",
+    "state": "SC"
+  },
+  {
+    "name": "Campbell County",
+    "state": "KY"
+  },
+  {
+    "name": "Houston County",
+    "state": "AL"
+  },
+  {
+    "name": "Robertson County",
+    "state": "KY"
+  },
+  {
+    "name": "Woodford County",
+    "state": "KY"
+  },
+  {
+    "name": "Pike County",
+    "state": "KY"
+  },
+  {
+    "name": "Crittenden County",
+    "state": "KY"
+  },
+  {
+    "name": "Knott County",
+    "state": "KY"
+  },
+  {
+    "name": "Clarendon County",
+    "state": "SC"
+  },
+  {
+    "name": "Kauai County",
+    "state": "HI"
+  },
+  {
+    "name": "Kalawao County",
+    "state": "HI"
+  },
+  {
+    "name": "Powell County",
+    "state": "KY"
+  },
+  {
+    "name": "Menifee County",
+    "state": "KY"
+  },
+  {
+    "name": "Cherokee County",
+    "state": "AL"
+  },
+  {
+    "name": "Baldwin County",
+    "state": "AL"
+  },
+  {
+    "name": "Beaufort County",
+    "state": "SC"
+  },
+  {
+    "name": "Adair County",
+    "state": "KY"
+  },
+  {
+    "name": "Conecuh County",
+    "state": "AL"
+  },
+  {
+    "name": "Cleburne County",
+    "state": "AL"
+  },
+  {
+    "name": "Jefferson County",
+    "state": "AL"
+  },
+  {
+    "name": "Henry County",
+    "state": "AL"
+  },
+  {
+    "name": "Crenshaw County",
+    "state": "AL"
+  },
+  {
+    "name": "Madison County",
+    "state": "AL"
+  },
+  {
+    "name": "Limestone County",
+    "state": "AL"
+  },
+  {
+    "name": "Dallas County",
+    "state": "AL"
+  },
+  {
+    "name": "Hillsborough County",
+    "state": "NH"
+  },
+  {
+    "name": "Covington County",
+    "state": "AL"
+  },
+  {
+    "name": "Shelby County",
+    "state": "AL"
+  },
+  {
+    "name": "Bibb County",
+    "state": "AL"
+  },
+  {
+    "name": "Butler County",
+    "state": "AL"
+  },
+  {
+    "name": "Butler County",
+    "state": "KY"
+  },
+  {
+    "name": "Macon County",
+    "state": "AL"
+  },
+  {
+    "name": "Autauga County",
+    "state": "AL"
+  },
+  {
+    "name": "Franklin County",
+    "state": "AL"
+  },
+  {
+    "name": "Marshall County",
+    "state": "AL"
+  },
+  {
+    "name": "Talladega County",
+    "state": "AL"
+  },
+  {
+    "name": "Lee County",
+    "state": "SC"
+  },
+  {
+    "name": "Casey County",
+    "state": "KY"
+  },
+  {
+    "name": "Walker County",
+    "state": "AL"
+  },
+  {
+    "name": "Leslie County",
+    "state": "KY"
+  },
+  {
+    "name": "Lauderdale County",
+    "state": "AL"
+  },
+  {
+    "name": "Coos County",
+    "state": "NH"
+  },
+  {
+    "name": "Morgan County",
+    "state": "AL"
+  },
+  {
+    "name": "Hampton County",
+    "state": "SC"
+  },
+  {
+    "name": "Barren County",
+    "state": "KY"
+  },
+  {
+    "name": "Pickens County",
+    "state": "AL"
+  },
+  {
+    "name": "Meade County",
+    "state": "KY"
+  },
+  {
+    "name": "Breathitt County",
+    "state": "KY"
+  },
+  {
+    "name": "Etowah County",
+    "state": "AL"
+  },
+  {
+    "name": "Russell County",
+    "state": "KY"
+  },
+  {
+    "name": "Rockcastle County",
+    "state": "KY"
+  },
+  {
+    "name": "Tuscaloosa County",
+    "state": "AL"
+  },
+  {
+    "name": "Shelby County",
+    "state": "KY"
+  },
+  {
+    "name": "Christian County",
+    "state": "KY"
+  },
+  {
+    "name": "Breckinridge County",
+    "state": "KY"
+  },
+  {
+    "name": "Fairfield County",
+    "state": "SC"
+  },
+  {
+    "name": "Jasper County",
+    "state": "SC"
+  },
+  {
+    "name": "Dale County",
+    "state": "AL"
+  },
+  {
+    "name": "Tallapoosa County",
+    "state": "AL"
+  },
+  {
+    "name": "Barnwell County",
+    "state": "SC"
+  },
+  {
+    "name": "Lexington County",
+    "state": "SC"
+  },
+  {
+    "name": "Trigg County",
+    "state": "KY"
+  },
+  {
+    "name": "Maui County",
+    "state": "HI"
+  },
+  {
+    "name": "Boyle County",
+    "state": "KY"
+  },
+  {
+    "name": "Jessamine County",
+    "state": "KY"
+  },
+  {
+    "name": "Geneva County",
+    "state": "AL"
+  },
+  {
+    "name": "Mobile County",
+    "state": "AL"
+  },
+  {
+    "name": "Wilcox County",
+    "state": "AL"
+  },
+  {
+    "name": "Charleston County",
+    "state": "SC"
+  },
+  {
+    "name": "Carroll County",
+    "state": "KY"
+  },
+  {
+    "name": "Sumter County",
+    "state": "AL"
+  },
+  {
+    "name": "Hart County",
+    "state": "KY"
+  },
+  {
+    "name": "Owsley County",
+    "state": "KY"
+  },
+  {
+    "name": "Lawrence County",
+    "state": "AL"
+  },
+  {
+    "name": "Calhoun County",
+    "state": "AL"
+  },
+  {
+    "name": "Jackson County",
+    "state": "AL"
+  },
+  {
+    "name": "Strafford County",
+    "state": "NH"
+  },
+  {
+    "name": "Simpson County",
+    "state": "KY"
+  },
+  {
+    "name": "Marion County",
+    "state": "AL"
+  },
+  {
+    "name": "DeKalb County",
+    "state": "AL"
+  },
+  {
+    "name": "McCreary County",
+    "state": "KY"
+  },
+  {
+    "name": "Pike County",
+    "state": "AL"
+  },
+  {
+    "name": "Perry County",
+    "state": "AL"
+  },
+  {
+    "name": "Colbert County",
+    "state": "AL"
+  },
+  {
+    "name": "Marlboro County",
+    "state": "SC"
+  },
+  {
+    "name": "Marion County",
+    "state": "KY"
+  },
+  {
+    "name": "Elmore County",
+    "state": "AL"
+  },
+  {
+    "name": "McCormick County",
+    "state": "SC"
+  },
+  {
+    "name": "Washington County",
+    "state": "AL"
+  },
+  {
+    "name": "Chambers County",
+    "state": "AL"
+  },
+  {
+    "name": "Clarke County",
+    "state": "AL"
+  },
+  {
+    "name": "Cheshire County",
+    "state": "NH"
+  },
+  {
+    "name": "Grant County",
+    "state": "KY"
+  },
+  {
+    "name": "St. Clair County",
+    "state": "AL"
+  },
+  {
+    "name": "McLean County",
+    "state": "KY"
+  },
+  {
+    "name": "Scott County",
+    "state": "KY"
+  },
+  {
+    "name": "Chilton County",
+    "state": "AL"
+  },
+  {
+    "name": "Bullock County",
+    "state": "AL"
+  },
+  {
+    "name": "Greene County",
+    "state": "AL"
+  },
+  {
+    "name": "York County",
+    "state": "SC"
+  },
+  {
+    "name": "Laurens County",
+    "state": "SC"
+  },
+  {
+    "name": "Morgan County",
+    "state": "KY"
+  },
+  {
+    "name": "Blount County",
+    "state": "AL"
+  },
+  {
+    "name": "Colleton County",
+    "state": "SC"
+  },
+  {
+    "name": "Pickens County",
+    "state": "SC"
+  },
+  {
+    "name": "Bracken County",
+    "state": "KY"
+  },
+  {
+    "name": "Coosa County",
+    "state": "AL"
+  },
+  {
+    "name": "Bamberg County",
+    "state": "SC"
+  },
+  {
+    "name": "Allendale County",
+    "state": "SC"
+  },
+  {
+    "name": "Georgetown County",
+    "state": "SC"
+  },
+  {
+    "name": "Edgefield County",
+    "state": "SC"
+  },
+  {
+    "name": "Horry County",
+    "state": "SC"
+  },
+  {
+    "name": "Saluda County",
+    "state": "SC"
+  },
+  {
+    "name": "Daviess County",
+    "state": "KY"
+  },
+  {
+    "name": "Winston County",
+    "state": "AL"
+  },
+  {
+    "name": "Russell County",
+    "state": "AL"
+  },
+  {
+    "name": "Coffee County",
+    "state": "AL"
+  },
+  {
+    "name": "Dillon County",
+    "state": "SC"
+  },
+  {
+    "name": "Monroe County",
+    "state": "AL"
+  },
+  {
+    "name": "Martin County",
+    "state": "KY"
+  },
+  {
+    "name": "Chesterfield County",
+    "state": "SC"
+  },
+  {
+    "name": "Calhoun County",
+    "state": "SC"
+  },
+  {
+    "name": "Abbeville County",
+    "state": "SC"
+  },
+  {
+    "name": "Newberry County",
+    "state": "SC"
+  },
+  {
+    "name": "Chester County",
+    "state": "SC"
+  },
+  {
+    "name": "Lancaster County",
+    "state": "SC"
+  },
+  {
+    "name": "Aiken County",
+    "state": "SC"
+  },
+  {
+    "name": "Florence County",
+    "state": "SC"
+  },
+  {
+    "name": "Lamar County",
+    "state": "AL"
+  },
+  {
+    "name": "Choctaw County",
+    "state": "AL"
+  },
+  {
+    "name": "Cullman County",
+    "state": "AL"
+  },
+  {
+    "name": "Montgomery County",
+    "state": "AL"
+  },
+  {
+    "name": "Escambia County",
+    "state": "AL"
+  },
+  {
+    "name": "Caldwell County",
+    "state": "KY"
+  },
+  {
+    "name": "Randolph County",
+    "state": "AL"
+  },
+  {
+    "name": "Fayette County",
+    "state": "AL"
+  },
+  {
+    "name": "Darlington County",
+    "state": "SC"
+  },
+  {
+    "name": "Sumter County",
+    "state": "SC"
+  },
+  {
+    "name": "Greenville County",
+    "state": "SC"
+  },
+  {
+    "name": "Lee County",
+    "state": "AL"
+  },
+  {
+    "name": "Lowndes County",
+    "state": "AL"
+  },
+  {
+    "name": "Hale County",
+    "state": "AL"
+  },
+  {
+    "name": "Gulf County",
+    "state": "FL"
+  },
+  {
+    "name": "Pinellas County",
+    "state": "FL"
+  },
+  {
+    "name": "Lafayette County",
+    "state": "FL"
+  },
+  {
+    "name": "Columbia County",
+    "state": "FL"
+  },
+  {
+    "name": "Wakulla County",
+    "state": "FL"
+  },
+  {
+    "name": "Calhoun County",
+    "state": "FL"
+  },
+  {
+    "name": "Miami-Dade County",
+    "state": "FL"
+  },
+  {
+    "name": "Hillsborough County",
+    "state": "FL"
+  },
+  {
+    "name": "Seminole County",
+    "state": "FL"
+  },
+  {
+    "name": "Martin County",
+    "state": "FL"
+  },
+  {
+    "name": "Marion County",
+    "state": "FL"
+  },
+  {
+    "name": "Baker County",
+    "state": "FL"
+  },
+  {
+    "name": "Leon County",
+    "state": "FL"
+  },
+  {
+    "name": "St. Johns County",
+    "state": "FL"
+  },
+  {
+    "name": "Pasco County",
+    "state": "FL"
+  },
+  {
+    "name": "Suwannee County",
+    "state": "FL"
+  },
+  {
+    "name": "Bradford County",
+    "state": "FL"
+  },
+  {
+    "name": "Sarasota County",
+    "state": "FL"
+  },
+  {
+    "name": "Clay County",
+    "state": "FL"
+  },
+  {
+    "name": "Taylor County",
+    "state": "FL"
+  },
+  {
+    "name": "Highlands County",
+    "state": "FL"
+  },
+  {
+    "name": "Hendry County",
+    "state": "FL"
+  },
+  {
+    "name": "Gadsden County",
+    "state": "FL"
+  },
+  {
+    "name": "Charlotte County",
+    "state": "FL"
+  },
+  {
+    "name": "Glades County",
+    "state": "FL"
+  },
+  {
+    "name": "Walton County",
+    "state": "FL"
+  },
+  {
+    "name": "Union County",
+    "state": "FL"
+  },
+  {
+    "name": "DeSoto County",
+    "state": "FL"
+  },
+  {
+    "name": "Osceola County",
+    "state": "FL"
+  },
+  {
+    "name": "Holmes County",
+    "state": "FL"
+  },
+  {
+    "name": "Gilchrist County",
+    "state": "FL"
+  },
+  {
+    "name": "Hernando County",
+    "state": "FL"
+  },
+  {
+    "name": "Alachua County",
+    "state": "FL"
+  },
+  {
+    "name": "Madison County",
+    "state": "FL"
+  },
+  {
+    "name": "Flagler County",
+    "state": "FL"
+  },
+  {
+    "name": "Bay County",
+    "state": "FL"
+  },
+  {
+    "name": "Indian River County",
+    "state": "FL"
+  },
+  {
+    "name": "Levy County",
+    "state": "FL"
+  },
+  {
+    "name": "Polk County",
+    "state": "FL"
+  },
+  {
+    "name": "Palm Beach County",
+    "state": "FL"
+  },
+  {
+    "name": "Orange County",
+    "state": "FL"
+  },
+  {
+    "name": "Putnam County",
+    "state": "FL"
+  },
+  {
+    "name": "St. Lucie County",
+    "state": "FL"
+  },
+  {
+    "name": "Collier County",
+    "state": "FL"
+  },
+  {
+    "name": "Sumter County",
+    "state": "FL"
+  },
+  {
+    "name": "Okaloosa County",
+    "state": "FL"
+  },
+  {
+    "name": "Hardee County",
+    "state": "FL"
+  },
+  {
+    "name": "Nassau County",
+    "state": "FL"
+  },
+  {
+    "name": "Volusia County",
+    "state": "FL"
+  },
+  {
+    "name": "Lewis County",
+    "state": "NY"
+  },
+  {
+    "name": "Liberty County",
+    "state": "FL"
+  },
+  {
+    "name": "Santa Rosa County",
+    "state": "FL"
+  },
+  {
+    "name": "Washington County",
+    "state": "FL"
+  },
+  {
+    "name": "Bethel Census Area",
+    "state": "AK"
+  },
+  {
+    "name": "Denali Borough",
+    "state": "AK"
+  },
+  {
+    "name": "Anchorage Municipality",
+    "state": "AK"
+  },
+  {
+    "name": "Neshoba County",
+    "state": "MS"
+  },
+  {
+    "name": "Simpson County",
+    "state": "MS"
+  },
+  {
+    "name": "Noxubee County",
+    "state": "MS"
+  },
+  {
+    "name": "Yalobusha County",
+    "state": "MS"
+  },
+  {
+    "name": "Chickasaw County",
+    "state": "MS"
+  },
+  {
+    "name": "DeSoto County",
+    "state": "MS"
+  },
+  {
+    "name": "Lauderdale County",
+    "state": "MS"
+  },
+  {
+    "name": "Stone County",
+    "state": "MS"
+  },
+  {
+    "name": "Jones County",
+    "state": "MS"
+  },
+  {
+    "name": "Tallahatchie County",
+    "state": "MS"
+  },
+  {
+    "name": "Madison County",
+    "state": "MS"
+  },
+  {
+    "name": "Winston County",
+    "state": "MS"
+  },
+  {
+    "name": "Webster County",
+    "state": "MS"
+  },
+  {
+    "name": "Tate County",
+    "state": "MS"
+  },
+  {
+    "name": "Catahoula Parish",
+    "state": "LA"
+  },
+  {
+    "name": "West Feliciana Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Beauregard Parish",
+    "state": "LA"
+  },
+  {
+    "name": "East Feliciana Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Bienville Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Webster Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Tensas Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Morehouse Parish",
+    "state": "LA"
+  },
+  {
+    "name": "St. Helena Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Norfolk city",
+    "state": "VA"
+  },
+  {
+    "name": "Covington city",
+    "state": "VA"
+  },
+  {
+    "name": "Brunswick County",
+    "state": "VA"
+  },
+  {
+    "name": "Culpeper County",
+    "state": "VA"
+  },
+  {
+    "name": "Caroline County",
+    "state": "VA"
+  },
+  {
+    "name": "Middlesex County",
+    "state": "VA"
+  },
+  {
+    "name": "Rockingham County",
+    "state": "VA"
+  },
+  {
+    "name": "Petersburg city",
+    "state": "VA"
+  },
+  {
+    "name": "Arlington County",
+    "state": "VA"
+  },
+  {
+    "name": "Powhatan County",
+    "state": "VA"
+  },
+  {
+    "name": "Smyth County",
+    "state": "VA"
+  },
+  {
+    "name": "Richmond city",
+    "state": "VA"
+  },
+  {
+    "name": "Newport News city",
+    "state": "VA"
+  },
+  {
+    "name": "Poquoson city",
+    "state": "VA"
+  },
+  {
+    "name": "James City County",
+    "state": "VA"
+  },
+  {
+    "name": "Lexington city",
+    "state": "VA"
+  },
+  {
+    "name": "Charlotte County",
+    "state": "VA"
+  },
+  {
+    "name": "Dickenson County",
+    "state": "VA"
+  },
+  {
+    "name": "Warren County",
+    "state": "VA"
+  },
+  {
+    "name": "Craig County",
+    "state": "VA"
+  },
+  {
+    "name": "Bedford County",
+    "state": "VA"
+  },
+  {
+    "name": "Wise County",
+    "state": "TX"
+  },
+  {
+    "name": "Washington County",
+    "state": "TX"
+  },
+  {
+    "name": "Jeff Davis County",
+    "state": "TX"
+  },
+  {
+    "name": "El Paso County",
+    "state": "TX"
+  },
+  {
+    "name": "Gregg County",
+    "state": "TX"
+  },
+  {
+    "name": "Williamson County",
+    "state": "TX"
+  },
+  {
+    "name": "Union County",
+    "state": "NJ"
+  },
+  {
+    "name": "Hunterdon County",
+    "state": "NJ"
+  },
+  {
+    "name": "Gloucester County",
+    "state": "NJ"
+  },
+  {
+    "name": "Faulk County",
+    "state": "SD"
+  },
+  {
+    "name": "Jerauld County",
+    "state": "SD"
+  },
+  {
+    "name": "Minnehaha County",
+    "state": "SD"
+  },
+  {
+    "name": "Custer County",
+    "state": "SD"
+  },
+  {
+    "name": "Walworth County",
+    "state": "SD"
+  },
+  {
+    "name": "Brookings County",
+    "state": "SD"
+  },
+  {
+    "name": "Buffalo County",
+    "state": "SD"
+  },
+  {
+    "name": "Owyhee County",
+    "state": "ID"
+  },
+  {
+    "name": "Teton County",
+    "state": "ID"
+  },
+  {
+    "name": "Payette County",
+    "state": "ID"
+  },
+  {
+    "name": "Deuel County",
+    "state": "SD"
+  },
+  {
+    "name": "Spink County",
+    "state": "SD"
+  },
+  {
+    "name": "Union County",
+    "state": "SD"
+  },
+  {
+    "name": "Blaine County",
+    "state": "ID"
+  },
+  {
+    "name": "Jefferson County",
+    "state": "ID"
+  },
+  {
+    "name": "Clark County",
+    "state": "SD"
+  },
+  {
+    "name": "Nez Perce County",
+    "state": "ID"
+  },
+  {
+    "name": "Lyman County",
+    "state": "SD"
+  },
+  {
+    "name": "Yankton County",
+    "state": "SD"
+  },
+  {
+    "name": "Davison County",
+    "state": "SD"
+  },
+  {
+    "name": "Jackson County",
+    "state": "SD"
+  },
+  {
+    "name": "Sully County",
+    "state": "SD"
+  },
+  {
+    "name": "Gooding County",
+    "state": "ID"
+  },
+  {
+    "name": "Douglas County",
+    "state": "SD"
+  },
+  {
+    "name": "Roberts County",
+    "state": "SD"
+  },
+  {
+    "name": "Bennett County",
+    "state": "SD"
+  },
+  {
+    "name": "Sanborn County",
+    "state": "SD"
+  },
+  {
+    "name": "Miner County",
+    "state": "SD"
+  },
+  {
+    "name": "Jerome County",
+    "state": "ID"
+  },
+  {
+    "name": "Adams County",
+    "state": "ID"
+  },
+  {
+    "name": "Gregory County",
+    "state": "SD"
+  },
+  {
+    "name": "Clearwater County",
+    "state": "ID"
+  },
+  {
+    "name": "Elmore County",
+    "state": "ID"
+  },
+  {
+    "name": "Oneida County",
+    "state": "ID"
+  },
+  {
+    "name": "Valley County",
+    "state": "ID"
+  },
+  {
+    "name": "Fall River County",
+    "state": "SD"
+  },
+  {
+    "name": "Meade County",
+    "state": "SD"
+  },
+  {
+    "name": "Kootenai County",
+    "state": "ID"
+  },
+  {
+    "name": "Ada County",
+    "state": "ID"
+  },
+  {
+    "name": "Benewah County",
+    "state": "ID"
+  },
+  {
+    "name": "Lincoln County",
+    "state": "ID"
+  },
+  {
+    "name": "Cassia County",
+    "state": "ID"
+  },
+  {
+    "name": "Franklin County",
+    "state": "ID"
+  },
+  {
+    "name": "Butte County",
+    "state": "ID"
+  },
+  {
+    "name": "Madison County",
+    "state": "ID"
+  },
+  {
+    "name": "Shoshone County",
+    "state": "ID"
+  },
+  {
+    "name": "Bingham County",
+    "state": "ID"
+  },
+  {
+    "name": "Lake County",
+    "state": "SD"
+  },
+  {
+    "name": "Harding County",
+    "state": "SD"
+  },
+  {
+    "name": "Bannock County",
+    "state": "ID"
+  },
+  {
+    "name": "Stanley County",
+    "state": "SD"
+  },
+  {
+    "name": "Weld County",
+    "state": "CO"
+  },
+  {
+    "name": "San Juan County",
+    "state": "CO"
+  },
+  {
+    "name": "Montrose County",
+    "state": "CO"
+  },
+  {
+    "name": "Broomfield County",
+    "state": "CO"
+  },
+  {
+    "name": "Washington County",
+    "state": "CO"
+  },
+  {
+    "name": "Routt County",
+    "state": "CO"
+  },
+  {
+    "name": "Archuleta County",
+    "state": "CO"
+  },
+  {
+    "name": "Gilpin County",
+    "state": "CO"
+  },
+  {
+    "name": "Denver County",
+    "state": "CO"
+  },
+  {
+    "name": "Park County",
+    "state": "CO"
+  },
+  {
+    "name": "DeKalb County",
+    "state": "MO"
+  },
+  {
+    "name": "Barton County",
+    "state": "MO"
+  },
+  {
+    "name": "Carter County",
+    "state": "MO"
+  },
+  {
+    "name": "Shelby County",
+    "state": "MO"
+  },
+  {
+    "name": "Webster County",
+    "state": "MO"
+  },
+  {
+    "name": "Pike County",
+    "state": "MO"
+  },
+  {
+    "name": "Buchanan County",
+    "state": "MO"
+  },
+  {
+    "name": "Cape Girardeau County",
+    "state": "MO"
+  },
+  {
+    "name": "Shannon County",
+    "state": "MO"
+  },
+  {
+    "name": "St. Charles County",
+    "state": "MO"
+  },
+  {
+    "name": "Pulaski County",
+    "state": "MO"
+  },
+  {
+    "name": "Adair County",
+    "state": "MO"
+  },
+  {
+    "name": "Ralls County",
+    "state": "MO"
+  },
+  {
+    "name": "Livingston County",
+    "state": "MO"
+  },
+  {
+    "name": "Marion County",
+    "state": "MO"
+  },
+  {
+    "name": "St. Louis County",
+    "state": "MO"
+  },
+  {
+    "name": "Dunklin County",
+    "state": "MO"
+  },
+  {
+    "name": "Clay County",
+    "state": "MO"
+  },
+  {
+    "name": "Howell County",
+    "state": "MO"
+  },
+  {
+    "name": "Scotland County",
+    "state": "MO"
+  },
+  {
+    "name": "Ray County",
+    "state": "MO"
+  },
+  {
+    "name": "Boone County",
+    "state": "MO"
+  },
+  {
+    "name": "Macon County",
+    "state": "MO"
+  },
+  {
+    "name": "King County",
+    "state": "WA"
+  },
+  {
+    "name": "Grundy County",
+    "state": "IL"
+  },
+  {
+    "name": "Alexander County",
+    "state": "IL"
+  },
+  {
+    "name": "Boone County",
+    "state": "IL"
+  },
+  {
+    "name": "Cass County",
+    "state": "IL"
+  },
+  {
+    "name": "Clay County",
+    "state": "IL"
+  },
+  {
+    "name": "Henry County",
+    "state": "IL"
+  },
+  {
+    "name": "Fulton County",
+    "state": "IL"
+  },
+  {
+    "name": "Iroquois County",
+    "state": "IL"
+  },
+  {
+    "name": "Middlesex County",
+    "state": "CT"
+  },
+  {
+    "name": "Adams County",
+    "state": "IL"
+  },
+  {
+    "name": "Lake County",
+    "state": "IL"
+  },
+  {
+    "name": "Sutter County",
+    "state": "CA"
+  },
+  {
+    "name": "Riverside County",
+    "state": "CA"
+  },
+  {
+    "name": "Trinity County",
+    "state": "CA"
+  },
+  {
+    "name": "Contra Costa County",
+    "state": "CA"
+  },
+  {
+    "name": "Franklin County",
+    "state": "TN"
+  },
+  {
+    "name": "Knox County",
+    "state": "IN"
+  },
+  {
+    "name": "Marshall County",
+    "state": "IA"
+  },
+  {
+    "name": "Cheatham County",
+    "state": "TN"
+  },
+  {
+    "name": "Washington County",
+    "state": "IN"
+  },
+  {
+    "name": "Johnson County",
+    "state": "IN"
+  },
+  {
+    "name": "Cocke County",
+    "state": "TN"
+  },
+  {
+    "name": "Bledsoe County",
+    "state": "TN"
+  },
+  {
+    "name": "Sevier County",
+    "state": "TN"
+  },
+  {
+    "name": "Dyer County",
+    "state": "TN"
+  },
+  {
+    "name": "Grundy County",
+    "state": "TN"
+  },
+  {
+    "name": "Jay County",
+    "state": "IN"
+  },
+  {
+    "name": "Chester County",
+    "state": "TN"
+  },
+  {
+    "name": "Elkhart County",
+    "state": "IN"
+  },
+  {
+    "name": "Union County",
+    "state": "TN"
+  },
+  {
+    "name": "Hancock County",
+    "state": "TN"
+  },
+  {
+    "name": "Obion County",
+    "state": "TN"
+  },
+  {
+    "name": "Polk County",
+    "state": "TN"
+  },
+  {
+    "name": "Benton County",
+    "state": "IA"
+  },
+  {
+    "name": "Clay County",
+    "state": "IA"
+  },
+  {
+    "name": "Shelby County",
+    "state": "IA"
+  },
+  {
+    "name": "Clayton County",
+    "state": "IA"
+  },
+  {
+    "name": "Tipton County",
+    "state": "TN"
+  },
+  {
+    "name": "Fountain County",
+    "state": "IN"
+  },
+  {
+    "name": "Jackson County",
+    "state": "IA"
+  },
+  {
+    "name": "Hamilton County",
+    "state": "IA"
+  },
+  {
+    "name": "Taylor County",
+    "state": "IA"
+  },
+  {
+    "name": "Muscatine County",
+    "state": "IA"
+  },
+  {
+    "name": "Johnson County",
+    "state": "TN"
+  },
+  {
+    "name": "McMinn County",
+    "state": "TN"
+  },
+  {
+    "name": "Hardeman County",
+    "state": "TN"
+  },
+  {
+    "name": "Hickman County",
+    "state": "TN"
+  },
+  {
+    "name": "Wright County",
+    "state": "IA"
+  },
+  {
+    "name": "Clinton County",
+    "state": "IA"
+  },
+  {
+    "name": "Iowa County",
+    "state": "IA"
+  },
+  {
+    "name": "Buena Vista County",
+    "state": "IA"
+  },
+  {
+    "name": "Woodbury County",
+    "state": "IA"
+  },
+  {
+    "name": "Kossuth County",
+    "state": "IA"
+  },
+  {
+    "name": "Macon County",
+    "state": "TN"
+  },
+  {
+    "name": "Loudon County",
+    "state": "TN"
+  },
+  {
+    "name": "Worth County",
+    "state": "IA"
+  },
+  {
+    "name": "Ripley County",
+    "state": "IN"
+  },
+  {
+    "name": "Henry County",
+    "state": "TN"
+  },
+  {
+    "name": "Washington County",
+    "state": "IA"
+  },
+  {
+    "name": "Sac County",
+    "state": "IA"
+  },
+  {
+    "name": "Hardin County",
+    "state": "TN"
+  },
+  {
+    "name": "Pulaski County",
+    "state": "IN"
+  },
+  {
+    "name": "Giles County",
+    "state": "TN"
+  },
+  {
+    "name": "Washington County",
+    "state": "TN"
+  },
+  {
+    "name": "Williamson County",
+    "state": "TN"
+  },
+  {
+    "name": "Putnam County",
+    "state": "TN"
+  },
+  {
+    "name": "Humboldt County",
+    "state": "IA"
+  },
+  {
+    "name": "Smith County",
+    "state": "TN"
+  },
+  {
+    "name": "Marion County",
+    "state": "TN"
+  },
+  {
+    "name": "Lawrence County",
+    "state": "TN"
+  },
+  {
+    "name": "Monroe County",
+    "state": "IN"
+  },
+  {
+    "name": "Montgomery County",
+    "state": "TN"
+  },
+  {
+    "name": "Rutherford County",
+    "state": "TN"
+  },
+  {
+    "name": "Sumner County",
+    "state": "TN"
+  },
+  {
+    "name": "Benton County",
+    "state": "TN"
+  },
+  {
+    "name": "Newton County",
+    "state": "IN"
+  },
+  {
+    "name": "Howard County",
+    "state": "IN"
+  },
+  {
+    "name": "Morgan County",
+    "state": "TN"
+  },
+  {
+    "name": "White County",
+    "state": "TN"
+  },
+  {
+    "name": "Cherokee County",
+    "state": "IA"
+  },
+  {
+    "name": "Meigs County",
+    "state": "TN"
+  },
+  {
+    "name": "Gibson County",
+    "state": "IN"
+  },
+  {
+    "name": "Greene County",
+    "state": "TN"
+  },
+  {
+    "name": "Robertson County",
+    "state": "TN"
+  },
+  {
+    "name": "Brown County",
+    "state": "IN"
+  },
+  {
+    "name": "Franklin County",
+    "state": "IN"
+  },
+  {
+    "name": "Crawford County",
+    "state": "IN"
+  },
+  {
+    "name": "Crockett County",
+    "state": "TN"
+  },
+  {
+    "name": "Campbell County",
+    "state": "TN"
+  },
+  {
+    "name": "Decatur County",
+    "state": "TN"
+  },
+  {
+    "name": "Lewis County",
+    "state": "TN"
+  },
+  {
+    "name": "Warren County",
+    "state": "TN"
+  },
+  {
+    "name": "Winnebago County",
+    "state": "IA"
+  },
+  {
+    "name": "Gibson County",
+    "state": "TN"
+  },
+  {
+    "name": "Lyon County",
+    "state": "IA"
+  },
+  {
+    "name": "Madison County",
+    "state": "IN"
+  },
+  {
+    "name": "LaPorte County",
+    "state": "IN"
+  },
+  {
+    "name": "Marion County",
+    "state": "IA"
+  },
+  {
+    "name": "Keokuk County",
+    "state": "IA"
+  },
+  {
+    "name": "Johnson County",
+    "state": "IA"
+  },
+  {
+    "name": "Jefferson County",
+    "state": "TN"
+  },
+  {
+    "name": "Clark County",
+    "state": "IN"
+  },
+  {
+    "name": "Hendricks County",
+    "state": "IN"
+  },
+  {
+    "name": "DeKalb County",
+    "state": "IN"
+  },
+  {
+    "name": "Unicoi County",
+    "state": "TN"
+  },
+  {
+    "name": "Perry County",
+    "state": "IN"
+  },
+  {
+    "name": "Monroe County",
+    "state": "IA"
+  },
+  {
+    "name": "Shelby County",
+    "state": "IN"
+  },
+  {
+    "name": "Moore County",
+    "state": "TN"
+  },
+  {
+    "name": "Fayette County",
+    "state": "TN"
+  },
+  {
+    "name": "Marshall County",
+    "state": "IN"
+  },
+  {
+    "name": "Wells County",
+    "state": "IN"
+  },
+  {
+    "name": "Pickett County",
+    "state": "TN"
+  },
+  {
+    "name": "Hamblen County",
+    "state": "TN"
+  },
+  {
+    "name": "Randolph County",
+    "state": "IN"
+  },
+  {
+    "name": "Boone County",
+    "state": "IN"
+  },
+  {
+    "name": "Knox County",
+    "state": "TN"
+  },
+  {
+    "name": "Fayette County",
+    "state": "IN"
+  },
+  {
+    "name": "Bedford County",
+    "state": "TN"
+  },
+  {
+    "name": "Fentress County",
+    "state": "TN"
+  },
+  {
+    "name": "Sullivan County",
+    "state": "IN"
+  },
+  {
+    "name": "Martin County",
+    "state": "IN"
+  },
+  {
+    "name": "Wabash County",
+    "state": "IN"
+  },
+  {
+    "name": "Sullivan County",
+    "state": "TN"
+  },
+  {
+    "name": "Hancock County",
+    "state": "IN"
+  },
+  {
+    "name": "Stewart County",
+    "state": "TN"
+  },
+  {
+    "name": "Rhea County",
+    "state": "TN"
+  },
+  {
+    "name": "Steuben County",
+    "state": "IN"
+  },
+  {
+    "name": "O'Brien County",
+    "state": "IA"
+  },
+  {
+    "name": "Anderson County",
+    "state": "TN"
+  },
+  {
+    "name": "Dubuque County",
+    "state": "IA"
+  },
+  {
+    "name": "Van Buren County",
+    "state": "IA"
+  },
+  {
+    "name": "Franklin County",
+    "state": "IA"
+  },
+  {
+    "name": "Guthrie County",
+    "state": "IA"
+  },
+  {
+    "name": "Jefferson County",
+    "state": "IA"
+  },
+  {
+    "name": "Dickinson County",
+    "state": "IA"
+  },
+  {
+    "name": "Floyd County",
+    "state": "IA"
+  },
+  {
+    "name": "Appanoose County",
+    "state": "IA"
+  },
+  {
+    "name": "Belknap County",
+    "state": "NH"
+  },
+  {
+    "name": "Rockingham County",
+    "state": "NH"
+  },
+  {
+    "name": "Davis County",
+    "state": "IA"
+  },
+  {
+    "name": "Clarke County",
+    "state": "IA"
+  },
+  {
+    "name": "Black Hawk County",
+    "state": "IA"
+  },
+  {
+    "name": "Merrimack County",
+    "state": "NH"
+  },
+  {
+    "name": "Scott County",
+    "state": "IA"
+  },
+  {
+    "name": "Plymouth County",
+    "state": "IA"
+  },
+  {
+    "name": "Mitchell County",
+    "state": "IA"
+  },
+  {
+    "name": "Dallas County",
+    "state": "IA"
+  },
+  {
+    "name": "Palo Alto County",
+    "state": "IA"
+  },
+  {
+    "name": "Fremont County",
+    "state": "IA"
+  },
+  {
+    "name": "Ringgold County",
+    "state": "IA"
+  },
+  {
+    "name": "Butler County",
+    "state": "IA"
+  },
+  {
+    "name": "Montgomery County",
+    "state": "IA"
+  },
+  {
+    "name": "Warren County",
+    "state": "IA"
+  },
+  {
+    "name": "Decatur County",
+    "state": "IA"
+  },
+  {
+    "name": "Webster County",
+    "state": "IA"
+  },
+  {
+    "name": "Calhoun County",
+    "state": "IA"
+  },
+  {
+    "name": "Mahaska County",
+    "state": "IA"
+  },
+  {
+    "name": "Boone County",
+    "state": "IA"
+  },
+  {
+    "name": "Linn County",
+    "state": "IA"
+  },
+  {
+    "name": "Jasper County",
+    "state": "IA"
+  },
+  {
+    "name": "Page County",
+    "state": "IA"
+  },
+  {
+    "name": "Ida County",
+    "state": "IA"
+  },
+  {
+    "name": "Crawford County",
+    "state": "IA"
+  },
+  {
+    "name": "Adams County",
+    "state": "IA"
+  },
+  {
+    "name": "Cedar County",
+    "state": "IA"
+  },
+  {
+    "name": "Grafton County",
+    "state": "NH"
+  },
+  {
+    "name": "Carroll County",
+    "state": "IA"
+  },
+  {
+    "name": "Audubon County",
+    "state": "IA"
+  },
+  {
+    "name": "Delaware County",
+    "state": "IA"
+  },
+  {
+    "name": "Hardin County",
+    "state": "IA"
+  },
+  {
+    "name": "Sioux County",
+    "state": "IA"
+  },
+  {
+    "name": "Carroll County",
+    "state": "NH"
+  },
+  {
+    "name": "Sullivan County",
+    "state": "NH"
+  },
+  {
+    "name": "Adair County",
+    "state": "IA"
+  },
+  {
+    "name": "Union County",
+    "state": "IA"
+  },
+  {
+    "name": "Mills County",
+    "state": "IA"
+  },
+  {
+    "name": "Wayne County",
+    "state": "IA"
+  },
+  {
+    "name": "Monona County",
+    "state": "IA"
+  },
+  {
+    "name": "Harrison County",
+    "state": "IA"
+  },
+  {
+    "name": "Lucas County",
+    "state": "IA"
+  },
+  {
+    "name": "Emmet County",
+    "state": "IA"
+  },
+  {
+    "name": "Polk County",
+    "state": "IA"
+  },
+  {
+    "name": "Buchanan County",
+    "state": "IA"
+  },
+  {
+    "name": "Chickasaw County",
+    "state": "IA"
+  },
+  {
+    "name": "Des Moines County",
+    "state": "IA"
+  },
+  {
+    "name": "Cass County",
+    "state": "IA"
+  },
+  {
+    "name": "Allamakee County",
+    "state": "IA"
+  },
+  {
+    "name": "Madison County",
+    "state": "IA"
+  },
+  {
+    "name": "Cerro Gordo County",
+    "state": "IA"
+  },
+  {
+    "name": "Fayette County",
+    "state": "IA"
+  },
+  {
+    "name": "Bremer County",
+    "state": "IA"
+  },
+  {
+    "name": "Tama County",
+    "state": "IA"
+  },
+  {
+    "name": "Osceola County",
+    "state": "IA"
+  },
+  {
+    "name": "Henry County",
+    "state": "IA"
+  },
+  {
+    "name": "Poweshiek County",
+    "state": "IA"
+  },
+  {
+    "name": "Hancock County",
+    "state": "IA"
+  },
+  {
+    "name": "Winneshiek County",
+    "state": "IA"
+  },
+  {
+    "name": "Jones County",
+    "state": "IA"
+  },
+  {
+    "name": "Pocahontas County",
+    "state": "IA"
+  },
+  {
+    "name": "Greene County",
+    "state": "IA"
+  },
+  {
+    "name": "Louisa County",
+    "state": "IA"
+  },
+  {
+    "name": "Wapello County",
+    "state": "IA"
+  },
+  {
+    "name": "Lee County",
+    "state": "IA"
+  },
+  {
+    "name": "Story County",
+    "state": "IA"
+  },
+  {
+    "name": "Grundy County",
+    "state": "IA"
+  },
+  {
+    "name": "Pottawattamie County",
+    "state": "IA"
+  },
+  {
+    "name": "Howard County",
+    "state": "IA"
+  },
+  {
+    "name": "Yazoo County",
+    "state": "MS"
+  },
+  {
+    "name": "Carroll County",
+    "state": "MS"
+  },
+  {
+    "name": "Franklin County",
+    "state": "MS"
+  },
+  {
+    "name": "Greene County",
+    "state": "MS"
+  },
+  {
+    "name": "Choctaw County",
+    "state": "MS"
+  },
+  {
+    "name": "Forrest County",
+    "state": "MS"
+  },
+  {
+    "name": "Washington County",
+    "state": "MS"
+  },
+  {
+    "name": "Jackson Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Allen Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Grant Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Franklin Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Ascension Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Evangeline Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Vernon Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Orleans Parish",
+    "state": "LA"
+  },
+  {
+    "name": "West Baton Rouge Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Roanoke city",
+    "state": "VA"
+  },
+  {
+    "name": "Augusta County",
+    "state": "VA"
+  },
+  {
+    "name": "Greensville County",
+    "state": "VA"
+  },
+  {
+    "name": "Henry County",
+    "state": "VA"
+  },
+  {
+    "name": "Portsmouth city",
+    "state": "VA"
+  },
+  {
+    "name": "Isle of Wight County",
+    "state": "VA"
+  },
+  {
+    "name": "Bedford city",
+    "state": "VA"
+  },
+  {
+    "name": "Cumberland County",
+    "state": "VA"
+  },
+  {
+    "name": "King and Queen County",
+    "state": "VA"
+  },
+  {
+    "name": "Fauquier County",
+    "state": "VA"
+  },
+  {
+    "name": "Charles City County",
+    "state": "VA"
+  },
+  {
+    "name": "Wythe County",
+    "state": "VA"
+  },
+  {
+    "name": "Lancaster County",
+    "state": "VA"
+  },
+  {
+    "name": "Spotsylvania County",
+    "state": "VA"
+  },
+  {
+    "name": "Floyd County",
+    "state": "VA"
+  },
+  {
+    "name": "York County",
+    "state": "VA"
+  },
+  {
+    "name": "Winchester city",
+    "state": "VA"
+  },
+  {
+    "name": "Lipscomb County",
+    "state": "TX"
+  },
+  {
+    "name": "Mason County",
+    "state": "TX"
+  },
+  {
+    "name": "Henderson County",
+    "state": "TX"
+  },
+  {
+    "name": "Hansford County",
+    "state": "TX"
+  },
+  {
+    "name": "Chambers County",
+    "state": "TX"
+  },
+  {
+    "name": "Hill County",
+    "state": "TX"
+  },
+  {
+    "name": "Potter County",
+    "state": "TX"
+  },
+  {
+    "name": "Jim Wells County",
+    "state": "TX"
+  },
+  {
+    "name": "Delta County",
+    "state": "TX"
+  },
+  {
+    "name": "Stonewall County",
+    "state": "TX"
+  },
+  {
+    "name": "Ector County",
+    "state": "TX"
+  },
+  {
+    "name": "Cameron County",
+    "state": "TX"
+  },
+  {
+    "name": "Maverick County",
+    "state": "TX"
+  },
+  {
+    "name": "Collin County",
+    "state": "TX"
+  },
+  {
+    "name": "Baylor County",
+    "state": "TX"
+  },
+  {
+    "name": "Panola County",
+    "state": "TX"
+  },
+  {
+    "name": "Guadalupe County",
+    "state": "TX"
+  },
+  {
+    "name": "Bergen County",
+    "state": "NJ"
+  },
+  {
+    "name": "Cape May County",
+    "state": "NJ"
+  },
+  {
+    "name": "Sussex County",
+    "state": "NJ"
+  },
+  {
+    "name": "Pennington County",
+    "state": "SD"
+  },
+  {
+    "name": "Ziebach County",
+    "state": "SD"
+  },
+  {
+    "name": "Marshall County",
+    "state": "SD"
+  },
+  {
+    "name": "Mellette County",
+    "state": "SD"
+  },
+  {
+    "name": "Edmunds County",
+    "state": "SD"
+  },
+  {
+    "name": "Campbell County",
+    "state": "SD"
+  },
+  {
+    "name": "Hanson County",
+    "state": "SD"
+  },
+  {
+    "name": "Codington County",
+    "state": "SD"
+  },
+  {
+    "name": "Charles Mix County",
+    "state": "SD"
+  },
+  {
+    "name": "Perkins County",
+    "state": "SD"
+  },
+  {
+    "name": "Jones County",
+    "state": "SD"
+  },
+  {
+    "name": "Todd County",
+    "state": "SD"
+  },
+  {
+    "name": "Haakon County",
+    "state": "SD"
+  },
+  {
+    "name": "Hyde County",
+    "state": "SD"
+  },
+  {
+    "name": "Lawrence County",
+    "state": "SD"
+  },
+  {
+    "name": "Hutchinson County",
+    "state": "SD"
+  },
+  {
+    "name": "Brule County",
+    "state": "SD"
+  },
+  {
+    "name": "Greenlee County",
+    "state": "AZ"
+  },
+  {
+    "name": "Potter County",
+    "state": "SD"
+  },
+  {
+    "name": "Hughes County",
+    "state": "SD"
+  },
+  {
+    "name": "Butte County",
+    "state": "SD"
+  },
+  {
+    "name": "Santa Cruz County",
+    "state": "AZ"
+  },
+  {
+    "name": "Coconino County",
+    "state": "AZ"
+  },
+  {
+    "name": "Clay County",
+    "state": "SD"
+  },
+  {
+    "name": "Bon Homme County",
+    "state": "SD"
+  },
+  {
+    "name": "McPherson County",
+    "state": "SD"
+  },
+  {
+    "name": "Aurora County",
+    "state": "SD"
+  },
+  {
+    "name": "Beadle County",
+    "state": "SD"
+  },
+  {
+    "name": "Brown County",
+    "state": "SD"
+  },
+  {
+    "name": "Hamlin County",
+    "state": "SD"
+  },
+  {
+    "name": "Grant County",
+    "state": "SD"
+  },
+  {
+    "name": "Moody County",
+    "state": "SD"
+  },
+  {
+    "name": "Corson County",
+    "state": "SD"
+  },
+  {
+    "name": "Tripp County",
+    "state": "SD"
+  },
+  {
+    "name": "Hand County",
+    "state": "SD"
+  },
+  {
+    "name": "McCook County",
+    "state": "SD"
+  },
+  {
+    "name": "Shannon County",
+    "state": "SD"
+  },
+  {
+    "name": "Lincoln County",
+    "state": "SD"
+  },
+  {
+    "name": "Turner County",
+    "state": "SD"
+  },
+  {
+    "name": "Kingsbury County",
+    "state": "SD"
+  },
+  {
+    "name": "Day County",
+    "state": "SD"
+  },
+  {
+    "name": "Dewey County",
+    "state": "SD"
+  },
+  {
+    "name": "El Paso County",
+    "state": "CO"
+  },
+  {
+    "name": "Arapahoe County",
+    "state": "CO"
+  },
+  {
+    "name": "Huerfano County",
+    "state": "CO"
+  },
+  {
+    "name": "Barry County",
+    "state": "MO"
+  },
+  {
+    "name": "Dallas County",
+    "state": "MO"
+  },
+  {
+    "name": "Wayne County",
+    "state": "MO"
+  },
+  {
+    "name": "Saline County",
+    "state": "MO"
+  },
+  {
+    "name": "Harrison County",
+    "state": "MO"
+  },
+  {
+    "name": "Phelps County",
+    "state": "MO"
+  },
+  {
+    "name": "Gasconade County",
+    "state": "MO"
+  },
+  {
+    "name": "Dent County",
+    "state": "MO"
+  },
+  {
+    "name": "Ste. Genevieve County",
+    "state": "MO"
+  },
+  {
+    "name": "Montgomery County",
+    "state": "MO"
+  },
+  {
+    "name": "Lafayette County",
+    "state": "MO"
+  },
+  {
+    "name": "Osage County",
+    "state": "MO"
+  },
+  {
+    "name": "Vernon County",
+    "state": "MO"
+  },
+  {
+    "name": "Ripley County",
+    "state": "MO"
+  },
+  {
+    "name": "Taney County",
+    "state": "MO"
+  },
+  {
+    "name": "Walla Walla County",
+    "state": "WA"
+  },
+  {
+    "name": "Garfield County",
+    "state": "WA"
+  },
+  {
+    "name": "Adams County",
+    "state": "WA"
+  },
+  {
+    "name": "New Haven County",
+    "state": "CT"
+  },
+  {
+    "name": "Kane County",
+    "state": "IL"
+  },
+  {
+    "name": "Gallatin County",
+    "state": "IL"
+  },
+  {
+    "name": "Henderson County",
+    "state": "IL"
+  },
+  {
+    "name": "Coles County",
+    "state": "IL"
+  },
+  {
+    "name": "Ventura County",
+    "state": "CA"
+  },
+  {
+    "name": "Morgan County",
+    "state": "UT"
+  },
+  {
+    "name": "Tuolumne County",
+    "state": "CA"
+  },
+  {
+    "name": "Butte County",
+    "state": "CA"
+  },
+  {
+    "name": "San Juan County",
+    "state": "UT"
+  },
+  {
+    "name": "Tooele County",
+    "state": "UT"
+  },
+  {
+    "name": "Sierra County",
+    "state": "CA"
+  },
+  {
+    "name": "Lake County",
+    "state": "CA"
+  },
+  {
+    "name": "Modoc County",
+    "state": "CA"
+  },
+  {
+    "name": "El Dorado County",
+    "state": "CA"
+  },
+  {
+    "name": "Los Angeles County",
+    "state": "CA"
+  },
+  {
+    "name": "Alameda County",
+    "state": "CA"
+  },
+  {
+    "name": "Cumberland County",
+    "state": "TN"
+  },
+  {
+    "name": "Itasca County",
+    "state": "MN"
+  },
+  {
+    "name": "Claiborne County",
+    "state": "TN"
+  },
+  {
+    "name": "Sequatchie County",
+    "state": "TN"
+  },
+  {
+    "name": "St. Joseph County",
+    "state": "IN"
+  },
+  {
+    "name": "Jennings County",
+    "state": "IN"
+  },
+  {
+    "name": "Dickson County",
+    "state": "TN"
+  },
+  {
+    "name": "Noble County",
+    "state": "IN"
+  },
+  {
+    "name": "Wayne County",
+    "state": "IN"
+  },
+  {
+    "name": "Parke County",
+    "state": "IN"
+  },
+  {
+    "name": "Van Buren County",
+    "state": "TN"
+  },
+  {
+    "name": "Lake of the Woods County",
+    "state": "MN"
+  },
+  {
+    "name": "Chisago County",
+    "state": "MN"
+  },
+  {
+    "name": "Pennington County",
+    "state": "MN"
+  },
+  {
+    "name": "McLeod County",
+    "state": "MN"
+  },
+  {
+    "name": "Cottonwood County",
+    "state": "MN"
+  },
+  {
+    "name": "Fillmore County",
+    "state": "MN"
+  },
+  {
+    "name": "Cannon County",
+    "state": "TN"
+  },
+  {
+    "name": "Becker County",
+    "state": "MN"
+  },
+  {
+    "name": "Jackson County",
+    "state": "TN"
+  },
+  {
+    "name": "Jasper County",
+    "state": "IN"
+  },
+  {
+    "name": "Ramsey County",
+    "state": "MN"
+  },
+  {
+    "name": "Daviess County",
+    "state": "IN"
+  },
+  {
+    "name": "Rock County",
+    "state": "MN"
+  },
+  {
+    "name": "Owen County",
+    "state": "IN"
+  },
+  {
+    "name": "Blount County",
+    "state": "TN"
+  },
+  {
+    "name": "Martin County",
+    "state": "MN"
+  },
+  {
+    "name": "Wilkin County",
+    "state": "MN"
+  },
+  {
+    "name": "Swift County",
+    "state": "MN"
+  },
+  {
+    "name": "Grant County",
+    "state": "IN"
+  },
+  {
+    "name": "Weakley County",
+    "state": "TN"
+  },
+  {
+    "name": "LaGrange County",
+    "state": "IN"
+  },
+  {
+    "name": "Clay County",
+    "state": "IN"
+  },
+  {
+    "name": "Clinton County",
+    "state": "IN"
+  },
+  {
+    "name": "Montgomery County",
+    "state": "IN"
+  },
+  {
+    "name": "Cass County",
+    "state": "IN"
+  },
+  {
+    "name": "Scott County",
+    "state": "MN"
+  },
+  {
+    "name": "Bradley County",
+    "state": "TN"
+  },
+  {
+    "name": "Warren County",
+    "state": "IN"
+  },
+  {
+    "name": "Clay County",
+    "state": "TN"
+  },
+  {
+    "name": "Roane County",
+    "state": "TN"
+  },
+  {
+    "name": "Carter County",
+    "state": "TN"
+  },
+  {
+    "name": "Fulton County",
+    "state": "IN"
+  },
+  {
+    "name": "DeKalb County",
+    "state": "TN"
+  },
+  {
+    "name": "Vermillion County",
+    "state": "IN"
+  },
+  {
+    "name": "Davidson County",
+    "state": "TN"
+  },
+  {
+    "name": "Carroll County",
+    "state": "TN"
+  },
+  {
+    "name": "Dearborn County",
+    "state": "IN"
+  },
+  {
+    "name": "Spencer County",
+    "state": "IN"
+  },
+  {
+    "name": "Carroll County",
+    "state": "IN"
+  },
+  {
+    "name": "Huntington County",
+    "state": "IN"
+  },
+  {
+    "name": "Houston County",
+    "state": "TN"
+  },
+  {
+    "name": "Perry County",
+    "state": "TN"
+  },
+  {
+    "name": "Miami County",
+    "state": "IN"
+  },
+  {
+    "name": "Trousdale County",
+    "state": "TN"
+  },
+  {
+    "name": "Henry County",
+    "state": "IN"
+  },
+  {
+    "name": "Lake County",
+    "state": "TN"
+  },
+  {
+    "name": "Hamilton County",
+    "state": "IN"
+  },
+  {
+    "name": "Morgan County",
+    "state": "IN"
+  },
+  {
+    "name": "Crow Wing County",
+    "state": "MN"
+  },
+  {
+    "name": "Coffee County",
+    "state": "TN"
+  },
+  {
+    "name": "Dodge County",
+    "state": "MN"
+  },
+  {
+    "name": "Hawkins County",
+    "state": "TN"
+  },
+  {
+    "name": "Jefferson County",
+    "state": "IN"
+  },
+  {
+    "name": "Vanderburgh County",
+    "state": "IN"
+  },
+  {
+    "name": "Maury County",
+    "state": "TN"
+  },
+  {
+    "name": "Dubois County",
+    "state": "IN"
+  },
+  {
+    "name": "Union County",
+    "state": "IN"
+  },
+  {
+    "name": "Scott County",
+    "state": "TN"
+  },
+  {
+    "name": "Marshall County",
+    "state": "TN"
+  },
+  {
+    "name": "Lincoln County",
+    "state": "TN"
+  },
+  {
+    "name": "Tippecanoe County",
+    "state": "IN"
+  },
+  {
+    "name": "Henderson County",
+    "state": "TN"
+  },
+  {
+    "name": "Decatur County",
+    "state": "IN"
+  },
+  {
+    "name": "Douglas County",
+    "state": "MN"
+  },
+  {
+    "name": "Switzerland County",
+    "state": "IN"
+  },
+  {
+    "name": "Benton County",
+    "state": "MN"
+  },
+  {
+    "name": "White County",
+    "state": "IN"
+  },
+  {
+    "name": "Floyd County",
+    "state": "IN"
+  },
+  {
+    "name": "Overton County",
+    "state": "TN"
+  },
+  {
+    "name": "Lawrence County",
+    "state": "IN"
+  },
+  {
+    "name": "Tipton County",
+    "state": "IN"
+  },
+  {
+    "name": "Whitley County",
+    "state": "IN"
+  },
+  {
+    "name": "Haywood County",
+    "state": "TN"
+  },
+  {
+    "name": "Lake County",
+    "state": "IN"
+  },
+  {
+    "name": "Adams County",
+    "state": "IN"
+  },
+  {
+    "name": "Delaware County",
+    "state": "IN"
+  },
+  {
+    "name": "Kosciusko County",
+    "state": "IN"
+  },
+  {
+    "name": "Humphreys County",
+    "state": "TN"
+  },
+  {
+    "name": "Posey County",
+    "state": "IN"
+  },
+  {
+    "name": "Orange County",
+    "state": "IN"
+  },
+  {
+    "name": "Harrison County",
+    "state": "IN"
+  },
+  {
+    "name": "Scott County",
+    "state": "IN"
+  },
+  {
+    "name": "Warrick County",
+    "state": "IN"
+  },
+  {
+    "name": "Grainger County",
+    "state": "TN"
+  },
+  {
+    "name": "Wayne County",
+    "state": "TN"
+  },
+  {
+    "name": "Allen County",
+    "state": "IN"
+  },
+  {
+    "name": "Lauderdale County",
+    "state": "TN"
+  },
+  {
+    "name": "Bartholomew County",
+    "state": "IN"
+  },
+  {
+    "name": "Vigo County",
+    "state": "IN"
+  },
+  {
+    "name": "Hamilton County",
+    "state": "TN"
+  },
+  {
+    "name": "Pike County",
+    "state": "IN"
+  },
+  {
+    "name": "Porter County",
+    "state": "IN"
+  },
+  {
+    "name": "Benton County",
+    "state": "IN"
+  },
+  {
+    "name": "Ohio County",
+    "state": "IN"
+  },
+  {
+    "name": "Monroe County",
+    "state": "TN"
+  },
+  {
+    "name": "Jackson County",
+    "state": "IN"
+  },
+  {
+    "name": "Marion County",
+    "state": "IN"
+  },
+  {
+    "name": "Greene County",
+    "state": "IN"
+  },
+  {
+    "name": "Wilson County",
+    "state": "TN"
+  },
+  {
+    "name": "Starke County",
+    "state": "IN"
+  },
+  {
+    "name": "McNairy County",
+    "state": "TN"
+  },
+  {
+    "name": "Shelby County",
+    "state": "TN"
+  },
+  {
+    "name": "Rush County",
+    "state": "IN"
+  },
+  {
+    "name": "Putnam County",
+    "state": "IN"
+  },
+  {
+    "name": "Blackford County",
+    "state": "IN"
+  },
+  {
+    "name": "Madison County",
+    "state": "TN"
+  },
+  {
+    "name": "Harrison County",
+    "state": "MS"
+  },
+  {
+    "name": "Jefferson Davis County",
+    "state": "MS"
+  },
+  {
+    "name": "East Baton Rouge Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Cameron Parish",
+    "state": "LA"
+  },
+  {
+    "name": "East Carroll Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Caddo Parish",
+    "state": "LA"
+  },
+  {
+    "name": "Highland County",
+    "state": "VA"
+  },
+  {
+    "name": "Buckingham County",
+    "state": "VA"
+  },
+  {
+    "name": "Madison County",
+    "state": "VA"
+  },
+  {
+    "name": "Hanover County",
+    "state": "VA"
+  },
+  {
+    "name": "Lee County",
+    "state": "VA"
+  },
+  {
+    "name": "Amherst County",
+    "state": "VA"
+  },
+  {
+    "name": "Nottoway County",
+    "state": "VA"
+  },
+  {
+    "name": "Grayson County",
+    "state": "VA"
+  },
+  {
+    "name": "Henrico County",
+    "state": "VA"
+  },
+  {
+    "name": "Amelia County",
+    "state": "VA"
+  },
+  {
+    "name": "Danville city",
+    "state": "VA"
+  },
+  {
+    "name": "Rappahannock County",
+    "state": "VA"
+  },
+  {
+    "name": "Chesapeake city",
+    "state": "VA"
+  },
+  {
+    "name": "Hopewell city",
+    "state": "VA"
+  },
+  {
+    "name": "Suffolk city",
+    "state": "VA"
+  },
+  {
+    "name": "Montgomery County",
+    "state": "VA"
+  },
+  {
+    "name": "Bastrop County",
+    "state": "TX"
+  },
+  {
+    "name": "Austin County",
+    "state": "TX"
+  },
+  {
+    "name": "Andrews County",
+    "state": "TX"
+  },
+  {
+    "name": "Anderson County",
+    "state": "TX"
+  },
+  {
+    "name": "Blanco County",
+    "state": "TX"
+  },
+  {
+    "name": "Bland County",
+    "state": "VA"
+  },
+  {
+    "name": "Rockbridge County",
+    "state": "VA"
+  },
+  {
+    "name": "Mathews County",
+    "state": "VA"
+  },
+  {
+    "name": "DeWitt County",
+    "state": "TX"
+  },
+  {
+    "name": "Northampton County",
+    "state": "VA"
+  },
+  {
+    "name": "Bath County",
+    "state": "VA"
+  },
+  {
+    "name": "Williamsburg city",
+    "state": "VA"
+  },
+  {
+    "name": "Washington County",
+    "state": "VA"
+  },
+  {
+    "name": "Orange County",
+    "state": "VA"
+  },
+  {
+    "name": "Bandera County",
+    "state": "TX"
+  },
+  {
+    "name": "Bell County",
+    "state": "TX"
+  },
+  {
+    "name": "Aransas County",
+    "state": "TX"
+  },
+  {
+    "name": "Archer County",
+    "state": "TX"
+  },
+  {
+    "name": "Armstrong County",
+    "state": "TX"
+  },
+  {
+    "name": "Bee County",
+    "state": "TX"
+  },
+  {
+    "name": "Angelina County",
+    "state": "TX"
+  },
+  {
+    "name": "Galax city",
+    "state": "VA"
+  },
+  {
+    "name": "Bailey County",
+    "state": "TX"
+  },
+  {
+    "name": "Jefferson County",
+    "state": "TX"
+  },
+  {
+    "name": "Frio County",
+    "state": "TX"
+  },
+  {
+    "name": "Fannin County",
+    "state": "TX"
+  },
+  {
+    "name": "Goliad County",
+    "state": "TX"
+  },
+  {
+    "name": "Loving County",
+    "state": "TX"
+  },
+  {
+    "name": "Cass County",
+    "state": "TX"
+  },
+  {
+    "name": "Fort Bend County",
+    "state": "TX"
+  },
+  {
+    "name": "Bosque County",
+    "state": "TX"
+  },
+  {
+    "name": "Hockley County",
+    "state": "TX"
+  },
+  {
+    "name": "San Saba County",
+    "state": "TX"
+  },
+  {
+    "name": "Kerr County",
+    "state": "TX"
+  },
+  {
+    "name": "Mills County",
+    "state": "TX"
+  },
+  {
+    "name": "Cooke County",
+    "state": "TX"
+  },
+  {
+    "name": "Wilbarger County",
+    "state": "TX"
+  },
+  {
+    "name": "Irion County",
+    "state": "TX"
+  },
+  {
+    "name": "Caldwell County",
+    "state": "TX"
+  },
+  {
+    "name": "Jim Hogg County",
+    "state": "TX"
+  },
+  {
+    "name": "Culberson County",
+    "state": "TX"
+  },
+  {
+    "name": "Upshur County",
+    "state": "TX"
+  },
+  {
+    "name": "Cherokee County",
+    "state": "TX"
+  },
+  {
+    "name": "Denton County",
+    "state": "TX"
+  },
+  {
+    "name": "Concho County",
+    "state": "TX"
+  },
+  {
+    "name": "Randall County",
+    "state": "TX"
+  },
+  {
+    "name": "Kimble County",
+    "state": "TX"
+  },
+  {
+    "name": "Knox County",
+    "state": "TX"
+  },
+  {
+    "name": "Polk County",
+    "state": "TX"
+  },
+  {
+    "name": "Hood County",
+    "state": "TX"
+  },
+  {
+    "name": "San Jacinto County",
+    "state": "TX"
+  },
+  {
+    "name": "Robertson County",
+    "state": "TX"
+  },
+  {
+    "name": "Wilson County",
+    "state": "TX"
+  },
+  {
+    "name": "Nolan County",
+    "state": "TX"
+  },
+  {
+    "name": "Cottle County",
+    "state": "TX"
+  },
+  {
+    "name": "Calhoun County",
+    "state": "TX"
+  },
+  {
+    "name": "Rockwall County",
+    "state": "TX"
+  },
+  {
+    "name": "Live Oak County",
+    "state": "TX"
+  },
+  {
+    "name": "Motley County",
+    "state": "TX"
+  },
+  {
+    "name": "Sherman County",
+    "state": "TX"
+  },
+  {
+    "name": "Ochiltree County",
+    "state": "TX"
+  },
+  {
+    "name": "Comal County",
+    "state": "TX"
+  },
+  {
+    "name": "Morris County",
+    "state": "NJ"
+  },
+  {
+    "name": "Burlington County",
+    "state": "NJ"
+  },
+  {
+    "name": "Middlesex County",
+    "state": "NJ"
+  },
+  {
+    "name": "Graham County",
+    "state": "AZ"
+  },
+  {
+    "name": "Maricopa County",
+    "state": "AZ"
+  },
+  {
+    "name": "Cochise County",
+    "state": "AZ"
+  },
+  {
+    "name": "Mohave County",
+    "state": "AZ"
+  },
+  {
+    "name": "Apache County",
+    "state": "AZ"
+  },
+  {
+    "name": "Orange County",
+    "state": "VT"
+  },
+  {
+    "name": "Franklin County",
+    "state": "ME"
+  },
+  {
+    "name": "Somerset County",
+    "state": "ME"
+  },
+  {
+    "name": "Oxford County",
+    "state": "ME"
+  },
+  {
+    "name": "Bennington County",
+    "state": "VT"
+  },
+  {
+    "name": "Orleans County",
+    "state": "VT"
+  },
+  {
+    "name": "Waldo County",
+    "state": "ME"
+  },
+  {
+    "name": "Lincoln County",
+    "state": "ME"
+  },
+  {
+    "name": "York County",
+    "state": "ME"
+  },
+  {
+    "name": "Chittenden County",
+    "state": "VT"
+  },
+  {
+    "name": "Knox County",
+    "state": "ME"
+  },
+  {
+    "name": "Sagadahoc County",
+    "state": "ME"
+  },
+  {
+    "name": "Androscoggin County",
+    "state": "ME"
+  },
+  {
+    "name": "Kennebec County",
+    "state": "ME"
+  },
+  {
+    "name": "Cumberland County",
+    "state": "ME"
+  },
+  {
+    "name": "Piscataquis County",
+    "state": "ME"
+  },
+  {
+    "name": "Pettis County",
+    "state": "MO"
+  },
+  {
+    "name": "Knox County",
+    "state": "MO"
+  },
+  {
+    "name": "Newton County",
+    "state": "MO"
+  },
+  {
+    "name": "Putnam County",
+    "state": "MO"
+  },
+  {
+    "name": "Chariton County",
+    "state": "MO"
+  },
+  {
+    "name": "Lincoln County",
+    "state": "MO"
+  },
+  {
+    "name": "Miller County",
+    "state": "MO"
+  },
+  {
+    "name": "Madison County",
+    "state": "MO"
+  },
+  {
+    "name": "Atchison County",
+    "state": "MO"
+  },
+  {
+    "name": "Washington County",
+    "state": "MO"
+  },
+  {
+    "name": "Sullivan County",
+    "state": "MO"
+  },
+  {
+    "name": "Butler County",
+    "state": "MO"
+  },
+  {
+    "name": "Daviess County",
+    "state": "MO"
+  },
+  {
+    "name": "Christian County",
+    "state": "MO"
+  },
+  {
+    "name": "Polk County",
+    "state": "MO"
+  },
+  {
+    "name": "Dade County",
+    "state": "MO"
+  },
+  {
+    "name": "Andrew County",
+    "state": "MO"
+  },
+  {
+    "name": "Scott County",
+    "state": "MO"
+  },
+  {
+    "name": "Nodaway County",
+    "state": "MO"
+  },
+  {
+    "name": "New Madrid County",
+    "state": "MO"
+  },
+  {
+    "name": "Callaway County",
+    "state": "MO"
+  },
+  {
+    "name": "Perry County",
+    "state": "MO"
+  },
+  {
+    "name": "Camden County",
+    "state": "MO"
+  },
+  {
+    "name": "Cole County",
+    "state": "MO"
+  },
+  {
+    "name": "Worth County",
+    "state": "MO"
+  },
+  {
+    "name": "Greene County",
+    "state": "MO"
+  },
+  {
+    "name": "Jasper County",
+    "state": "MO"
+  },
+  {
+    "name": "Randolph County",
+    "state": "MO"
+  },
+  {
+    "name": "Stone County",
+    "state": "MO"
+  },
+  {
+    "name": "Cooper County",
+    "state": "MO"
+  },
+  {
+    "name": "San Juan County",
+    "state": "WA"
+  },
+  {
+    "name": "Snohomish County",
+    "state": "WA"
+  },
+  {
+    "name": "Skamania County",
+    "state": "WA"
+  },
+  {
+    "name": "Grant County",
+    "state": "WA"
+  },
+  {
+    "name": "Island County",
+    "state": "WA"
+  },
+  {
+    "name": "Grays Harbor County",
+    "state": "WA"
+  },
+  {
+    "name": "Pierce County",
+    "state": "WA"
+  },
+  {
+    "name": "Wahkiakum County",
+    "state": "WA"
+  },
+  {
+    "name": "Columbia County",
+    "state": "WA"
+  },
+  {
+    "name": "Spokane County",
+    "state": "WA"
+  },
+  {
+    "name": "Okanogan County",
+    "state": "WA"
+  },
+  {
+    "name": "Calhoun County",
+    "state": "IL"
+  },
+  {
+    "name": "Pope County",
+    "state": "IL"
+  },
+  {
+    "name": "Lawrence County",
+    "state": "IL"
+  },
+  {
+    "name": "Lee County",
+    "state": "IL"
+  },
+  {
+    "name": "Marshall County",
+    "state": "IL"
+  },
+  {
+    "name": "Clinton County",
+    "state": "IL"
+  },
+  {
+    "name": "McLean County",
+    "state": "IL"
+  },
+  {
+    "name": "Perry County",
+    "state": "IL"
+  },
+  {
+    "name": "Inyo County",
+    "state": "CA"
+  },
+  {
+    "name": "San Francisco County",
+    "state": "CA"
+  },
+  {
+    "name": "Santa Cruz County",
+    "state": "CA"
+  },
+  {
+    "name": "Kings County",
+    "state": "CA"
+  },
+  {
+    "name": "Humboldt County",
+    "state": "CA"
+  },
+  {
+    "name": "Solano County",
+    "state": "CA"
+  },
+  {
+    "name": "Merced County",
+    "state": "CA"
+  },
+  {
+    "name": "Duplin County",
+    "state": "NC"
+  },
+  {
+    "name": "Pitt County",
+    "state": "NC"
+  },
+  {
+    "name": "Nicollet County",
+    "state": "MN"
+  },
+  {
+    "name": "Polk County",
+    "state": "MN"
+  },
+  {
+    "name": "Wayne County",
+    "state": "NC"
+  },
+  {
+    "name": "Houston County",
+    "state": "MN"
+  },
+  {
+    "name": "Nobles County",
+    "state": "MN"
+  },
+  {
+    "name": "Sherburne County",
+    "state": "MN"
+  },
+  {
+    "name": "Warren County",
+    "state": "NC"
+  },
+  {
+    "name": "Kittson County",
+    "state": "MN"
+  },
+  {
+    "name": "Brown County",
+    "state": "MN"
+  },
+  {
+    "name": "Madison County",
+    "state": "NC"
+  },
+  {
+    "name": "Big Stone County",
+    "state": "MN"
+  },
+  {
+    "name": "Rice County",
+    "state": "MN"
+  },
+  {
+    "name": "Blue Earth County",
+    "state": "MN"
+  },
+  {
+    "name": "Macon County",
+    "state": "NC"
+  },
+  {
+    "name": "Transylvania County",
+    "state": "NC"
+  },
+  {
+    "name": "Vance County",
+    "state": "NC"
+  },
+  {
+    "name": "Davie County",
+    "state": "NC"
+  },
+  {
+    "name": "Kandiyohi County",
+    "state": "MN"
+  },
+  {
+    "name": "Wilson County",
+    "state": "NC"
+  },
+  {
+    "name": "Waseca County",
+    "state": "MN"
+  },
+  {
+    "name": "Alamance County",
+    "state": "NC"
+  },
+  {
+    "name": "Pasquotank County",
+    "state": "NC"
+  },
+  {
+    "name": "Orange County",
+    "state": "NC"
+  },
+  {
+    "name": "Northampton County",
+    "state": "NC"
+  },
+  {
+    "name": "Jackson County",
+    "state": "MN"
+  },
+  {
+    "name": "St. Louis County",
+    "state": "MN"
+  },
+  {
+    "name": "Renville County",
+    "state": "MN"
+  },
+  {
+    "name": "Washington County",
+    "state": "MN"
+  },
+  {
+    "name": "Steele County",
+    "state": "MN"
+  },
+  {
+    "name": "Meeker County",
+    "state": "MN"
+  },
+  {
+    "name": "Roseau County",
+    "state": "MN"
+  },
+  {
+    "name": "Stanly County",
+    "state": "NC"
+  },
+  {
+    "name": "Stevens County",
+    "state": "MN"
+  },
+  {
+    "name": "Anson County",
+    "state": "NC"
+  },
+  {
+    "name": "Currituck County",
+    "state": "NC"
+  },
+  {
+    "name": "Lac qui Parle County",
+    "state": "MN"
+  },
+  {
+    "name": "Traverse County",
+    "state": "MN"
+  },
+  {
+    "name": "Clay County",
+    "state": "MN"
+  },
+  {
+    "name": "Catawba County",
+    "state": "NC"
+  },
+  {
+    "name": "Clay County",
+    "state": "NC"
+  },
+  {
+    "name": "Kanabec County",
+    "state": "MN"
+  },
+  {
+    "name": "Watauga County",
+    "state": "NC"
+  },
+  {
+    "name": "Yellow Medicine County",
+    "state": "MN"
+  },
+  {
+    "name": "Marshall County",
+    "state": "MN"
+  },
+  {
+    "name": "Wabasha County",
+    "state": "MN"
+  },
+  {
+    "name": "Norman County",
+    "state": "MN"
+  },
+  {
+    "name": "Rutherford County",
+    "state": "NC"
+  },
+  {
+    "name": "Brunswick County",
+    "state": "NC"
+  },
+  {
+    "name": "Moore County",
+    "state": "NC"
+  },
+  {
+    "name": "Columbus County",
+    "state": "NC"
+  },
+  {
+    "name": "Hennepin County",
+    "state": "MN"
+  },
+  {
+    "name": "Alleghany County",
+    "state": "NC"
+  },
+  {
+    "name": "Chowan County",
+    "state": "NC"
+  },
+  {
+    "name": "Mower County",
+    "state": "MN"
+  },
+  {
+    "name": "Stearns County",
+    "state": "MN"
+  },
+  {
+    "name": "Pine County",
+    "state": "MN"
+  },
+  {
+    "name": "Edgecombe County",
+    "state": "NC"
+  },
+  {
+    "name": "Todd County",
+    "state": "MN"
+  },
+  {
+    "name": "Cook County",
+    "state": "MN"
+  },
+  {
+    "name": "Rowan County",
+    "state": "NC"
+  },
+  {
+    "name": "Cabarrus County",
+    "state": "NC"
+  },
+  {
+    "name": "Koochiching County",
+    "state": "MN"
+  },
+  {
+    "name": "Person County",
+    "state": "NC"
+  },
+  {
+    "name": "Grant County",
+    "state": "MN"
+  },
+  {
+    "name": "Martin County",
+    "state": "NC"
+  },
+  {
+    "name": "Hertford County",
+    "state": "NC"
+  },
+  {
+    "name": "Dare County",
+    "state": "NC"
+  },
+  {
+    "name": "Hoke County",
+    "state": "NC"
+  },
+  {
+    "name": "Bertie County",
+    "state": "NC"
+  },
+  {
+    "name": "Clearwater County",
+    "state": "MN"
+  },
+  {
+    "name": "Red Lake County",
+    "state": "MN"
+  },
+  {
+    "name": "New Hanover County",
+    "state": "NC"
+  },
+  {
+    "name": "Tyrrell County",
+    "state": "NC"
+  },
+  {
+    "name": "Mille Lacs County",
+    "state": "MN"
+  },
+  {
+    "name": "Craven County",
+    "state": "NC"
+  },
+  {
+    "name": "Stokes County",
+    "state": "NC"
+  },
+  {
+    "name": "Cherokee County",
+    "state": "NC"
+  },
+  {
+    "name": "Swain County",
+    "state": "NC"
+  },
+  {
+    "name": "Beltrami County",
+    "state": "MN"
+  },
+  {
+    "name": "Sibley County",
+    "state": "MN"
+  },
+  {
+    "name": "Hyde County",
+    "state": "NC"
+  },
+  {
+    "name": "Pender County",
+    "state": "NC"
+  },
+  {
+    "name": "Gates County",
+    "state": "NC"
+  },
+  {
+    "name": "Washington County",
+    "state": "NC"
+  },
+  {
+    "name": "Randolph County",
+    "state": "NC"
+  },
+  {
+    "name": "Avery County",
+    "state": "NC"
+  },
+  {
+    "name": "Pamlico County",
+    "state": "NC"
+  },
+  {
+    "name": "Chippewa County",
+    "state": "MN"
+  },
+  {
+    "name": "Ashe County",
+    "state": "NC"
+  },
+  {
+    "name": "Yadkin County",
+    "state": "NC"
+  },
+  {
+    "name": "Redwood County",
+    "state": "MN"
+  },
+  {
+    "name": "Otter Tail County",
+    "state": "MN"
+  },
+  {
+    "name": "Pope County",
+    "state": "MN"
+  },
+  {
+    "name": "Lincoln County",
+    "state": "MN"
+  },
+  {
+    "name": "Carlton County",
+    "state": "MN"
+  },
+  {
+    "name": "Aitkin County",
+    "state": "MN"
+  },
+  {
+    "name": "Isanti County",
+    "state": "MN"
+  },
+  {
+    "name": "Wright County",
+    "state": "MN"
+  },
+  {
+    "name": "Lee County",
+    "state": "NC"
+  },
+  {
+    "name": "Wake County",
+    "state": "NC"
+  },
+  {
+    "name": "Harnett County",
+    "state": "NC"
+  },
+  {
+    "name": "Camden County",
+    "state": "NC"
+  },
+  {
+    "name": "Graham County",
+    "state": "NC"
+  },
+  {
+    "name": "Olmsted County",
+    "state": "MN"
+  },
+  {
+    "name": "Le Sueur County",
+    "state": "MN"
+  },
+  {
+    "name": "Faribault County",
+    "state": "MN"
+  },
+  {
+    "name": "Bladen County",
+    "state": "NC"
+  },
+  {
+    "name": "Haywood County",
+    "state": "NC"
+  },
+  {
+    "name": "Watonwan County",
+    "state": "MN"
+  },
+  {
+    "name": "Goodhue County",
+    "state": "MN"
+  },
+  {
+    "name": "Buncombe County",
+    "state": "NC"
+  },
+  {
+    "name": "Morrison County",
+    "state": "MN"
+  },
+  {
+    "name": "Scotland County",
+    "state": "NC"
+  },
+  {
+    "name": "Cleveland County",
+    "state": "NC"
+  },
+  {
+    "name": "Jones County",
+    "state": "NC"
+  },
+  {
+    "name": "Lincoln County",
+    "state": "NC"
+  },
+  {
+    "name": "Mahnomen County",
+    "state": "MN"
+  },
+  {
+    "name": "Anoka County",
+    "state": "MN"
+  },
+  {
+    "name": "Lake County",
+    "state": "MN"
+  },
+  {
+    "name": "Pipestone County",
+    "state": "MN"
+  },
+  {
+    "name": "Wadena County",
+    "state": "MN"
+  },
+  {
+    "name": "Gaston County",
+    "state": "NC"
+  },
+  {
+    "name": "Yancey County",
+    "state": "NC"
+  },
+  {
+    "name": "Jackson County",
+    "state": "NC"
+  },
+  {
+    "name": "Polk County",
+    "state": "NC"
+  },
+  {
+    "name": "Murray County",
+    "state": "MN"
+  },
+  {
+    "name": "Onslow County",
+    "state": "NC"
+  },
+  {
+    "name": "Caswell County",
+    "state": "NC"
+  },
+  {
+    "name": "Lyon County",
+    "state": "MN"
+  },
+  {
+    "name": "Freeborn County",
+    "state": "MN"
+  },
+  {
+    "name": "Alexander County",
+    "state": "NC"
+  },
+  {
+    "name": "Rockingham County",
+    "state": "NC"
+  },
+  {
+    "name": "Dakota County",
+    "state": "MN"
+  },
+  {
+    "name": "Carver County",
+    "state": "MN"
+  },
+  {
+    "name": "Wilkes County",
+    "state": "NC"
+  },
+  {
+    "name": "Granville County",
+    "state": "NC"
+  },
+  {
+    "name": "McDowell County",
+    "state": "NC"
+  },
+  {
+    "name": "Cass County",
+    "state": "MN"
+  },
+  {
+    "name": "Hubbard County",
+    "state": "MN"
+  },
+  {
+    "name": "Winona County",
+    "state": "MN"
+  }
+]
