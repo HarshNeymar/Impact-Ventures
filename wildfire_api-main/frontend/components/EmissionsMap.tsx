@@ -1,14 +1,14 @@
 "use client"
 
-import React, { useState, useEffect, useRef, useMemo } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { Map, NavigationControl, Marker } from "@vis.gl/react-maplibre";
 import type { MapLayerMouseEvent } from "maplibre-gl";
-import DeckGL from "@deck.gl/react";
 import { Button } from '@/components/ui/button';
 import type { EmissionsData } from '@/types/emissions';
 import { tooltipClasses } from '@/lib/utils';
 import { getInitialEmissionView, getResponsiveEmissionZoom } from '@/lib/utils/viewportUtils';
-import { createEmissionsLayers } from '@/lib/utils/mapLayers';
+import { addPollutionClouds, updatePollutionClouds, AQ_HIT_LAYER, type AqCellProperties } from '@/lib/utils/aqCloudLayer';
+import { AirPollutionLegend } from '@/components/AirPollutionLegend';
 import { SHARED_MAP_CONTAINER_CLASSNAME } from '@/lib/sharedMapContainer';
 import { useGlobalSidebars } from '@/components/AuthenticatedLayout';
 
@@ -22,41 +22,13 @@ export function EmissionsMap({ emissionsData, isRefreshing, onRefresh }: Emissio
   const { setChatbotExpanded, analyzeEmissionsData, isChatbotExpanded } = useGlobalSidebars();
   const [emissionViewState, setEmissionViewState] = useState(getInitialEmissionView());
   const [emissionMapSize, setEmissionMapSize] = useState({ width: 0, height: 0 });
-  const [water, setWater] = useState<any>(null);
   const [pin, setPin] = useState<{ lng: number; lat: number } | null>(null);
   const [clickedEmission, setClickedEmission] = useState<EmissionsData | null>(null);
   const [clickedPos, setClickedPos] = useState<{ x: number; y: number } | null>(null);
+  const [hoveredCell, setHoveredCell] = useState<{ cell: AqCellProperties; x: number; y: number } | null>(null);
   const [emissionMapLoaded, setEmissionMapLoaded] = useState(false);
-  const [deckReady, setDeckReady] = useState(false);
-  const [webglSupported, setWebglSupported] = useState(true);
+  const [domainMax, setDomainMax] = useState<number | null>(null);
   const mapRef = useRef<any>(null);
-
-  // Defer DeckGL mount by one tick to avoid Strict Mode throwaway mounts in dev.
-  useEffect(() => {
-    const timer = window.setTimeout(() => setDeckReady(true), 0);
-    return () => {
-      window.clearTimeout(timer);
-      setDeckReady(false);
-    };
-  }, []);
-
-  useEffect(() => {
-    try {
-      const canvas = document.createElement('canvas');
-      const hasWebGL = !!(canvas.getContext('webgl2') || canvas.getContext('webgl'));
-      setWebglSupported(hasWebGL);
-    } catch {
-      setWebglSupported(false);
-    }
-  }, []);
-
-  // Load water geojson data for map background
-  useEffect(() => {
-    fetch("/data/water.geojson")
-      .then(r => r.json())
-      .then(setWater)
-      .catch(() => {});
-  }, []);
 
   // Responsive emission map sizing
   useEffect(() => {
@@ -85,9 +57,29 @@ export function EmissionsMap({ emissionsData, isRefreshing, onRefresh }: Emissio
     }
   }, [emissionMapSize.width, emissionMapSize.height]);
 
-  const layers = useMemo(() => {
-    return createEmissionsLayers(emissionsData, water, 'emission', emissionViewState.zoom);
-  }, [emissionsData, water, emissionViewState.zoom]);
+  // Cloud layer: added once per map instance, then re-gridded whenever data (re)loads.
+  useEffect(() => {
+    const map = mapRef.current;
+    if (!emissionMapLoaded || !map) return;
+    const result = updatePollutionClouds(map, emissionsData) ?? addPollutionClouds(map, emissionsData);
+    setDomainMax(emissionsData.length ? result.domainMax : null);
+  }, [emissionMapLoaded, emissionsData]);
+
+  const handleMouseMove = (e: MapLayerMouseEvent) => {
+    const map = mapRef.current;
+    if (!map || !map.getLayer(AQ_HIT_LAYER)) return;
+    const feature = map.queryRenderedFeatures(e.point, { layers: [AQ_HIT_LAYER] })[0];
+    if (!feature) {
+      setHoveredCell(null);
+      return;
+    }
+    // Moving away from a clicked point closes its tooltip so the two don't stack.
+    if (clickedPos && Math.hypot(e.point.x - clickedPos.x, e.point.y - clickedPos.y) > 40) {
+      setClickedEmission(null);
+      setClickedPos(null);
+    }
+    setHoveredCell({ cell: feature.properties as AqCellProperties, x: e.point.x, y: e.point.y });
+  };
 
   const handleDblClick = (e: MapLayerMouseEvent) => {
     setPin({ lng: e.lngLat.lng, lat: e.lngLat.lat });
@@ -231,11 +223,12 @@ export function EmissionsMap({ emissionsData, isRefreshing, onRefresh }: Emissio
           onMove={(ev) => setEmissionViewState(ev.viewState)}
           onDblClick={handleDblClick}
           onClick={handleMapClick}
+          onMouseMove={handleMouseMove}
+          onMouseLeave={() => setHoveredCell(null)}
+          cursor={hoveredCell ? 'pointer' : 'grab'}
           onLoad={(e: any) => {
-            try {
-              mapRef.current = e.target;
-              setTimeout(() => setEmissionMapLoaded(true), 100);
-            } catch {}
+            mapRef.current = e.target;
+            setEmissionMapLoaded(true);
           }}
           doubleClickZoom={true}
           maxBounds={[[-180, -60], [-30, 85]]}
@@ -249,24 +242,22 @@ export function EmissionsMap({ emissionsData, isRefreshing, onRefresh }: Emissio
           )}
         </Map>
 
-        {/* DeckGL overlay */}
-        {deckReady && emissionMapLoaded && webglSupported && (
-          <DeckGL
-            viewState={emissionViewState}
-            layers={layers as any}
-            controller={false}
-            style={{ position: "absolute", inset: "0", pointerEvents: "none" }}
-            onViewStateChange={({ viewState: newViewState }) => {
-              if (newViewState && typeof newViewState === 'object' && 'longitude' in newViewState) {
-                setEmissionViewState(newViewState as any);
-              }
-            }}
-          />
-        )}
+        {domainMax && <AirPollutionLegend domainMax={domainMax} />}
 
-        {!webglSupported && (
-          <div className="absolute left-1/2 top-4 z-10 -translate-x-1/2 rounded-md border border-amber-300/40 bg-slate-900/85 px-3 py-2 text-xs text-amber-200">
-            WebGL is unavailable in this browser context. Map overlay is disabled.
+        {/* Cloud cell tooltip - shown on hover */}
+        {hoveredCell && !clickedEmission && (
+          <div
+            className={`${tooltipClasses} max-w-[280px] text-white`}
+            style={{ left: hoveredCell.x + 12, top: hoveredCell.y + 12 }}
+          >
+            <div className="font-bold text-teal-400 mb-1 capitalize">
+              {hoveredCell.cell.state.toLowerCase()} area
+            </div>
+            <div className="space-y-0.5">
+              <div>Total Emissions: <span className="font-medium">{Math.round(hoveredCell.cell.value).toLocaleString()} tons</span></div>
+              <div>Emission Events: <span className="font-medium">{hoveredCell.cell.points}</span></div>
+              <div className="text-xs mt-2 pt-1 border-t border-border/50">Historical record, 2003–2015. Click for event details.</div>
+            </div>
           </div>
         )}
 

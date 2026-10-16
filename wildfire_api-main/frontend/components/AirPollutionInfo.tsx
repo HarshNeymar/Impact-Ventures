@@ -21,14 +21,14 @@ export const AIR_POLLUTION_SLIDES = [
     content: (
       <div className="space-y-3 text-sm leading-relaxed text-white">
         <p>
-          The interactive interface utilizes a system of smoke bubbles to represent regional air quality shifts.
+          The interactive interface uses a layer of smoke clouds to represent regional air quality shifts.
         </p>
         <ul className="list-disc pl-4 space-y-1">
           <li>
             <strong className="text-teal-400">Visual Density:</strong> The color gradient—ranging from light grey to dark—indicates the concentration of pollutants in a specific area.
           </li>
           <li>
-            <strong className="text-teal-400">Detailed Breakdown:</strong> Hovering over any regional bubble reveals a precise Emission Value and a comprehensive breakdown of the specific gases and particles released during a fire event.
+            <strong className="text-teal-400">Detailed Breakdown:</strong> Hovering over a cloud shows the total emissions and number of emission events for that area; clicking an event reveals its precise Emission Value and a comprehensive breakdown of the specific gases and particles released.
           </li>
         </ul>
       </div>
