@@ -160,13 +160,11 @@ export function addPollutionClouds(map: MaplibreMap, events: EmissionsData[]): G
       source: AQ_CELLS_SOURCE,
       paint: {
         'heatmap-weight': ['get', 'w'],
-        // Calibrated on the real data (SPEC.md "Calibration"): radius ~50px at the default
-        // zoom (spec start ~62px smeared regions together). At country-wide zooms neighbouring
-        // cells add up, so intensity is lowest there (~0.68 at the default zoom): high enough
-        // for the worst areas to reach near-black, low enough that the dense Southeast doesn't
-        // merge into one block. Zoomed-in views keep their stronger values.
+        // Calibrated on the real data (SPEC.md "Calibration") and approved by the team in both
+        // zoomed-out and zoomed-in views: radius ~50px at the default zoom (spec start ~62px
+        // smeared regions together), intensity raised so the worst areas reach near-black.
         // Zoom 8 keeps the spec's 260px so neighbouring 1° cells still merge up close.
-        'heatmap-intensity': ['interpolate', ['linear'], ['zoom'], 2, 0.45, 5, 0.84, 8, 1.45],
+        'heatmap-intensity': ['interpolate', ['linear'], ['zoom'], 2, 0.6, 5, 0.96, 8, 1.45],
         'heatmap-radius': ['interpolate', ['exponential', 2], ['zoom'], 2, 24, 3, 37, 5, 89, 8, 260],
         'heatmap-color': ['interpolate', ['linear'], ['heatmap-density'], ...CLOUD_RAMP],
         'heatmap-opacity': 1,
