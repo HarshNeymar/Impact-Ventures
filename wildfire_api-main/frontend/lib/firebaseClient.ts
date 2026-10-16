@@ -3,11 +3,16 @@
 
 import { initializeApp, getApps, getApp } from 'firebase/app'
 import { getAuth, GoogleAuthProvider } from 'firebase/auth'
+import { DEMO_MODE } from '@/lib/demoAuth'
+
+// Demo deployments may have no Firebase project: placeholders let getAuth() initialise
+// without throwing. Auth is never called in demo mode (see AuthProvider).
+const demoFallback = (value: string | undefined, placeholder: string) => value || (DEMO_MODE ? placeholder : undefined)
 
 const firebaseConfig = {
-  apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
-  authDomain: process.env.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN,
-  projectId: process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID,
+  apiKey: demoFallback(process.env.NEXT_PUBLIC_FIREBASE_API_KEY, 'demo-mode'),
+  authDomain: demoFallback(process.env.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN, 'localhost'),
+  projectId: demoFallback(process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID, 'demo-mode'),
 }
 
 // Ensure required env vars exist at runtime (client-safe because they're NEXT_PUBLIC_)

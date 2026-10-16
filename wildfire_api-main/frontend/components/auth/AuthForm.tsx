@@ -9,6 +9,7 @@ import {
   signInWithPopup,
   updateProfile,
 } from 'firebase/auth'
+import { DEMO_MODE, demoSignIn } from '@/lib/demoAuth'
 
 export default function AuthForm() {
   const [isSignUp, setIsSignUp] = useState(false)
@@ -23,7 +24,9 @@ export default function AuthForm() {
     setError(null)
     setLoading(true)
     try {
-      if (isSignUp) {
+      if (DEMO_MODE) {
+        await demoSignIn(email, password)
+      } else if (isSignUp) {
         if (!fullName.trim()) {
           setError('Please enter your full name')
           setLoading(false)
@@ -84,7 +87,8 @@ export default function AuthForm() {
               {error}
             </div>
           )}
-          {/* SSO first */}
+          {/* SSO first (Google and sign-up need Firebase, so demo mode shows only the form) */}
+          {!DEMO_MODE && (<>
           <button
             type="button"
             onClick={handleGoogle}
@@ -106,6 +110,7 @@ export default function AuthForm() {
             <span className="px-3 text-xs text-zinc-500">or</span>
             <div className="flex-1 h-px bg-zinc-800" />
           </div>
+          </>)}
 
           <form onSubmit={handleEmailAuth} className="space-y-4">
             {isSignUp && (
@@ -161,6 +166,7 @@ export default function AuthForm() {
             </button>
           </form>
 
+          {!DEMO_MODE && (
           <div className="mt-5 text-center text-sm text-zinc-400">
             {isSignUp ? (
               <span>
@@ -178,6 +184,7 @@ export default function AuthForm() {
               </span>
             )}
           </div>
+          )}
         </div>
       </div>
     </div>

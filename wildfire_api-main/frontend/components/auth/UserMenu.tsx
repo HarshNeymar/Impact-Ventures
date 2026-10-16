@@ -6,6 +6,7 @@ import { useRouter } from 'next/navigation'
 import { signOut } from 'firebase/auth'
 import { auth } from '@/lib/firebaseClient'
 import { useAuth } from './AuthProvider'
+import { DEMO_MODE, demoSignOut } from '@/lib/demoAuth'
 import { User as UserIcon, LogOut } from 'lucide-react'
 import * as DropdownMenu from '@radix-ui/react-dropdown-menu'
 
@@ -40,6 +41,10 @@ export default function UserMenu() {
 
   const handleLogout = async () => {
     try {
+      if (DEMO_MODE) {
+        demoSignOut()
+        return
+      }
       await signOut(auth)
     } catch (e) {
       // eslint-disable-next-line no-console
